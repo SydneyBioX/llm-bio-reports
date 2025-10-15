@@ -4,9 +4,9 @@ Repository for project code and analytical files.
 
 
 
-- **Automatic_evaluation_code**: includes code for the report generator and MCQ responder implementations.
+- **Automated_evaluation_code**: includes code for the report generator and MCQ responder implementations.
 
-- **Automatic_evaluation_report**: includes LLM-generated summary reports.
+- **Automated_evaluation_report**: includes LLM-generated summary reports.
 
 - **CaseStudies_and_MCQs.xlsx** : cases and MCQ list.
 
