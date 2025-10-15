@@ -8,6 +8,8 @@ Repository for project code and analytical files.
 
 - **Automatic_evaluation_report**: includes LLM-generated summary reports.
 
+- **CaseStudies_and_MCQs.xlsx** : cases and MCQ list.
+
 - **Casestudies**: includes all cases designed for testing LLMs and analytic reports.
 
 - **Human_evaluation**: includes all human-evaluation files.
