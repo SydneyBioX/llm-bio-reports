@@ -1,0 +1,23 @@
+Results
+Analyses of eleven protein markers across our breast cancer cohort identified Ki67 and GATA3 as the two most discriminative factors in the random forest (RF) classification model (Figure 1). Ki67, a widely used indicator of tumor cell proliferation [1], received the highest importance score (100), underscoring the centrality of growth dynamics in determining tumor subtype. GATA3, a master transcription factor specifying luminal lineage in mammary epithelium [2], ranked second (importance score ≈90), reinforcing its established role in classifying luminal breast tumors. The epithelial markers CK8/18 and panCK, which jointly define epithelial cell identity, followed in importance (scores ~70 and ~55, respectively). Their elevated importance indicates that the overall epithelial signature plays a pivotal role in distinguishing tumor phenotypes.
+Consistent with luminal breast cancer profiles, PR (progesterone receptor) emerged among the top half of influential markers (importance score ~40). HER2, a known driver of aggressive disease in a subset of breast cancers [3], exerted moderate impact (score ~25). By contrast, p53 showed relatively lower importance (~20), suggesting that while p53 is frequently altered in breast cancer, its expression alone was less predictive of subtype in this specific model. CD20, a B-cell marker, and CK5, often associated with basal-like or myoepithelial cells [4], had the lowest influence in the classification, indicating that in the present cohort, these markers contributed less to RF-based discrimination.
+Parallel deconvolution [a]of the tumor microenvironment revealed striking heterogeneity in cell type composition across samples (Figure 2). Although tumor cells represented the largest population in most cases (e.g., 1,745 cells in MB-0527, 1,515 cells in MB-0582, and 1,493 cells in MB-0429), several samples showed pronounced enrichment in fibroblasts (e.g., 810 cells in MB-0414, 668 in MB-0869) or immune cells (964 in MB-0238, 738 in MB-0413). The substantial fibroblast presence in certain tumors aligns with previous observations that cancer-associated fibroblasts can promote extracellular matrix remodeling, angiogenesis, and metastatic potential [5]. Moreover, the high proportion of immune cells in select samples (e.g., MB-0238, MB-0413) underscores the possibility that the local immune microenvironment may influence tumor biology or immunotherapeutic responses [6].
+Notably, MB-0921 and MB-0869 contained comparatively high levels of endothelial cells (16 and 1, respectively), reflecting a degree of vascular heterogeneity. The myoepithelial cell fraction was generally low across samples, though MB-0527 and MB-0060 each exhibited modest but non-negligible counts (6 and 2 cells, respectively). The “hypoxia-related” cluster appeared sporadically in MB-0869 (238 cells) and MB-0582 (151 cells), which may indicate spatially constrained regions of reduced oxygen tension. Future investigation employing transcriptomic or spatial-omics platforms could illuminate the functional impact of this putative hypoxic niche on tumor aggressiveness and therapy resistance [7].
+Taken together, these findings highlight proliferation (Ki67) and luminal marker expression (GATA3, CK8/18, PR) as key contributors to tumor subtype classification, while the varying abundances of fibroblasts and immune cells reflect an intricate and heterogeneous tumor microenvironment. This integrative analysis provides a framework for understanding how critical protein markers and the cellular milieu together shape clinical behavior in breast cancer and may inform more precise therapeutic strategies.
+________________
+
+
+References
+1. Gerdes J, et al. J Immunol Methods[b]. 1984; 67(1): 103-112.
+
+2. Asselin-Labat M-L, et al. Cell Stem Cell. 2007; 1(5): 578-589.[c]
+
+3. Slamon DJ, et al. Science. 1987; 235(4785): 177-182.
+
+4. Liu H, et al. Histopathology. 2012; 61(6): 1058-1065.
+[d]
+5. Kalluri R. Nat Rev Cancer. 2016; 16(9): 582-598.
+
+6. Fridman WH, et al. Nat Rev Cancer. 2012; 12(4): 298-306.
+
+7. Rankin EB, Giaccia AJ. Cell Metab. 2016; 23(3): 311-323.

@@ -1,0 +1,22 @@
+Results
+Single-nucleus transcriptomic profiling of injured spinal neurons reveals time-dependent molecular remodeling
+To investigate the molecular dynamics following spinal cord injury (SCI), we analyzed single-nucleus RNA sequencing (snRNA-seq) data from neurons isolated from the mid-thoracic spinal cord of mice (GSE234774). The dataset encompassed 17 injured and 3 uninjured samples across seven timepoints: uninjured, 1, 4, 7, and 14 days, as well as 1 and 2 months post-injury. A total of 22[a] biological replicates yielded 17,548[b] neuronal nuclei across all timepoints.
+Dimensionality reduction using Uniform Manifold Approximation and Projection (UMAP) revealed clear distinctions between injured and uninjured neurons (Fig. 1, left), suggesting a substantial shift in transcriptomic state following injury. Stratification by timepoint (Fig. 1, right) indicated progressive temporal divergence in gene expression, with partially overlapping yet timepoint-specific clustering patterns, consistent with dynamic cellular reprogramming over the injury response timeline.
+
+Time-resolved gene expression identifies a coordinated injury response
+To identify genes whose expression changes linearly with time post-injury, we performed differential expression analysis using a linear model on pseudotime-ordered data. This yielded a robust set of differentially expressed genes (DEGs) (adjusted p < 0.05), many of which exhibited progressive downregulation over time. The top 10 most significant genes included Psap, Ctsb, Hexa, Itm2b, and Sdcbp, with Psap (prosaposin) showing the strongest temporal downregulation (logFC = –0.078, adj. p = 0; Fig. 2). These genes are enriched for lysosomal function, membrane trafficking, and neurodegeneration-related pathways, highlighting the sustained cellular stress and remodeling that occurs post-injury.
+
+Functional enrichment reveals divergent trajectories of neuronal and immune processes
+To interpret the functional significance of time-dependent gene expression changes, we conducted Gene Ontology (GO) enrichment analysis on upregulated and downregulated genes separately.
+Upregulated genes (those increasing over time post-injury) were significantly enriched in neuronal remodeling pathways, including “regulation of membrane potential”, “dendrite development”, and “vesicle-mediated transport in synapse” (Fig. 3, left). These findings suggest a compensatory or regenerative response involving synaptic reorganization and restoration of neuronal excitability, consistent with known plasticity mechanisms that occur after SCI (Fenrich & Rose, 2009).
+Conversely, downregulated genes were associated with immune and stress responses, including “regulation of innate immune response”, “positive regulation of response to biotic stimulus”, and “response to endoplasmic reticulum stress” (Fig. 3, right). This trajectory suggests an early activation of immune pathways that diminishes over time, supporting previous observations that post-SCI inflammation is acute and gradually resolves (Orr & Gensel, 2018). Notably, “alcohol metabolic process” and “regulation of apoptotic signaling pathway” were also enriched, indicating concurrent metabolic shifts and suppression of programmed cell death as the injury stabilizes.
+
+Figures
+Figure 1. UMAP projection of spinal neurons colored by injury condition (left: uninjured vs. injured) and timepoint (right: uninjured, 1d, 4d, 7d, 14d, 1m, 2m). Injured cells exhibit clear transcriptomic divergence with temporal structuring.
+Figure 2. Top 10 differentially expressed genes showing significant linear expression change over time post-injury (adj. p < 0.05). Most of these genes, such as Psap, Ctsb, and Hexa, display progressive downregulation.
+Figure 3. GO enrichment analysis of genes that change over time post-SCI. (Left) Upregulated genes are associated with neuronal remodeling pathways. (Right) Downregulated genes are enriched for immune and stress response processes. Dot size indicates gene count; color reflects adjusted p-value.
+
+References
+* Fenrich, K. K., & Rose, P. K. (2009). Axonal regeneration and sprouting as a potential therapeutic target for spinal cord injury. Neural Regeneration Research, 4(10), 827–837.
+[c][d]
+* Orr, M. B., & Gensel, J. C. (2018). Spinal cord injury scarring and inflammation: Therapies targeting glial and inflammatory responses. Neurotherapeutics, 15(3), 541–553.
