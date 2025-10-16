@@ -1,0 +1,1756 @@
+CaseStudy_ID,Question_ID,Answer,Sample_ID,Model_name,Model_return,Repeat_number,Authors,Google Folder,Data,Task Category
+Kidney_pathway_1,1,B,Kidney_pathway_1B,gemini-2.0-flash,B,1,DK,Pathway,Kidney,Descriptive - information retrival
+Kidney_pathway_1,1,B,Kidney_pathway_1B,gemini-2.0-flash,B,2,DK,Pathway,Kidney,Descriptive - information retrival
+Kidney_pathway_1,1,B,Kidney_pathway_1B,gemini-2.0-flash,B,3,DK,Pathway,Kidney,Descriptive - information retrival
+Kidney_pathway_1,1,B,Kidney_pathway_1B,gemini-2.0-flash,B,4,DK,Pathway,Kidney,Descriptive - information retrival
+Kidney_pathway_1,1,B,Kidney_pathway_1B,gemini-2.0-flash,B,5,DK,Pathway,Kidney,Descriptive - information retrival
+Kidney_pathway_1,1,B,Kidney_pathway_1A,gemini-2.0-flash,B,1,DK,Pathway,Kidney,Descriptive - information retrival
+Kidney_pathway_1,1,B,Kidney_pathway_1A,gemini-2.0-flash,B,2,DK,Pathway,Kidney,Descriptive - information retrival
+Kidney_pathway_1,1,B,Kidney_pathway_1A,gemini-2.0-flash,B,3,DK,Pathway,Kidney,Descriptive - information retrival
+Kidney_pathway_1,1,B,Kidney_pathway_1A,gemini-2.0-flash,B,4,DK,Pathway,Kidney,Descriptive - information retrival
+Kidney_pathway_1,1,B,Kidney_pathway_1A,gemini-2.0-flash,B,5,DK,Pathway,Kidney,Descriptive - information retrival
+Kidney_pathway_1,2,B,Kidney_pathway_1B,gemini-2.0-flash,A,1,DK,Pathway,Kidney,Descriptive - information retrival
+Kidney_pathway_1,2,B,Kidney_pathway_1B,gemini-2.0-flash,A,2,DK,Pathway,Kidney,Descriptive - information retrival
+Kidney_pathway_1,2,B,Kidney_pathway_1B,gemini-2.0-flash,A,3,DK,Pathway,Kidney,Descriptive - information retrival
+Kidney_pathway_1,2,B,Kidney_pathway_1B,gemini-2.0-flash,A,4,DK,Pathway,Kidney,Descriptive - information retrival
+Kidney_pathway_1,2,B,Kidney_pathway_1B,gemini-2.0-flash,A,5,DK,Pathway,Kidney,Descriptive - information retrival
+Kidney_pathway_1,2,B,Kidney_pathway_1A,gemini-2.0-flash,A,1,DK,Pathway,Kidney,Descriptive - information retrival
+Kidney_pathway_1,2,B,Kidney_pathway_1A,gemini-2.0-flash,A,2,DK,Pathway,Kidney,Descriptive - information retrival
+Kidney_pathway_1,2,B,Kidney_pathway_1A,gemini-2.0-flash,A,3,DK,Pathway,Kidney,Descriptive - information retrival
+Kidney_pathway_1,2,B,Kidney_pathway_1A,gemini-2.0-flash,A,4,DK,Pathway,Kidney,Descriptive - information retrival
+Kidney_pathway_1,2,B,Kidney_pathway_1A,gemini-2.0-flash,A,5,DK,Pathway,Kidney,Descriptive - information retrival
+Kidney_pathway_1,3,A,Kidney_pathway_1B,gemini-2.0-flash,A,1,DK,Pathway,Kidney,Descriptive - information retrival
+Kidney_pathway_1,3,A,Kidney_pathway_1B,gemini-2.0-flash,A,2,DK,Pathway,Kidney,Descriptive - information retrival
+Kidney_pathway_1,3,A,Kidney_pathway_1B,gemini-2.0-flash,A,3,DK,Pathway,Kidney,Descriptive - information retrival
+Kidney_pathway_1,3,A,Kidney_pathway_1B,gemini-2.0-flash,A,4,DK,Pathway,Kidney,Descriptive - information retrival
+Kidney_pathway_1,3,A,Kidney_pathway_1B,gemini-2.0-flash,B,5,DK,Pathway,Kidney,Descriptive - information retrival
+Kidney_pathway_1,3,A,Kidney_pathway_1A,gemini-2.0-flash,A,1,DK,Pathway,Kidney,Descriptive - information retrival
+Kidney_pathway_1,3,A,Kidney_pathway_1A,gemini-2.0-flash,A,2,DK,Pathway,Kidney,Descriptive - information retrival
+Kidney_pathway_1,3,A,Kidney_pathway_1A,gemini-2.0-flash,A,3,DK,Pathway,Kidney,Descriptive - information retrival
+Kidney_pathway_1,3,A,Kidney_pathway_1A,gemini-2.0-flash,A,4,DK,Pathway,Kidney,Descriptive - information retrival
+Kidney_pathway_1,3,A,Kidney_pathway_1A,gemini-2.0-flash,A,5,DK,Pathway,Kidney,Descriptive - information retrival
+Kidney_DE_1,1,D,Kidney_DE_1,gemini-2.0-flash,D,1,DK,DE,Kidney,Descriptive - information retrival
+Kidney_DE_1,1,D,Kidney_DE_1,gemini-2.0-flash,D,2,DK,DE,Kidney,Descriptive - information retrival
+Kidney_DE_1,1,D,Kidney_DE_1,gemini-2.0-flash,D,3,DK,DE,Kidney,Descriptive - information retrival
+Kidney_DE_1,1,D,Kidney_DE_1,gemini-2.0-flash,D,4,DK,DE,Kidney,Descriptive - information retrival
+Kidney_DE_1,1,D,Kidney_DE_1,gemini-2.0-flash,D,5,DK,DE,Kidney,Descriptive - information retrival
+Kidney_DE_1,2,B,Kidney_DE_1,gemini-2.0-flash,B,1,DK,DE,Kidney,Descriptive - information retrival
+Kidney_DE_1,2,B,Kidney_DE_1,gemini-2.0-flash,B,2,DK,DE,Kidney,Descriptive - information retrival
+Kidney_DE_1,2,B,Kidney_DE_1,gemini-2.0-flash,B,3,DK,DE,Kidney,Descriptive - information retrival
+Kidney_DE_1,2,B,Kidney_DE_1,gemini-2.0-flash,B,4,DK,DE,Kidney,Descriptive - information retrival
+Kidney_DE_1,2,B,Kidney_DE_1,gemini-2.0-flash,B,5,DK,DE,Kidney,Descriptive - information retrival
+Kidney_DE_1,3,B,Kidney_DE_1,gemini-2.0-flash,B,1,DK,DE,Kidney,Descriptive - information retrival
+Kidney_DE_1,3,B,Kidney_DE_1,gemini-2.0-flash,B,2,DK,DE,Kidney,Descriptive - information retrival
+Kidney_DE_1,3,B,Kidney_DE_1,gemini-2.0-flash,B,3,DK,DE,Kidney,Descriptive - information retrival
+Kidney_DE_1,3,B,Kidney_DE_1,gemini-2.0-flash,B,4,DK,DE,Kidney,Descriptive - information retrival
+Kidney_DE_1,3,B,Kidney_DE_1,gemini-2.0-flash,B,5,DK,DE,Kidney,Descriptive - information retrival
+Kidney_pathway_2,1,A,Kidney_pathway_2,gemini-2.0-flash,A,1,DK,Pathway,Kidney,Biological Inference
+Kidney_pathway_2,1,A,Kidney_pathway_2,gemini-2.0-flash,A,2,DK,Pathway,Kidney,Biological Inference
+Kidney_pathway_2,1,A,Kidney_pathway_2,gemini-2.0-flash,A,3,DK,Pathway,Kidney,Biological Inference
+Kidney_pathway_2,1,A,Kidney_pathway_2,gemini-2.0-flash,A,4,DK,Pathway,Kidney,Biological Inference
+Kidney_pathway_2,1,A,Kidney_pathway_2,gemini-2.0-flash,A,5,DK,Pathway,Kidney,Biological Inference
+Kidney_pathway_2,2,B,Kidney_pathway_2,gemini-2.0-flash,B,1,DK,Pathway,Kidney,Biological Inference
+Kidney_pathway_2,2,B,Kidney_pathway_2,gemini-2.0-flash,B,2,DK,Pathway,Kidney,Biological Inference
+Kidney_pathway_2,2,B,Kidney_pathway_2,gemini-2.0-flash,B,3,DK,Pathway,Kidney,Biological Inference
+Kidney_pathway_2,2,B,Kidney_pathway_2,gemini-2.0-flash,B,4,DK,Pathway,Kidney,Biological Inference
+Kidney_pathway_2,2,B,Kidney_pathway_2,gemini-2.0-flash,B,5,DK,Pathway,Kidney,Biological Inference
+Kidney_pathway_2,3,A,Kidney_pathway_2,gemini-2.0-flash,A,1,DK,Pathway,Kidney,Biological Inference
+Kidney_pathway_2,3,A,Kidney_pathway_2,gemini-2.0-flash,A,2,DK,Pathway,Kidney,Biological Inference
+Kidney_pathway_2,3,A,Kidney_pathway_2,gemini-2.0-flash,A,3,DK,Pathway,Kidney,Biological Inference
+Kidney_pathway_2,3,A,Kidney_pathway_2,gemini-2.0-flash,A,4,DK,Pathway,Kidney,Biological Inference
+Kidney_pathway_2,3,A,Kidney_pathway_2,gemini-2.0-flash,A,5,DK,Pathway,Kidney,Biological Inference
+Covid_CCI_1,1,B,Covid_CCI_1A,gemini-2.0-flash,B,1,YC,CCI,COVID,Biological Inference
+Covid_CCI_1,1,B,Covid_CCI_1A,gemini-2.0-flash,B,2,YC,CCI,COVID,Biological Inference
+Covid_CCI_1,1,B,Covid_CCI_1A,gemini-2.0-flash,B,3,YC,CCI,COVID,Biological Inference
+Covid_CCI_1,1,B,Covid_CCI_1A,gemini-2.0-flash,B,4,YC,CCI,COVID,Biological Inference
+Covid_CCI_1,1,B,Covid_CCI_1A,gemini-2.0-flash,B,5,YC,CCI,COVID,Biological Inference
+Covid_CCI_1,1,B,Covid_CCI_1B,gemini-2.0-flash,B,1,YC,CCI,COVID,Biological Inference
+Covid_CCI_1,1,B,Covid_CCI_1B,gemini-2.0-flash,B,2,YC,CCI,COVID,Biological Inference
+Covid_CCI_1,1,B,Covid_CCI_1B,gemini-2.0-flash,B,3,YC,CCI,COVID,Biological Inference
+Covid_CCI_1,1,B,Covid_CCI_1B,gemini-2.0-flash,B,4,YC,CCI,COVID,Biological Inference
+Covid_CCI_1,1,B,Covid_CCI_1B,gemini-2.0-flash,B,5,YC,CCI,COVID,Biological Inference
+Covid_CCI_1,1,B,Covid_CCI_1C,gemini-2.0-flash,B,1,YC,CCI,COVID,Biological Inference
+Covid_CCI_1,1,B,Covid_CCI_1C,gemini-2.0-flash,B,2,YC,CCI,COVID,Biological Inference
+Covid_CCI_1,1,B,Covid_CCI_1C,gemini-2.0-flash,B,3,YC,CCI,COVID,Biological Inference
+Covid_CCI_1,1,B,Covid_CCI_1C,gemini-2.0-flash,B,4,YC,CCI,COVID,Biological Inference
+Covid_CCI_1,1,B,Covid_CCI_1C,gemini-2.0-flash,B,5,YC,CCI,COVID,Biological Inference
+Covid_CCI_1,1,B,Covid_CCI_1D,gemini-2.0-flash,B,1,YC,CCI,COVID,Biological Inference
+Covid_CCI_1,1,B,Covid_CCI_1D,gemini-2.0-flash,B,2,YC,CCI,COVID,Biological Inference
+Covid_CCI_1,1,B,Covid_CCI_1D,gemini-2.0-flash,B,3,YC,CCI,COVID,Biological Inference
+Covid_CCI_1,1,B,Covid_CCI_1D,gemini-2.0-flash,B,4,YC,CCI,COVID,Biological Inference
+Covid_CCI_1,1,B,Covid_CCI_1D,gemini-2.0-flash,B,5,YC,CCI,COVID,Biological Inference
+Covid_CCI_1,2,C,Covid_CCI_1A,gemini-2.0-flash,C,1,YC,CCI,COVID,Biological Inference
+Covid_CCI_1,2,C,Covid_CCI_1A,gemini-2.0-flash,C,2,YC,CCI,COVID,Biological Inference
+Covid_CCI_1,2,C,Covid_CCI_1A,gemini-2.0-flash,C,3,YC,CCI,COVID,Biological Inference
+Covid_CCI_1,2,C,Covid_CCI_1A,gemini-2.0-flash,C,4,YC,CCI,COVID,Biological Inference
+Covid_CCI_1,2,C,Covid_CCI_1A,gemini-2.0-flash,C,5,YC,CCI,COVID,Biological Inference
+Covid_CCI_1,2,C,Covid_CCI_1B,gemini-2.0-flash,C,1,YC,CCI,COVID,Biological Inference
+Covid_CCI_1,2,C,Covid_CCI_1B,gemini-2.0-flash,C,2,YC,CCI,COVID,Biological Inference
+Covid_CCI_1,2,C,Covid_CCI_1B,gemini-2.0-flash,C,3,YC,CCI,COVID,Biological Inference
+Covid_CCI_1,2,C,Covid_CCI_1B,gemini-2.0-flash,C,4,YC,CCI,COVID,Biological Inference
+Covid_CCI_1,2,C,Covid_CCI_1B,gemini-2.0-flash,C,5,YC,CCI,COVID,Biological Inference
+Covid_CCI_1,2,C,Covid_CCI_1C,gemini-2.0-flash,B,1,YC,CCI,COVID,Biological Inference
+Covid_CCI_1,2,C,Covid_CCI_1C,gemini-2.0-flash,B,2,YC,CCI,COVID,Biological Inference
+Covid_CCI_1,2,C,Covid_CCI_1C,gemini-2.0-flash,B,3,YC,CCI,COVID,Biological Inference
+Covid_CCI_1,2,C,Covid_CCI_1C,gemini-2.0-flash,B,4,YC,CCI,COVID,Biological Inference
+Covid_CCI_1,2,C,Covid_CCI_1C,gemini-2.0-flash,B,5,YC,CCI,COVID,Biological Inference
+Covid_CCI_1,2,C,Covid_CCI_1D,gemini-2.0-flash,B,1,YC,CCI,COVID,Biological Inference
+Covid_CCI_1,2,C,Covid_CCI_1D,gemini-2.0-flash,B,2,YC,CCI,COVID,Biological Inference
+Covid_CCI_1,2,C,Covid_CCI_1D,gemini-2.0-flash,B,3,YC,CCI,COVID,Biological Inference
+Covid_CCI_1,2,C,Covid_CCI_1D,gemini-2.0-flash,B,4,YC,CCI,COVID,Biological Inference
+Covid_CCI_1,2,C,Covid_CCI_1D,gemini-2.0-flash,B,5,YC,CCI,COVID,Biological Inference
+Covid_CCI_1,3,C,Covid_CCI_1A,gemini-2.0-flash,C,1,YC,CCI,COVID,Biological Inference
+Covid_CCI_1,3,C,Covid_CCI_1A,gemini-2.0-flash,C,2,YC,CCI,COVID,Biological Inference
+Covid_CCI_1,3,C,Covid_CCI_1A,gemini-2.0-flash,C,3,YC,CCI,COVID,Biological Inference
+Covid_CCI_1,3,C,Covid_CCI_1A,gemini-2.0-flash,C,4,YC,CCI,COVID,Biological Inference
+Covid_CCI_1,3,C,Covid_CCI_1A,gemini-2.0-flash,C,5,YC,CCI,COVID,Biological Inference
+Covid_CCI_1,3,C,Covid_CCI_1B,gemini-2.0-flash,C,1,YC,CCI,COVID,Biological Inference
+Covid_CCI_1,3,C,Covid_CCI_1B,gemini-2.0-flash,C,2,YC,CCI,COVID,Biological Inference
+Covid_CCI_1,3,C,Covid_CCI_1B,gemini-2.0-flash,C,3,YC,CCI,COVID,Biological Inference
+Covid_CCI_1,3,C,Covid_CCI_1B,gemini-2.0-flash,C,4,YC,CCI,COVID,Biological Inference
+Covid_CCI_1,3,C,Covid_CCI_1B,gemini-2.0-flash,C,5,YC,CCI,COVID,Biological Inference
+Covid_CCI_1,3,C,Covid_CCI_1C,gemini-2.0-flash,C,1,YC,CCI,COVID,Biological Inference
+Covid_CCI_1,3,C,Covid_CCI_1C,gemini-2.0-flash,C,2,YC,CCI,COVID,Biological Inference
+Covid_CCI_1,3,C,Covid_CCI_1C,gemini-2.0-flash,C,3,YC,CCI,COVID,Biological Inference
+Covid_CCI_1,3,C,Covid_CCI_1C,gemini-2.0-flash,C,4,YC,CCI,COVID,Biological Inference
+Covid_CCI_1,3,C,Covid_CCI_1C,gemini-2.0-flash,C,5,YC,CCI,COVID,Biological Inference
+Covid_CCI_1,3,C,Covid_CCI_1D,gemini-2.0-flash,C,1,YC,CCI,COVID,Biological Inference
+Covid_CCI_1,3,C,Covid_CCI_1D,gemini-2.0-flash,C,2,YC,CCI,COVID,Biological Inference
+Covid_CCI_1,3,C,Covid_CCI_1D,gemini-2.0-flash,C,3,YC,CCI,COVID,Biological Inference
+Covid_CCI_1,3,C,Covid_CCI_1D,gemini-2.0-flash,C,4,YC,CCI,COVID,Biological Inference
+Covid_CCI_1,3,C,Covid_CCI_1D,gemini-2.0-flash,C,5,YC,CCI,COVID,Biological Inference
+Covid_CCI_2,1,A,Covid_CCI_2A,gemini-2.0-flash,A,1,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_2,1,A,Covid_CCI_2A,gemini-2.0-flash,A,2,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_2,1,A,Covid_CCI_2A,gemini-2.0-flash,A,3,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_2,1,A,Covid_CCI_2A,gemini-2.0-flash,A,4,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_2,1,A,Covid_CCI_2A,gemini-2.0-flash,A,5,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_2,1,A,Covid_CCI_2B,gemini-2.0-flash,A,1,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_2,1,A,Covid_CCI_2B,gemini-2.0-flash,A,2,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_2,1,A,Covid_CCI_2B,gemini-2.0-flash,A,3,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_2,1,A,Covid_CCI_2B,gemini-2.0-flash,A,4,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_2,1,A,Covid_CCI_2B,gemini-2.0-flash,A,5,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_2,1,A,Covid_CCI_2C,gemini-2.0-flash,A,1,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_2,1,A,Covid_CCI_2C,gemini-2.0-flash,A,2,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_2,1,A,Covid_CCI_2C,gemini-2.0-flash,A,3,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_2,1,A,Covid_CCI_2C,gemini-2.0-flash,A,4,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_2,1,A,Covid_CCI_2C,gemini-2.0-flash,A,5,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_2,1,A,Covid_CCI_2D,gemini-2.0-flash,A,1,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_2,1,A,Covid_CCI_2D,gemini-2.0-flash,A,2,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_2,1,A,Covid_CCI_2D,gemini-2.0-flash,A,3,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_2,1,A,Covid_CCI_2D,gemini-2.0-flash,A,4,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_2,1,A,Covid_CCI_2D,gemini-2.0-flash,A,5,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_2,2,A,Covid_CCI_2A,gemini-2.0-flash,A,1,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_2,2,A,Covid_CCI_2A,gemini-2.0-flash,A,2,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_2,2,A,Covid_CCI_2A,gemini-2.0-flash,A,3,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_2,2,A,Covid_CCI_2A,gemini-2.0-flash,A,4,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_2,2,A,Covid_CCI_2A,gemini-2.0-flash,A,5,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_2,2,A,Covid_CCI_2B,gemini-2.0-flash,A,1,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_2,2,A,Covid_CCI_2B,gemini-2.0-flash,A,2,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_2,2,A,Covid_CCI_2B,gemini-2.0-flash,A,3,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_2,2,A,Covid_CCI_2B,gemini-2.0-flash,A,4,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_2,2,A,Covid_CCI_2B,gemini-2.0-flash,A,5,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_2,2,A,Covid_CCI_2C,gemini-2.0-flash,A,1,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_2,2,A,Covid_CCI_2C,gemini-2.0-flash,A,2,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_2,2,A,Covid_CCI_2C,gemini-2.0-flash,A,3,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_2,2,A,Covid_CCI_2C,gemini-2.0-flash,A,4,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_2,2,A,Covid_CCI_2C,gemini-2.0-flash,A,5,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_2,2,A,Covid_CCI_2D,gemini-2.0-flash,A,1,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_2,2,A,Covid_CCI_2D,gemini-2.0-flash,A,2,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_2,2,A,Covid_CCI_2D,gemini-2.0-flash,A,3,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_2,2,A,Covid_CCI_2D,gemini-2.0-flash,A,4,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_2,2,A,Covid_CCI_2D,gemini-2.0-flash,A,5,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_2,3,C,Covid_CCI_2A,gemini-2.0-flash,C,1,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_2,3,C,Covid_CCI_2A,gemini-2.0-flash,C,2,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_2,3,C,Covid_CCI_2A,gemini-2.0-flash,C,3,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_2,3,C,Covid_CCI_2A,gemini-2.0-flash,C,4,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_2,3,C,Covid_CCI_2A,gemini-2.0-flash,C,5,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_2,3,C,Covid_CCI_2B,gemini-2.0-flash,C,1,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_2,3,C,Covid_CCI_2B,gemini-2.0-flash,C,2,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_2,3,C,Covid_CCI_2B,gemini-2.0-flash,C,3,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_2,3,C,Covid_CCI_2B,gemini-2.0-flash,C,4,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_2,3,C,Covid_CCI_2B,gemini-2.0-flash,C,5,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_2,3,C,Covid_CCI_2C,gemini-2.0-flash,C,1,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_2,3,C,Covid_CCI_2C,gemini-2.0-flash,C,2,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_2,3,C,Covid_CCI_2C,gemini-2.0-flash,C,3,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_2,3,C,Covid_CCI_2C,gemini-2.0-flash,C,4,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_2,3,C,Covid_CCI_2C,gemini-2.0-flash,C,5,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_2,3,C,Covid_CCI_2D,gemini-2.0-flash,C,1,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_2,3,C,Covid_CCI_2D,gemini-2.0-flash,C,2,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_2,3,C,Covid_CCI_2D,gemini-2.0-flash,C,3,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_2,3,C,Covid_CCI_2D,gemini-2.0-flash,C,4,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_2,3,C,Covid_CCI_2D,gemini-2.0-flash,C,5,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_3,1,D,Covid_CCI_3A,gemini-2.0-flash,D,1,YC,CCI,COVID,Biological Inference
+Covid_CCI_3,1,D,Covid_CCI_3A,gemini-2.0-flash,D,2,YC,CCI,COVID,Biological Inference
+Covid_CCI_3,1,D,Covid_CCI_3A,gemini-2.0-flash,D,3,YC,CCI,COVID,Biological Inference
+Covid_CCI_3,1,D,Covid_CCI_3A,gemini-2.0-flash,D,4,YC,CCI,COVID,Biological Inference
+Covid_CCI_3,1,D,Covid_CCI_3A,gemini-2.0-flash,D,5,YC,CCI,COVID,Biological Inference
+Covid_CCI_3,1,D,Covid_CCI_3B,gemini-2.0-flash,B,1,YC,CCI,COVID,Biological Inference
+Covid_CCI_3,1,D,Covid_CCI_3B,gemini-2.0-flash,B,2,YC,CCI,COVID,Biological Inference
+Covid_CCI_3,1,D,Covid_CCI_3B,gemini-2.0-flash,B,3,YC,CCI,COVID,Biological Inference
+Covid_CCI_3,1,D,Covid_CCI_3B,gemini-2.0-flash,B,4,YC,CCI,COVID,Biological Inference
+Covid_CCI_3,1,D,Covid_CCI_3B,gemini-2.0-flash,B,5,YC,CCI,COVID,Biological Inference
+Covid_CCI_3,1,D,Covid_CCI_3C,gemini-2.0-flash,D,1,YC,CCI,COVID,Biological Inference
+Covid_CCI_3,1,D,Covid_CCI_3C,gemini-2.0-flash,D,2,YC,CCI,COVID,Biological Inference
+Covid_CCI_3,1,D,Covid_CCI_3C,gemini-2.0-flash,D,3,YC,CCI,COVID,Biological Inference
+Covid_CCI_3,1,D,Covid_CCI_3C,gemini-2.0-flash,D,4,YC,CCI,COVID,Biological Inference
+Covid_CCI_3,1,D,Covid_CCI_3C,gemini-2.0-flash,D,5,YC,CCI,COVID,Biological Inference
+Covid_CCI_3,1,D,Covid_CCI_3D,gemini-2.0-flash,B,1,YC,CCI,COVID,Biological Inference
+Covid_CCI_3,1,D,Covid_CCI_3D,gemini-2.0-flash,B,2,YC,CCI,COVID,Biological Inference
+Covid_CCI_3,1,D,Covid_CCI_3D,gemini-2.0-flash,B,3,YC,CCI,COVID,Biological Inference
+Covid_CCI_3,1,D,Covid_CCI_3D,gemini-2.0-flash,B,4,YC,CCI,COVID,Biological Inference
+Covid_CCI_3,1,D,Covid_CCI_3D,gemini-2.0-flash,B,5,YC,CCI,COVID,Biological Inference
+Covid_CCI_3,2,C,Covid_CCI_3A,gemini-2.0-flash,C,1,YC,CCI,COVID,Biological Inference
+Covid_CCI_3,2,C,Covid_CCI_3A,gemini-2.0-flash,C,2,YC,CCI,COVID,Biological Inference
+Covid_CCI_3,2,C,Covid_CCI_3A,gemini-2.0-flash,C,3,YC,CCI,COVID,Biological Inference
+Covid_CCI_3,2,C,Covid_CCI_3A,gemini-2.0-flash,C,4,YC,CCI,COVID,Biological Inference
+Covid_CCI_3,2,C,Covid_CCI_3A,gemini-2.0-flash,C,5,YC,CCI,COVID,Biological Inference
+Covid_CCI_3,2,C,Covid_CCI_3B,gemini-2.0-flash,C,1,YC,CCI,COVID,Biological Inference
+Covid_CCI_3,2,C,Covid_CCI_3B,gemini-2.0-flash,C,2,YC,CCI,COVID,Biological Inference
+Covid_CCI_3,2,C,Covid_CCI_3B,gemini-2.0-flash,C,3,YC,CCI,COVID,Biological Inference
+Covid_CCI_3,2,C,Covid_CCI_3B,gemini-2.0-flash,C,4,YC,CCI,COVID,Biological Inference
+Covid_CCI_3,2,C,Covid_CCI_3B,gemini-2.0-flash,C,5,YC,CCI,COVID,Biological Inference
+Covid_CCI_3,2,C,Covid_CCI_3C,gemini-2.0-flash,C,1,YC,CCI,COVID,Biological Inference
+Covid_CCI_3,2,C,Covid_CCI_3C,gemini-2.0-flash,C,2,YC,CCI,COVID,Biological Inference
+Covid_CCI_3,2,C,Covid_CCI_3C,gemini-2.0-flash,C,3,YC,CCI,COVID,Biological Inference
+Covid_CCI_3,2,C,Covid_CCI_3C,gemini-2.0-flash,C,4,YC,CCI,COVID,Biological Inference
+Covid_CCI_3,2,C,Covid_CCI_3C,gemini-2.0-flash,C,5,YC,CCI,COVID,Biological Inference
+Covid_CCI_3,2,C,Covid_CCI_3D,gemini-2.0-flash,C,1,YC,CCI,COVID,Biological Inference
+Covid_CCI_3,2,C,Covid_CCI_3D,gemini-2.0-flash,C,2,YC,CCI,COVID,Biological Inference
+Covid_CCI_3,2,C,Covid_CCI_3D,gemini-2.0-flash,C,3,YC,CCI,COVID,Biological Inference
+Covid_CCI_3,2,C,Covid_CCI_3D,gemini-2.0-flash,C,4,YC,CCI,COVID,Biological Inference
+Covid_CCI_3,2,C,Covid_CCI_3D,gemini-2.0-flash,C,5,YC,CCI,COVID,Biological Inference
+Covid_CCI_3,3,D,Covid_CCI_3A,gemini-2.0-flash,D,1,YC,CCI,COVID,Biological Inference
+Covid_CCI_3,3,D,Covid_CCI_3A,gemini-2.0-flash,D,2,YC,CCI,COVID,Biological Inference
+Covid_CCI_3,3,D,Covid_CCI_3A,gemini-2.0-flash,D,3,YC,CCI,COVID,Biological Inference
+Covid_CCI_3,3,D,Covid_CCI_3A,gemini-2.0-flash,D,4,YC,CCI,COVID,Biological Inference
+Covid_CCI_3,3,D,Covid_CCI_3A,gemini-2.0-flash,D,5,YC,CCI,COVID,Biological Inference
+Covid_CCI_3,3,D,Covid_CCI_3B,gemini-2.0-flash,D,1,YC,CCI,COVID,Biological Inference
+Covid_CCI_3,3,D,Covid_CCI_3B,gemini-2.0-flash,D,2,YC,CCI,COVID,Biological Inference
+Covid_CCI_3,3,D,Covid_CCI_3B,gemini-2.0-flash,D,3,YC,CCI,COVID,Biological Inference
+Covid_CCI_3,3,D,Covid_CCI_3B,gemini-2.0-flash,D,4,YC,CCI,COVID,Biological Inference
+Covid_CCI_3,3,D,Covid_CCI_3B,gemini-2.0-flash,D,5,YC,CCI,COVID,Biological Inference
+Covid_CCI_3,3,D,Covid_CCI_3C,gemini-2.0-flash,D,1,YC,CCI,COVID,Biological Inference
+Covid_CCI_3,3,D,Covid_CCI_3C,gemini-2.0-flash,D,2,YC,CCI,COVID,Biological Inference
+Covid_CCI_3,3,D,Covid_CCI_3C,gemini-2.0-flash,D,3,YC,CCI,COVID,Biological Inference
+Covid_CCI_3,3,D,Covid_CCI_3C,gemini-2.0-flash,D,4,YC,CCI,COVID,Biological Inference
+Covid_CCI_3,3,D,Covid_CCI_3C,gemini-2.0-flash,D,5,YC,CCI,COVID,Biological Inference
+Covid_CCI_3,3,D,Covid_CCI_3D,gemini-2.0-flash,D,1,YC,CCI,COVID,Biological Inference
+Covid_CCI_3,3,D,Covid_CCI_3D,gemini-2.0-flash,D,2,YC,CCI,COVID,Biological Inference
+Covid_CCI_3,3,D,Covid_CCI_3D,gemini-2.0-flash,D,3,YC,CCI,COVID,Biological Inference
+Covid_CCI_3,3,D,Covid_CCI_3D,gemini-2.0-flash,D,4,YC,CCI,COVID,Biological Inference
+Covid_CCI_3,3,D,Covid_CCI_3D,gemini-2.0-flash,D,5,YC,CCI,COVID,Biological Inference
+Covid_CCI_5,1,C,Covid_CCI_5A,gemini-2.0-flash,C,1,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_5,1,C,Covid_CCI_5A,gemini-2.0-flash,C,2,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_5,1,C,Covid_CCI_5A,gemini-2.0-flash,C,3,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_5,1,C,Covid_CCI_5A,gemini-2.0-flash,C,4,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_5,1,C,Covid_CCI_5A,gemini-2.0-flash,C,5,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_5,1,C,Covid_CCI_5B,gemini-2.0-flash,C,1,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_5,1,C,Covid_CCI_5B,gemini-2.0-flash,C,2,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_5,1,C,Covid_CCI_5B,gemini-2.0-flash,C,3,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_5,1,C,Covid_CCI_5B,gemini-2.0-flash,C,4,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_5,1,C,Covid_CCI_5B,gemini-2.0-flash,C,5,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_5,1,C,Covid_CCI_5C,gemini-2.0-flash,C,1,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_5,1,C,Covid_CCI_5C,gemini-2.0-flash,C,2,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_5,1,C,Covid_CCI_5C,gemini-2.0-flash,C,3,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_5,1,C,Covid_CCI_5C,gemini-2.0-flash,C,4,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_5,1,C,Covid_CCI_5C,gemini-2.0-flash,C,5,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_5,1,C,Covid_CCI_5D,gemini-2.0-flash,D,1,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_5,1,C,Covid_CCI_5D,gemini-2.0-flash,D,2,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_5,1,C,Covid_CCI_5D,gemini-2.0-flash,C,3,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_5,1,C,Covid_CCI_5D,gemini-2.0-flash,C,4,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_5,1,C,Covid_CCI_5D,gemini-2.0-flash,C,5,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_5,2,D,Covid_CCI_5A,gemini-2.0-flash,C,1,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_5,2,D,Covid_CCI_5A,gemini-2.0-flash,C,2,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_5,2,D,Covid_CCI_5A,gemini-2.0-flash,C,3,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_5,2,D,Covid_CCI_5A,gemini-2.0-flash,C,4,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_5,2,D,Covid_CCI_5A,gemini-2.0-flash,C,5,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_5,2,D,Covid_CCI_5B,gemini-2.0-flash,D,1,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_5,2,D,Covid_CCI_5B,gemini-2.0-flash,D,2,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_5,2,D,Covid_CCI_5B,gemini-2.0-flash,D,3,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_5,2,D,Covid_CCI_5B,gemini-2.0-flash,D,4,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_5,2,D,Covid_CCI_5B,gemini-2.0-flash,D,5,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_5,2,D,Covid_CCI_5C,gemini-2.0-flash,C,1,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_5,2,D,Covid_CCI_5C,gemini-2.0-flash,C,2,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_5,2,D,Covid_CCI_5C,gemini-2.0-flash,C,3,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_5,2,D,Covid_CCI_5C,gemini-2.0-flash,C,4,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_5,2,D,Covid_CCI_5C,gemini-2.0-flash,C,5,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_5,2,D,Covid_CCI_5D,gemini-2.0-flash,C,1,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_5,2,D,Covid_CCI_5D,gemini-2.0-flash,C,2,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_5,2,D,Covid_CCI_5D,gemini-2.0-flash,C,3,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_5,2,D,Covid_CCI_5D,gemini-2.0-flash,C,4,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_5,2,D,Covid_CCI_5D,gemini-2.0-flash,C,5,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_5,3,B,Covid_CCI_5A,gemini-2.0-flash,A,1,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_5,3,B,Covid_CCI_5A,gemini-2.0-flash,B,2,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_5,3,B,Covid_CCI_5A,gemini-2.0-flash,A,3,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_5,3,B,Covid_CCI_5A,gemini-2.0-flash,B,4,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_5,3,B,Covid_CCI_5A,gemini-2.0-flash,A,5,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_5,3,B,Covid_CCI_5B,gemini-2.0-flash,A,1,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_5,3,B,Covid_CCI_5B,gemini-2.0-flash,A,2,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_5,3,B,Covid_CCI_5B,gemini-2.0-flash,A,3,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_5,3,B,Covid_CCI_5B,gemini-2.0-flash,A,4,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_5,3,B,Covid_CCI_5B,gemini-2.0-flash,A,5,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_5,3,B,Covid_CCI_5C,gemini-2.0-flash,B,1,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_5,3,B,Covid_CCI_5C,gemini-2.0-flash,B,2,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_5,3,B,Covid_CCI_5C,gemini-2.0-flash,B,3,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_5,3,B,Covid_CCI_5C,gemini-2.0-flash,B,4,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_5,3,B,Covid_CCI_5C,gemini-2.0-flash,B,5,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_5,3,B,Covid_CCI_5D,gemini-2.0-flash,A,1,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_5,3,B,Covid_CCI_5D,gemini-2.0-flash,B,2,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_5,3,B,Covid_CCI_5D,gemini-2.0-flash,A,3,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_5,3,B,Covid_CCI_5D,gemini-2.0-flash,A,4,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_5,3,B,Covid_CCI_5D,gemini-2.0-flash,A,5,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_6,1,C,Covid_CCI_6A,gemini-2.0-flash,C,1,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_6,1,C,Covid_CCI_6A,gemini-2.0-flash,C,2,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_6,1,C,Covid_CCI_6A,gemini-2.0-flash,C,3,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_6,1,C,Covid_CCI_6A,gemini-2.0-flash,C,4,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_6,1,C,Covid_CCI_6A,gemini-2.0-flash,C,5,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_6,1,C,Covid_CCI_6B,gemini-2.0-flash,C,1,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_6,1,C,Covid_CCI_6B,gemini-2.0-flash,C,2,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_6,1,C,Covid_CCI_6B,gemini-2.0-flash,C,3,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_6,1,C,Covid_CCI_6B,gemini-2.0-flash,C,4,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_6,1,C,Covid_CCI_6B,gemini-2.0-flash,C,5,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_6,1,C,Covid_CCI_6C,gemini-2.0-flash,C,1,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_6,1,C,Covid_CCI_6C,gemini-2.0-flash,C,2,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_6,1,C,Covid_CCI_6C,gemini-2.0-flash,C,3,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_6,1,C,Covid_CCI_6C,gemini-2.0-flash,C,4,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_6,1,C,Covid_CCI_6C,gemini-2.0-flash,C,5,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_6,1,C,Covid_CCI_6D,gemini-2.0-flash,C,1,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_6,1,C,Covid_CCI_6D,gemini-2.0-flash,C,2,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_6,1,C,Covid_CCI_6D,gemini-2.0-flash,C,3,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_6,1,C,Covid_CCI_6D,gemini-2.0-flash,C,4,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_6,1,C,Covid_CCI_6D,gemini-2.0-flash,C,5,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_6,2,D,Covid_CCI_6A,gemini-2.0-flash,A,1,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_6,2,D,Covid_CCI_6A,gemini-2.0-flash,D,2,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_6,2,D,Covid_CCI_6A,gemini-2.0-flash,A,3,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_6,2,D,Covid_CCI_6A,gemini-2.0-flash,A,4,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_6,2,D,Covid_CCI_6A,gemini-2.0-flash,A,5,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_6,2,D,Covid_CCI_6B,gemini-2.0-flash,D,1,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_6,2,D,Covid_CCI_6B,gemini-2.0-flash,D,2,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_6,2,D,Covid_CCI_6B,gemini-2.0-flash,D,3,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_6,2,D,Covid_CCI_6B,gemini-2.0-flash,D,4,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_6,2,D,Covid_CCI_6B,gemini-2.0-flash,D,5,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_6,2,D,Covid_CCI_6C,gemini-2.0-flash,D,1,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_6,2,D,Covid_CCI_6C,gemini-2.0-flash,D,2,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_6,2,D,Covid_CCI_6C,gemini-2.0-flash,D,3,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_6,2,D,Covid_CCI_6C,gemini-2.0-flash,D,4,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_6,2,D,Covid_CCI_6C,gemini-2.0-flash,D,5,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_6,2,D,Covid_CCI_6D,gemini-2.0-flash,D,1,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_6,2,D,Covid_CCI_6D,gemini-2.0-flash,D,2,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_6,2,D,Covid_CCI_6D,gemini-2.0-flash,D,3,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_6,2,D,Covid_CCI_6D,gemini-2.0-flash,D,4,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_6,2,D,Covid_CCI_6D,gemini-2.0-flash,D,5,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_6,3,D,Covid_CCI_6A,gemini-2.0-flash,A,1,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_6,3,D,Covid_CCI_6A,gemini-2.0-flash,A,2,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_6,3,D,Covid_CCI_6A,gemini-2.0-flash,A,3,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_6,3,D,Covid_CCI_6A,gemini-2.0-flash,A,4,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_6,3,D,Covid_CCI_6A,gemini-2.0-flash,A,5,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_6,3,D,Covid_CCI_6B,gemini-2.0-flash,D,1,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_6,3,D,Covid_CCI_6B,gemini-2.0-flash,D,2,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_6,3,D,Covid_CCI_6B,gemini-2.0-flash,D,3,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_6,3,D,Covid_CCI_6B,gemini-2.0-flash,D,4,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_6,3,D,Covid_CCI_6B,gemini-2.0-flash,D,5,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_6,3,D,Covid_CCI_6C,gemini-2.0-flash,A,1,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_6,3,D,Covid_CCI_6C,gemini-2.0-flash,A,2,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_6,3,D,Covid_CCI_6C,gemini-2.0-flash,A,3,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_6,3,D,Covid_CCI_6C,gemini-2.0-flash,A,4,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_6,3,D,Covid_CCI_6C,gemini-2.0-flash,A,5,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_6,3,D,Covid_CCI_6D,gemini-2.0-flash,D,1,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_6,3,D,Covid_CCI_6D,gemini-2.0-flash,D,2,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_6,3,D,Covid_CCI_6D,gemini-2.0-flash,D,3,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_6,3,D,Covid_CCI_6D,gemini-2.0-flash,D,4,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_6,3,D,Covid_CCI_6D,gemini-2.0-flash,D,5,YC,CCI,COVID,Descriptive - information retrival
+Covid_DE_1,1,A,Covid_DE_1,gemini-2.0-flash,A,1,DK,DE,,Descriptive - information retrival
+Covid_DE_1,1,A,Covid_DE_1,gemini-2.0-flash,A,2,DK,DE,,Descriptive - information retrival
+Covid_DE_1,1,A,Covid_DE_1,gemini-2.0-flash,A,3,DK,DE,,Descriptive - information retrival
+Covid_DE_1,1,A,Covid_DE_1,gemini-2.0-flash,A,4,DK,DE,,Descriptive - information retrival
+Covid_DE_1,1,A,Covid_DE_1,gemini-2.0-flash,A,5,DK,DE,,Descriptive - information retrival
+Covid_DE_1,2,B,Covid_DE_1,gemini-2.0-flash,B,1,DK,DE,,Descriptive - information retrival
+Covid_DE_1,2,B,Covid_DE_1,gemini-2.0-flash,B,2,DK,DE,,Descriptive - information retrival
+Covid_DE_1,2,B,Covid_DE_1,gemini-2.0-flash,B,3,DK,DE,,Descriptive - information retrival
+Covid_DE_1,2,B,Covid_DE_1,gemini-2.0-flash,B,4,DK,DE,,Descriptive - information retrival
+Covid_DE_1,2,B,Covid_DE_1,gemini-2.0-flash,B,5,DK,DE,,Descriptive - information retrival
+Covid_DE_1,3,C,Covid_DE_1,gemini-2.0-flash,C,1,DK,DE,,Descriptive - information retrival
+Covid_DE_1,3,C,Covid_DE_1,gemini-2.0-flash,A,2,DK,DE,,Descriptive - information retrival
+Covid_DE_1,3,C,Covid_DE_1,gemini-2.0-flash,C,3,DK,DE,,Descriptive - information retrival
+Covid_DE_1,3,C,Covid_DE_1,gemini-2.0-flash,A,4,DK,DE,,Descriptive - information retrival
+Covid_DE_1,3,C,Covid_DE_1,gemini-2.0-flash,A,5,DK,DE,,Descriptive - information retrival
+Breast_Cancer_spatiallocations_1,1,A,Breast_Cancer_spatiallocations_1A,gemini-2.0-flash,D,1,RJ,Spatial,Breast Cancer,Descriptive - information retrival
+Breast_Cancer_spatiallocations_1,1,A,Breast_Cancer_spatiallocations_1A,gemini-2.0-flash,D,2,RJ,Spatial,Breast Cancer,Descriptive - information retrival
+Breast_Cancer_spatiallocations_1,1,A,Breast_Cancer_spatiallocations_1A,gemini-2.0-flash,D,3,RJ,Spatial,Breast Cancer,Descriptive - information retrival
+Breast_Cancer_spatiallocations_1,1,A,Breast_Cancer_spatiallocations_1A,gemini-2.0-flash,D,4,RJ,Spatial,Breast Cancer,Descriptive - information retrival
+Breast_Cancer_spatiallocations_1,1,A,Breast_Cancer_spatiallocations_1A,gemini-2.0-flash,D,5,RJ,Spatial,Breast Cancer,Descriptive - information retrival
+Breast_Cancer_spatiallocations_1,1,A,Breast_Cancer_spatiallocations_1B,gemini-2.0-flash,A,1,RJ,Spatial,Breast Cancer,Descriptive - information retrival
+Breast_Cancer_spatiallocations_1,1,A,Breast_Cancer_spatiallocations_1B,gemini-2.0-flash,A,2,RJ,Spatial,Breast Cancer,Descriptive - information retrival
+Breast_Cancer_spatiallocations_1,1,A,Breast_Cancer_spatiallocations_1B,gemini-2.0-flash,A,3,RJ,Spatial,Breast Cancer,Descriptive - information retrival
+Breast_Cancer_spatiallocations_1,1,A,Breast_Cancer_spatiallocations_1B,gemini-2.0-flash,A,4,RJ,Spatial,Breast Cancer,Descriptive - information retrival
+Breast_Cancer_spatiallocations_1,1,A,Breast_Cancer_spatiallocations_1B,gemini-2.0-flash,A,5,RJ,Spatial,Breast Cancer,Descriptive - information retrival
+Breast_Cancer_spatiallocations_1,2,A,Breast_Cancer_spatiallocations_1A,gemini-2.0-flash,A,1,RJ,Spatial,Breast Cancer,Descriptive - information retrival
+Breast_Cancer_spatiallocations_1,2,A,Breast_Cancer_spatiallocations_1A,gemini-2.0-flash,A,2,RJ,Spatial,Breast Cancer,Descriptive - information retrival
+Breast_Cancer_spatiallocations_1,2,A,Breast_Cancer_spatiallocations_1A,gemini-2.0-flash,A,3,RJ,Spatial,Breast Cancer,Descriptive - information retrival
+Breast_Cancer_spatiallocations_1,2,A,Breast_Cancer_spatiallocations_1A,gemini-2.0-flash,A,4,RJ,Spatial,Breast Cancer,Descriptive - information retrival
+Breast_Cancer_spatiallocations_1,2,A,Breast_Cancer_spatiallocations_1A,gemini-2.0-flash,A,5,RJ,Spatial,Breast Cancer,Descriptive - information retrival
+Breast_Cancer_spatiallocations_1,2,A,Breast_Cancer_spatiallocations_1B,gemini-2.0-flash,A,1,RJ,Spatial,Breast Cancer,Descriptive - information retrival
+Breast_Cancer_spatiallocations_1,2,A,Breast_Cancer_spatiallocations_1B,gemini-2.0-flash,A,2,RJ,Spatial,Breast Cancer,Descriptive - information retrival
+Breast_Cancer_spatiallocations_1,2,A,Breast_Cancer_spatiallocations_1B,gemini-2.0-flash,A,3,RJ,Spatial,Breast Cancer,Descriptive - information retrival
+Breast_Cancer_spatiallocations_1,2,A,Breast_Cancer_spatiallocations_1B,gemini-2.0-flash,A,4,RJ,Spatial,Breast Cancer,Descriptive - information retrival
+Breast_Cancer_spatiallocations_1,2,A,Breast_Cancer_spatiallocations_1B,gemini-2.0-flash,A,5,RJ,Spatial,Breast Cancer,Descriptive - information retrival
+Breast_Cancer_spatiallocations_1,3,D,Breast_Cancer_spatiallocations_1A,gemini-2.0-flash,A,1,RJ,Spatial,Breast Cancer,Descriptive - information retrival
+Breast_Cancer_spatiallocations_1,3,D,Breast_Cancer_spatiallocations_1A,gemini-2.0-flash,A,2,RJ,Spatial,Breast Cancer,Descriptive - information retrival
+Breast_Cancer_spatiallocations_1,3,D,Breast_Cancer_spatiallocations_1A,gemini-2.0-flash,A,3,RJ,Spatial,Breast Cancer,Descriptive - information retrival
+Breast_Cancer_spatiallocations_1,3,D,Breast_Cancer_spatiallocations_1A,gemini-2.0-flash,A,4,RJ,Spatial,Breast Cancer,Descriptive - information retrival
+Breast_Cancer_spatiallocations_1,3,D,Breast_Cancer_spatiallocations_1A,gemini-2.0-flash,A,5,RJ,Spatial,Breast Cancer,Descriptive - information retrival
+Breast_Cancer_spatiallocations_1,3,D,Breast_Cancer_spatiallocations_1B,gemini-2.0-flash,A,1,RJ,Spatial,Breast Cancer,Descriptive - information retrival
+Breast_Cancer_spatiallocations_1,3,D,Breast_Cancer_spatiallocations_1B,gemini-2.0-flash,A,2,RJ,Spatial,Breast Cancer,Descriptive - information retrival
+Breast_Cancer_spatiallocations_1,3,D,Breast_Cancer_spatiallocations_1B,gemini-2.0-flash,A,3,RJ,Spatial,Breast Cancer,Descriptive - information retrival
+Breast_Cancer_spatiallocations_1,3,D,Breast_Cancer_spatiallocations_1B,gemini-2.0-flash,A,4,RJ,Spatial,Breast Cancer,Descriptive - information retrival
+Breast_Cancer_spatiallocations_1,3,D,Breast_Cancer_spatiallocations_1B,gemini-2.0-flash,A,5,RJ,Spatial,Breast Cancer,Descriptive - information retrival
+Breast_Cancer_umap_2,1,A,Breast_Cancer_umap_2A,gemini-2.0-flash,D,1,RJ,Spatial,Breast Cancer,Descriptive - information retrival
+Breast_Cancer_umap_2,1,A,Breast_Cancer_umap_2A,gemini-2.0-flash,D,2,RJ,Spatial,Breast Cancer,Descriptive - information retrival
+Breast_Cancer_umap_2,1,A,Breast_Cancer_umap_2A,gemini-2.0-flash,D,3,RJ,Spatial,Breast Cancer,Descriptive - information retrival
+Breast_Cancer_umap_2,1,A,Breast_Cancer_umap_2A,gemini-2.0-flash,D,4,RJ,Spatial,Breast Cancer,Descriptive - information retrival
+Breast_Cancer_umap_2,1,A,Breast_Cancer_umap_2A,gemini-2.0-flash,D,5,RJ,Spatial,Breast Cancer,Descriptive - information retrival
+Breast_Cancer_umap_2,1,A,Breast_Cancer_umap_2B,gemini-2.0-flash,A,1,RJ,Spatial,Breast Cancer,Descriptive - information retrival
+Breast_Cancer_umap_2,1,A,Breast_Cancer_umap_2B,gemini-2.0-flash,A,2,RJ,Spatial,Breast Cancer,Descriptive - information retrival
+Breast_Cancer_umap_2,1,A,Breast_Cancer_umap_2B,gemini-2.0-flash,A,3,RJ,Spatial,Breast Cancer,Descriptive - information retrival
+Breast_Cancer_umap_2,1,A,Breast_Cancer_umap_2B,gemini-2.0-flash,A,4,RJ,Spatial,Breast Cancer,Descriptive - information retrival
+Breast_Cancer_umap_2,1,A,Breast_Cancer_umap_2B,gemini-2.0-flash,A,5,RJ,Spatial,Breast Cancer,Descriptive - information retrival
+Breast_Cancer_umap_2,2,D,Breast_Cancer_umap_2A,gemini-2.0-flash,D,1,RJ,Spatial,Breast Cancer,Descriptive - information retrival
+Breast_Cancer_umap_2,2,D,Breast_Cancer_umap_2A,gemini-2.0-flash,D,2,RJ,Spatial,Breast Cancer,Descriptive - information retrival
+Breast_Cancer_umap_2,2,D,Breast_Cancer_umap_2A,gemini-2.0-flash,D,3,RJ,Spatial,Breast Cancer,Descriptive - information retrival
+Breast_Cancer_umap_2,2,D,Breast_Cancer_umap_2A,gemini-2.0-flash,D,4,RJ,Spatial,Breast Cancer,Descriptive - information retrival
+Breast_Cancer_umap_2,2,D,Breast_Cancer_umap_2A,gemini-2.0-flash,D,5,RJ,Spatial,Breast Cancer,Descriptive - information retrival
+Breast_Cancer_umap_2,2,D,Breast_Cancer_umap_2B,gemini-2.0-flash,B,1,RJ,Spatial,Breast Cancer,Descriptive - information retrival
+Breast_Cancer_umap_2,2,D,Breast_Cancer_umap_2B,gemini-2.0-flash,B,2,RJ,Spatial,Breast Cancer,Descriptive - information retrival
+Breast_Cancer_umap_2,2,D,Breast_Cancer_umap_2B,gemini-2.0-flash,D,3,RJ,Spatial,Breast Cancer,Descriptive - information retrival
+Breast_Cancer_umap_2,2,D,Breast_Cancer_umap_2B,gemini-2.0-flash,B,4,RJ,Spatial,Breast Cancer,Descriptive - information retrival
+Breast_Cancer_umap_2,2,D,Breast_Cancer_umap_2B,gemini-2.0-flash,D,5,RJ,Spatial,Breast Cancer,Descriptive - information retrival
+Breast_Cancer_umap_2,3,C,Breast_Cancer_umap_2A,gemini-2.0-flash,A,1,RJ,Spatial,Breast Cancer,Descriptive - information retrival
+Breast_Cancer_umap_2,3,C,Breast_Cancer_umap_2A,gemini-2.0-flash,A,2,RJ,Spatial,Breast Cancer,Descriptive - information retrival
+Breast_Cancer_umap_2,3,C,Breast_Cancer_umap_2A,gemini-2.0-flash,A,3,RJ,Spatial,Breast Cancer,Descriptive - information retrival
+Breast_Cancer_umap_2,3,C,Breast_Cancer_umap_2A,gemini-2.0-flash,A,4,RJ,Spatial,Breast Cancer,Descriptive - information retrival
+Breast_Cancer_umap_2,3,C,Breast_Cancer_umap_2A,gemini-2.0-flash,A,5,RJ,Spatial,Breast Cancer,Descriptive - information retrival
+Breast_Cancer_umap_2,3,C,Breast_Cancer_umap_2B,gemini-2.0-flash,A,1,RJ,Spatial,Breast Cancer,Descriptive - information retrival
+Breast_Cancer_umap_2,3,C,Breast_Cancer_umap_2B,gemini-2.0-flash,A,2,RJ,Spatial,Breast Cancer,Descriptive - information retrival
+Breast_Cancer_umap_2,3,C,Breast_Cancer_umap_2B,gemini-2.0-flash,A,3,RJ,Spatial,Breast Cancer,Descriptive - information retrival
+Breast_Cancer_umap_2,3,C,Breast_Cancer_umap_2B,gemini-2.0-flash,A,4,RJ,Spatial,Breast Cancer,Descriptive - information retrival
+Breast_Cancer_umap_2,3,C,Breast_Cancer_umap_2B,gemini-2.0-flash,A,5,RJ,Spatial,Breast Cancer,Descriptive - information retrival
+Breast_Cancer_spatialCCI_3,1,D,Breast_Cancer_spatialCCI_3A,gemini-2.0-flash,B,1,RJ,Spatial,Breast Cancer,Biological Inference
+Breast_Cancer_spatialCCI_3,1,D,Breast_Cancer_spatialCCI_3A,gemini-2.0-flash,B,2,RJ,Spatial,Breast Cancer,Biological Inference
+Breast_Cancer_spatialCCI_3,1,D,Breast_Cancer_spatialCCI_3A,gemini-2.0-flash,B,3,RJ,Spatial,Breast Cancer,Biological Inference
+Breast_Cancer_spatialCCI_3,1,D,Breast_Cancer_spatialCCI_3A,gemini-2.0-flash,B,4,RJ,Spatial,Breast Cancer,Biological Inference
+Breast_Cancer_spatialCCI_3,1,D,Breast_Cancer_spatialCCI_3A,gemini-2.0-flash,B,5,RJ,Spatial,Breast Cancer,Biological Inference
+Breast_Cancer_spatialCCI_3,1,D,Breast_Cancer_spatialCCI_3B,gemini-2.0-flash,D,1,RJ,Spatial,Breast Cancer,Biological Inference
+Breast_Cancer_spatialCCI_3,1,D,Breast_Cancer_spatialCCI_3B,gemini-2.0-flash,D,2,RJ,Spatial,Breast Cancer,Biological Inference
+Breast_Cancer_spatialCCI_3,1,D,Breast_Cancer_spatialCCI_3B,gemini-2.0-flash,D,3,RJ,Spatial,Breast Cancer,Biological Inference
+Breast_Cancer_spatialCCI_3,1,D,Breast_Cancer_spatialCCI_3B,gemini-2.0-flash,D,4,RJ,Spatial,Breast Cancer,Biological Inference
+Breast_Cancer_spatialCCI_3,1,D,Breast_Cancer_spatialCCI_3B,gemini-2.0-flash,D,5,RJ,Spatial,Breast Cancer,Biological Inference
+Breast_Cancer_spatialCCI_3,2,C,Breast_Cancer_spatialCCI_3A,gemini-2.0-flash,C,1,RJ,Spatial,Breast Cancer,Biological Inference
+Breast_Cancer_spatialCCI_3,2,C,Breast_Cancer_spatialCCI_3A,gemini-2.0-flash,C,2,RJ,Spatial,Breast Cancer,Biological Inference
+Breast_Cancer_spatialCCI_3,2,C,Breast_Cancer_spatialCCI_3A,gemini-2.0-flash,C,3,RJ,Spatial,Breast Cancer,Biological Inference
+Breast_Cancer_spatialCCI_3,2,C,Breast_Cancer_spatialCCI_3A,gemini-2.0-flash,C,4,RJ,Spatial,Breast Cancer,Biological Inference
+Breast_Cancer_spatialCCI_3,2,C,Breast_Cancer_spatialCCI_3A,gemini-2.0-flash,C,5,RJ,Spatial,Breast Cancer,Biological Inference
+Breast_Cancer_spatialCCI_3,2,C,Breast_Cancer_spatialCCI_3B,gemini-2.0-flash,C,1,RJ,Spatial,Breast Cancer,Biological Inference
+Breast_Cancer_spatialCCI_3,2,C,Breast_Cancer_spatialCCI_3B,gemini-2.0-flash,C,2,RJ,Spatial,Breast Cancer,Biological Inference
+Breast_Cancer_spatialCCI_3,2,C,Breast_Cancer_spatialCCI_3B,gemini-2.0-flash,C,3,RJ,Spatial,Breast Cancer,Biological Inference
+Breast_Cancer_spatialCCI_3,2,C,Breast_Cancer_spatialCCI_3B,gemini-2.0-flash,C,4,RJ,Spatial,Breast Cancer,Biological Inference
+Breast_Cancer_spatialCCI_3,2,C,Breast_Cancer_spatialCCI_3B,gemini-2.0-flash,C,5,RJ,Spatial,Breast Cancer,Biological Inference
+Breast_Cancer_spatialCCI_3,3,B,Breast_Cancer_spatialCCI_3A,gemini-2.0-flash,A,1,RJ,Spatial,Breast Cancer,Biological Inference
+Breast_Cancer_spatialCCI_3,3,B,Breast_Cancer_spatialCCI_3A,gemini-2.0-flash,A,2,RJ,Spatial,Breast Cancer,Biological Inference
+Breast_Cancer_spatialCCI_3,3,B,Breast_Cancer_spatialCCI_3A,gemini-2.0-flash,A,3,RJ,Spatial,Breast Cancer,Biological Inference
+Breast_Cancer_spatialCCI_3,3,B,Breast_Cancer_spatialCCI_3A,gemini-2.0-flash,A,4,RJ,Spatial,Breast Cancer,Biological Inference
+Breast_Cancer_spatialCCI_3,3,B,Breast_Cancer_spatialCCI_3A,gemini-2.0-flash,A,5,RJ,Spatial,Breast Cancer,Biological Inference
+Breast_Cancer_spatialCCI_3,3,B,Breast_Cancer_spatialCCI_3B,gemini-2.0-flash,B,1,RJ,Spatial,Breast Cancer,Biological Inference
+Breast_Cancer_spatialCCI_3,3,B,Breast_Cancer_spatialCCI_3B,gemini-2.0-flash,B,2,RJ,Spatial,Breast Cancer,Biological Inference
+Breast_Cancer_spatialCCI_3,3,B,Breast_Cancer_spatialCCI_3B,gemini-2.0-flash,B,3,RJ,Spatial,Breast Cancer,Biological Inference
+Breast_Cancer_spatialCCI_3,3,B,Breast_Cancer_spatialCCI_3B,gemini-2.0-flash,B,4,RJ,Spatial,Breast Cancer,Biological Inference
+Breast_Cancer_spatialCCI_3,3,B,Breast_Cancer_spatialCCI_3B,gemini-2.0-flash,B,5,RJ,Spatial,Breast Cancer,Biological Inference
+Breast_Cancer_spatialdomains_4,1,B,Breast_Cancer_spatialdomains_4A,gemini-2.0-flash,B,1,RJ,Spatial,Breast Cancer,Biological Inference
+Breast_Cancer_spatialdomains_4,1,B,Breast_Cancer_spatialdomains_4A,gemini-2.0-flash,B,2,RJ,Spatial,Breast Cancer,Biological Inference
+Breast_Cancer_spatialdomains_4,1,B,Breast_Cancer_spatialdomains_4A,gemini-2.0-flash,B,3,RJ,Spatial,Breast Cancer,Biological Inference
+Breast_Cancer_spatialdomains_4,1,B,Breast_Cancer_spatialdomains_4A,gemini-2.0-flash,B,4,RJ,Spatial,Breast Cancer,Biological Inference
+Breast_Cancer_spatialdomains_4,1,B,Breast_Cancer_spatialdomains_4A,gemini-2.0-flash,B,5,RJ,Spatial,Breast Cancer,Biological Inference
+Breast_Cancer_spatialdomains_4,1,B,Breast_Cancer_spatialdomains_4B,gemini-2.0-flash,B,1,RJ,Spatial,Breast Cancer,Biological Inference
+Breast_Cancer_spatialdomains_4,1,B,Breast_Cancer_spatialdomains_4B,gemini-2.0-flash,B,2,RJ,Spatial,Breast Cancer,Biological Inference
+Breast_Cancer_spatialdomains_4,1,B,Breast_Cancer_spatialdomains_4B,gemini-2.0-flash,B,3,RJ,Spatial,Breast Cancer,Biological Inference
+Breast_Cancer_spatialdomains_4,1,B,Breast_Cancer_spatialdomains_4B,gemini-2.0-flash,B,4,RJ,Spatial,Breast Cancer,Biological Inference
+Breast_Cancer_spatialdomains_4,1,B,Breast_Cancer_spatialdomains_4B,gemini-2.0-flash,B,5,RJ,Spatial,Breast Cancer,Biological Inference
+Breast_Cancer_spatialdomains_4,2,B,Breast_Cancer_spatialdomains_4A,gemini-2.0-flash,B,1,RJ,Spatial,Breast Cancer,Biological Inference
+Breast_Cancer_spatialdomains_4,2,B,Breast_Cancer_spatialdomains_4A,gemini-2.0-flash,B,2,RJ,Spatial,Breast Cancer,Biological Inference
+Breast_Cancer_spatialdomains_4,2,B,Breast_Cancer_spatialdomains_4A,gemini-2.0-flash,B,3,RJ,Spatial,Breast Cancer,Biological Inference
+Breast_Cancer_spatialdomains_4,2,B,Breast_Cancer_spatialdomains_4A,gemini-2.0-flash,B,4,RJ,Spatial,Breast Cancer,Biological Inference
+Breast_Cancer_spatialdomains_4,2,B,Breast_Cancer_spatialdomains_4A,gemini-2.0-flash,B,5,RJ,Spatial,Breast Cancer,Biological Inference
+Breast_Cancer_spatialdomains_4,2,B,Breast_Cancer_spatialdomains_4B,gemini-2.0-flash,B,1,RJ,Spatial,Breast Cancer,Biological Inference
+Breast_Cancer_spatialdomains_4,2,B,Breast_Cancer_spatialdomains_4B,gemini-2.0-flash,B,2,RJ,Spatial,Breast Cancer,Biological Inference
+Breast_Cancer_spatialdomains_4,2,B,Breast_Cancer_spatialdomains_4B,gemini-2.0-flash,B,3,RJ,Spatial,Breast Cancer,Biological Inference
+Breast_Cancer_spatialdomains_4,2,B,Breast_Cancer_spatialdomains_4B,gemini-2.0-flash,B,4,RJ,Spatial,Breast Cancer,Biological Inference
+Breast_Cancer_spatialdomains_4,2,B,Breast_Cancer_spatialdomains_4B,gemini-2.0-flash,B,5,RJ,Spatial,Breast Cancer,Biological Inference
+Breast_Cancer_spatialdomains_4,3,A,Breast_Cancer_spatialdomains_4A,gemini-2.0-flash,A,1,RJ,Spatial,Breast Cancer,Biological Inference
+Breast_Cancer_spatialdomains_4,3,A,Breast_Cancer_spatialdomains_4A,gemini-2.0-flash,A,2,RJ,Spatial,Breast Cancer,Biological Inference
+Breast_Cancer_spatialdomains_4,3,A,Breast_Cancer_spatialdomains_4A,gemini-2.0-flash,A,3,RJ,Spatial,Breast Cancer,Biological Inference
+Breast_Cancer_spatialdomains_4,3,A,Breast_Cancer_spatialdomains_4A,gemini-2.0-flash,A,4,RJ,Spatial,Breast Cancer,Biological Inference
+Breast_Cancer_spatialdomains_4,3,A,Breast_Cancer_spatialdomains_4A,gemini-2.0-flash,A,5,RJ,Spatial,Breast Cancer,Biological Inference
+Breast_Cancer_spatialdomains_4,3,A,Breast_Cancer_spatialdomains_4B,gemini-2.0-flash,A,1,RJ,Spatial,Breast Cancer,Biological Inference
+Breast_Cancer_spatialdomains_4,3,A,Breast_Cancer_spatialdomains_4B,gemini-2.0-flash,A,2,RJ,Spatial,Breast Cancer,Biological Inference
+Breast_Cancer_spatialdomains_4,3,A,Breast_Cancer_spatialdomains_4B,gemini-2.0-flash,A,3,RJ,Spatial,Breast Cancer,Biological Inference
+Breast_Cancer_spatialdomains_4,3,A,Breast_Cancer_spatialdomains_4B,gemini-2.0-flash,A,4,RJ,Spatial,Breast Cancer,Biological Inference
+Breast_Cancer_spatialdomains_4,3,A,Breast_Cancer_spatialdomains_4B,gemini-2.0-flash,A,5,RJ,Spatial,Breast Cancer,Biological Inference
+lung_Cancer_spatiallocations_1,1,A,lung_Cancer_spatiallocations_1A,gemini-2.0-flash,A,1,RJ,Spatial,lung Cancer,Descriptive - information retrival
+lung_Cancer_spatiallocations_1,1,A,lung_Cancer_spatiallocations_1A,gemini-2.0-flash,A,2,RJ,Spatial,lung Cancer,Descriptive - information retrival
+lung_Cancer_spatiallocations_1,1,A,lung_Cancer_spatiallocations_1A,gemini-2.0-flash,A,3,RJ,Spatial,lung Cancer,Descriptive - information retrival
+lung_Cancer_spatiallocations_1,1,A,lung_Cancer_spatiallocations_1A,gemini-2.0-flash,A,4,RJ,Spatial,lung Cancer,Descriptive - information retrival
+lung_Cancer_spatiallocations_1,1,A,lung_Cancer_spatiallocations_1A,gemini-2.0-flash,A,5,RJ,Spatial,lung Cancer,Descriptive - information retrival
+lung_Cancer_spatiallocations_1,1,A,lung_Cancer_spatiallocations_1B,gemini-2.0-flash,A,1,RJ,Spatial,lung Cancer,Descriptive - information retrival
+lung_Cancer_spatiallocations_1,1,A,lung_Cancer_spatiallocations_1B,gemini-2.0-flash,A,2,RJ,Spatial,lung Cancer,Descriptive - information retrival
+lung_Cancer_spatiallocations_1,1,A,lung_Cancer_spatiallocations_1B,gemini-2.0-flash,A,3,RJ,Spatial,lung Cancer,Descriptive - information retrival
+lung_Cancer_spatiallocations_1,1,A,lung_Cancer_spatiallocations_1B,gemini-2.0-flash,A,4,RJ,Spatial,lung Cancer,Descriptive - information retrival
+lung_Cancer_spatiallocations_1,1,A,lung_Cancer_spatiallocations_1B,gemini-2.0-flash,A,5,RJ,Spatial,lung Cancer,Descriptive - information retrival
+lung_Cancer_spatiallocations_1,2,A,lung_Cancer_spatiallocations_1A,gemini-2.0-flash,B,1,RJ,Spatial,lung Cancer,Descriptive - information retrival
+lung_Cancer_spatiallocations_1,2,A,lung_Cancer_spatiallocations_1A,gemini-2.0-flash,B,2,RJ,Spatial,lung Cancer,Descriptive - information retrival
+lung_Cancer_spatiallocations_1,2,A,lung_Cancer_spatiallocations_1A,gemini-2.0-flash,B,3,RJ,Spatial,lung Cancer,Descriptive - information retrival
+lung_Cancer_spatiallocations_1,2,A,lung_Cancer_spatiallocations_1A,gemini-2.0-flash,B,4,RJ,Spatial,lung Cancer,Descriptive - information retrival
+lung_Cancer_spatiallocations_1,2,A,lung_Cancer_spatiallocations_1A,gemini-2.0-flash,B,5,RJ,Spatial,lung Cancer,Descriptive - information retrival
+lung_Cancer_spatiallocations_1,2,A,lung_Cancer_spatiallocations_1B,gemini-2.0-flash,D,1,RJ,Spatial,lung Cancer,Descriptive - information retrival
+lung_Cancer_spatiallocations_1,2,A,lung_Cancer_spatiallocations_1B,gemini-2.0-flash,D,2,RJ,Spatial,lung Cancer,Descriptive - information retrival
+lung_Cancer_spatiallocations_1,2,A,lung_Cancer_spatiallocations_1B,gemini-2.0-flash,D,3,RJ,Spatial,lung Cancer,Descriptive - information retrival
+lung_Cancer_spatiallocations_1,2,A,lung_Cancer_spatiallocations_1B,gemini-2.0-flash,D,4,RJ,Spatial,lung Cancer,Descriptive - information retrival
+lung_Cancer_spatiallocations_1,2,A,lung_Cancer_spatiallocations_1B,gemini-2.0-flash,D,5,RJ,Spatial,lung Cancer,Descriptive - information retrival
+lung_Cancer_spatiallocations_1,3,D,lung_Cancer_spatiallocations_1A,gemini-2.0-flash,D,1,RJ,Spatial,lung Cancer,Descriptive - information retrival
+lung_Cancer_spatiallocations_1,3,D,lung_Cancer_spatiallocations_1A,gemini-2.0-flash,D,2,RJ,Spatial,lung Cancer,Descriptive - information retrival
+lung_Cancer_spatiallocations_1,3,D,lung_Cancer_spatiallocations_1A,gemini-2.0-flash,D,3,RJ,Spatial,lung Cancer,Descriptive - information retrival
+lung_Cancer_spatiallocations_1,3,D,lung_Cancer_spatiallocations_1A,gemini-2.0-flash,D,4,RJ,Spatial,lung Cancer,Descriptive - information retrival
+lung_Cancer_spatiallocations_1,3,D,lung_Cancer_spatiallocations_1A,gemini-2.0-flash,D,5,RJ,Spatial,lung Cancer,Descriptive - information retrival
+lung_Cancer_spatiallocations_1,3,D,lung_Cancer_spatiallocations_1B,gemini-2.0-flash,A,1,RJ,Spatial,lung Cancer,Descriptive - information retrival
+lung_Cancer_spatiallocations_1,3,D,lung_Cancer_spatiallocations_1B,gemini-2.0-flash,A,2,RJ,Spatial,lung Cancer,Descriptive - information retrival
+lung_Cancer_spatiallocations_1,3,D,lung_Cancer_spatiallocations_1B,gemini-2.0-flash,A,3,RJ,Spatial,lung Cancer,Descriptive - information retrival
+lung_Cancer_spatiallocations_1,3,D,lung_Cancer_spatiallocations_1B,gemini-2.0-flash,A,4,RJ,Spatial,lung Cancer,Descriptive - information retrival
+lung_Cancer_spatiallocations_1,3,D,lung_Cancer_spatiallocations_1B,gemini-2.0-flash,A,5,RJ,Spatial,lung Cancer,Descriptive - information retrival
+lung_Cancer_umap_2,1,A,lung_Cancer_umap_2A,gemini-2.0-flash,A,1,RJ,Spatial,lung Cancer,Descriptive - information retrival
+lung_Cancer_umap_2,1,A,lung_Cancer_umap_2A,gemini-2.0-flash,A,2,RJ,Spatial,lung Cancer,Descriptive - information retrival
+lung_Cancer_umap_2,1,A,lung_Cancer_umap_2A,gemini-2.0-flash,A,3,RJ,Spatial,lung Cancer,Descriptive - information retrival
+lung_Cancer_umap_2,1,A,lung_Cancer_umap_2A,gemini-2.0-flash,A,4,RJ,Spatial,lung Cancer,Descriptive - information retrival
+lung_Cancer_umap_2,1,A,lung_Cancer_umap_2A,gemini-2.0-flash,A,5,RJ,Spatial,lung Cancer,Descriptive - information retrival
+lung_Cancer_umap_2,1,A,lung_Cancer_umap_2B,gemini-2.0-flash,A,1,RJ,Spatial,lung Cancer,Descriptive - information retrival
+lung_Cancer_umap_2,1,A,lung_Cancer_umap_2B,gemini-2.0-flash,A,2,RJ,Spatial,lung Cancer,Descriptive - information retrival
+lung_Cancer_umap_2,1,A,lung_Cancer_umap_2B,gemini-2.0-flash,A,3,RJ,Spatial,lung Cancer,Descriptive - information retrival
+lung_Cancer_umap_2,1,A,lung_Cancer_umap_2B,gemini-2.0-flash,A,4,RJ,Spatial,lung Cancer,Descriptive - information retrival
+lung_Cancer_umap_2,1,A,lung_Cancer_umap_2B,gemini-2.0-flash,A,5,RJ,Spatial,lung Cancer,Descriptive - information retrival
+lung_Cancer_umap_2,2,D,lung_Cancer_umap_2A,gemini-2.0-flash,C,1,RJ,Spatial,lung Cancer,Descriptive - information retrival
+lung_Cancer_umap_2,2,D,lung_Cancer_umap_2A,gemini-2.0-flash,C,2,RJ,Spatial,lung Cancer,Descriptive - information retrival
+lung_Cancer_umap_2,2,D,lung_Cancer_umap_2A,gemini-2.0-flash,C,3,RJ,Spatial,lung Cancer,Descriptive - information retrival
+lung_Cancer_umap_2,2,D,lung_Cancer_umap_2A,gemini-2.0-flash,C,4,RJ,Spatial,lung Cancer,Descriptive - information retrival
+lung_Cancer_umap_2,2,D,lung_Cancer_umap_2A,gemini-2.0-flash,C,5,RJ,Spatial,lung Cancer,Descriptive - information retrival
+lung_Cancer_umap_2,2,D,lung_Cancer_umap_2B,gemini-2.0-flash,C,1,RJ,Spatial,lung Cancer,Descriptive - information retrival
+lung_Cancer_umap_2,2,D,lung_Cancer_umap_2B,gemini-2.0-flash,C,2,RJ,Spatial,lung Cancer,Descriptive - information retrival
+lung_Cancer_umap_2,2,D,lung_Cancer_umap_2B,gemini-2.0-flash,C,3,RJ,Spatial,lung Cancer,Descriptive - information retrival
+lung_Cancer_umap_2,2,D,lung_Cancer_umap_2B,gemini-2.0-flash,C,4,RJ,Spatial,lung Cancer,Descriptive - information retrival
+lung_Cancer_umap_2,2,D,lung_Cancer_umap_2B,gemini-2.0-flash,C,5,RJ,Spatial,lung Cancer,Descriptive - information retrival
+lung_Cancer_umap_2,3,D,lung_Cancer_umap_2A,gemini-2.0-flash,D,1,RJ,Spatial,lung Cancer,Descriptive - information retrival
+lung_Cancer_umap_2,3,D,lung_Cancer_umap_2A,gemini-2.0-flash,D,2,RJ,Spatial,lung Cancer,Descriptive - information retrival
+lung_Cancer_umap_2,3,D,lung_Cancer_umap_2A,gemini-2.0-flash,D,3,RJ,Spatial,lung Cancer,Descriptive - information retrival
+lung_Cancer_umap_2,3,D,lung_Cancer_umap_2A,gemini-2.0-flash,D,4,RJ,Spatial,lung Cancer,Descriptive - information retrival
+lung_Cancer_umap_2,3,D,lung_Cancer_umap_2A,gemini-2.0-flash,D,5,RJ,Spatial,lung Cancer,Descriptive - information retrival
+lung_Cancer_umap_2,3,D,lung_Cancer_umap_2B,gemini-2.0-flash,D,1,RJ,Spatial,lung Cancer,Descriptive - information retrival
+lung_Cancer_umap_2,3,D,lung_Cancer_umap_2B,gemini-2.0-flash,D,2,RJ,Spatial,lung Cancer,Descriptive - information retrival
+lung_Cancer_umap_2,3,D,lung_Cancer_umap_2B,gemini-2.0-flash,D,3,RJ,Spatial,lung Cancer,Descriptive - information retrival
+lung_Cancer_umap_2,3,D,lung_Cancer_umap_2B,gemini-2.0-flash,D,4,RJ,Spatial,lung Cancer,Descriptive - information retrival
+lung_Cancer_umap_2,3,D,lung_Cancer_umap_2B,gemini-2.0-flash,D,5,RJ,Spatial,lung Cancer,Descriptive - information retrival
+lung_Cancer_spatialCCI_3,1,D,lung_Cancer_spatialCCI_3A,gemini-2.0-flash,A,1,RJ,Spatial,lung Cancer,Biological Inference
+lung_Cancer_spatialCCI_3,1,D,lung_Cancer_spatialCCI_3A,gemini-2.0-flash,A,2,RJ,Spatial,lung Cancer,Biological Inference
+lung_Cancer_spatialCCI_3,1,D,lung_Cancer_spatialCCI_3A,gemini-2.0-flash,A,3,RJ,Spatial,lung Cancer,Biological Inference
+lung_Cancer_spatialCCI_3,1,D,lung_Cancer_spatialCCI_3A,gemini-2.0-flash,A,4,RJ,Spatial,lung Cancer,Biological Inference
+lung_Cancer_spatialCCI_3,1,D,lung_Cancer_spatialCCI_3A,gemini-2.0-flash,A,5,RJ,Spatial,lung Cancer,Biological Inference
+lung_Cancer_spatialCCI_3,1,D,lung_Cancer_spatialCCI_3B,gemini-2.0-flash,D,1,RJ,Spatial,lung Cancer,Biological Inference
+lung_Cancer_spatialCCI_3,1,D,lung_Cancer_spatialCCI_3B,gemini-2.0-flash,D,2,RJ,Spatial,lung Cancer,Biological Inference
+lung_Cancer_spatialCCI_3,1,D,lung_Cancer_spatialCCI_3B,gemini-2.0-flash,D,3,RJ,Spatial,lung Cancer,Biological Inference
+lung_Cancer_spatialCCI_3,1,D,lung_Cancer_spatialCCI_3B,gemini-2.0-flash,D,4,RJ,Spatial,lung Cancer,Biological Inference
+lung_Cancer_spatialCCI_3,1,D,lung_Cancer_spatialCCI_3B,gemini-2.0-flash,D,5,RJ,Spatial,lung Cancer,Biological Inference
+lung_Cancer_spatialCCI_3,2,D,lung_Cancer_spatialCCI_3A,gemini-2.0-flash,D,1,RJ,Spatial,lung Cancer,Biological Inference
+lung_Cancer_spatialCCI_3,2,D,lung_Cancer_spatialCCI_3A,gemini-2.0-flash,D,2,RJ,Spatial,lung Cancer,Biological Inference
+lung_Cancer_spatialCCI_3,2,D,lung_Cancer_spatialCCI_3A,gemini-2.0-flash,D,3,RJ,Spatial,lung Cancer,Biological Inference
+lung_Cancer_spatialCCI_3,2,D,lung_Cancer_spatialCCI_3A,gemini-2.0-flash,D,4,RJ,Spatial,lung Cancer,Biological Inference
+lung_Cancer_spatialCCI_3,2,D,lung_Cancer_spatialCCI_3A,gemini-2.0-flash,D,5,RJ,Spatial,lung Cancer,Biological Inference
+lung_Cancer_spatialCCI_3,2,D,lung_Cancer_spatialCCI_3B,gemini-2.0-flash,D,1,RJ,Spatial,lung Cancer,Biological Inference
+lung_Cancer_spatialCCI_3,2,D,lung_Cancer_spatialCCI_3B,gemini-2.0-flash,D,2,RJ,Spatial,lung Cancer,Biological Inference
+lung_Cancer_spatialCCI_3,2,D,lung_Cancer_spatialCCI_3B,gemini-2.0-flash,D,3,RJ,Spatial,lung Cancer,Biological Inference
+lung_Cancer_spatialCCI_3,2,D,lung_Cancer_spatialCCI_3B,gemini-2.0-flash,D,4,RJ,Spatial,lung Cancer,Biological Inference
+lung_Cancer_spatialCCI_3,2,D,lung_Cancer_spatialCCI_3B,gemini-2.0-flash,D,5,RJ,Spatial,lung Cancer,Biological Inference
+lung_Cancer_spatialCCI_3,3,B,lung_Cancer_spatialCCI_3A,gemini-2.0-flash,D,1,RJ,Spatial,lung Cancer,Biological Inference
+lung_Cancer_spatialCCI_3,3,B,lung_Cancer_spatialCCI_3A,gemini-2.0-flash,D,2,RJ,Spatial,lung Cancer,Biological Inference
+lung_Cancer_spatialCCI_3,3,B,lung_Cancer_spatialCCI_3A,gemini-2.0-flash,D,3,RJ,Spatial,lung Cancer,Biological Inference
+lung_Cancer_spatialCCI_3,3,B,lung_Cancer_spatialCCI_3A,gemini-2.0-flash,D,4,RJ,Spatial,lung Cancer,Biological Inference
+lung_Cancer_spatialCCI_3,3,B,lung_Cancer_spatialCCI_3A,gemini-2.0-flash,D,5,RJ,Spatial,lung Cancer,Biological Inference
+lung_Cancer_spatialCCI_3,3,B,lung_Cancer_spatialCCI_3B,gemini-2.0-flash,A,1,RJ,Spatial,lung Cancer,Biological Inference
+lung_Cancer_spatialCCI_3,3,B,lung_Cancer_spatialCCI_3B,gemini-2.0-flash,A,2,RJ,Spatial,lung Cancer,Biological Inference
+lung_Cancer_spatialCCI_3,3,B,lung_Cancer_spatialCCI_3B,gemini-2.0-flash,A,3,RJ,Spatial,lung Cancer,Biological Inference
+lung_Cancer_spatialCCI_3,3,B,lung_Cancer_spatialCCI_3B,gemini-2.0-flash,A,4,RJ,Spatial,lung Cancer,Biological Inference
+lung_Cancer_spatialCCI_3,3,B,lung_Cancer_spatialCCI_3B,gemini-2.0-flash,A,5,RJ,Spatial,lung Cancer,Biological Inference
+lung_Cancer_spatialdomains_4,1,A,lung_Cancer_spatialdomains_4A,gemini-2.0-flash,A,1,RJ,Spatial,lung Cancer,Biological Inference
+lung_Cancer_spatialdomains_4,1,A,lung_Cancer_spatialdomains_4A,gemini-2.0-flash,A,2,RJ,Spatial,lung Cancer,Biological Inference
+lung_Cancer_spatialdomains_4,1,A,lung_Cancer_spatialdomains_4A,gemini-2.0-flash,A,3,RJ,Spatial,lung Cancer,Biological Inference
+lung_Cancer_spatialdomains_4,1,A,lung_Cancer_spatialdomains_4A,gemini-2.0-flash,A,4,RJ,Spatial,lung Cancer,Biological Inference
+lung_Cancer_spatialdomains_4,1,A,lung_Cancer_spatialdomains_4A,gemini-2.0-flash,A,5,RJ,Spatial,lung Cancer,Biological Inference
+lung_Cancer_spatialdomains_4,1,A,lung_Cancer_spatialdomains_4B,gemini-2.0-flash,A,1,RJ,Spatial,lung Cancer,Biological Inference
+lung_Cancer_spatialdomains_4,1,A,lung_Cancer_spatialdomains_4B,gemini-2.0-flash,A,2,RJ,Spatial,lung Cancer,Biological Inference
+lung_Cancer_spatialdomains_4,1,A,lung_Cancer_spatialdomains_4B,gemini-2.0-flash,A,3,RJ,Spatial,lung Cancer,Biological Inference
+lung_Cancer_spatialdomains_4,1,A,lung_Cancer_spatialdomains_4B,gemini-2.0-flash,A,4,RJ,Spatial,lung Cancer,Biological Inference
+lung_Cancer_spatialdomains_4,1,A,lung_Cancer_spatialdomains_4B,gemini-2.0-flash,A,5,RJ,Spatial,lung Cancer,Biological Inference
+lung_Cancer_spatialdomains_4,2,C,lung_Cancer_spatialdomains_4A,gemini-2.0-flash,B,1,RJ,Spatial,lung Cancer,Biological Inference
+lung_Cancer_spatialdomains_4,2,C,lung_Cancer_spatialdomains_4A,gemini-2.0-flash,B,2,RJ,Spatial,lung Cancer,Biological Inference
+lung_Cancer_spatialdomains_4,2,C,lung_Cancer_spatialdomains_4A,gemini-2.0-flash,B,3,RJ,Spatial,lung Cancer,Biological Inference
+lung_Cancer_spatialdomains_4,2,C,lung_Cancer_spatialdomains_4A,gemini-2.0-flash,B,4,RJ,Spatial,lung Cancer,Biological Inference
+lung_Cancer_spatialdomains_4,2,C,lung_Cancer_spatialdomains_4A,gemini-2.0-flash,B,5,RJ,Spatial,lung Cancer,Biological Inference
+lung_Cancer_spatialdomains_4,2,C,lung_Cancer_spatialdomains_4B,gemini-2.0-flash,B,1,RJ,Spatial,lung Cancer,Biological Inference
+lung_Cancer_spatialdomains_4,2,C,lung_Cancer_spatialdomains_4B,gemini-2.0-flash,B,2,RJ,Spatial,lung Cancer,Biological Inference
+lung_Cancer_spatialdomains_4,2,C,lung_Cancer_spatialdomains_4B,gemini-2.0-flash,B,3,RJ,Spatial,lung Cancer,Biological Inference
+lung_Cancer_spatialdomains_4,2,C,lung_Cancer_spatialdomains_4B,gemini-2.0-flash,B,4,RJ,Spatial,lung Cancer,Biological Inference
+lung_Cancer_spatialdomains_4,2,C,lung_Cancer_spatialdomains_4B,gemini-2.0-flash,B,5,RJ,Spatial,lung Cancer,Biological Inference
+lung_Cancer_spatialdomains_4,3,A,lung_Cancer_spatialdomains_4A,gemini-2.0-flash,A,1,RJ,Spatial,lung Cancer,Biological Inference
+lung_Cancer_spatialdomains_4,3,A,lung_Cancer_spatialdomains_4A,gemini-2.0-flash,A,2,RJ,Spatial,lung Cancer,Biological Inference
+lung_Cancer_spatialdomains_4,3,A,lung_Cancer_spatialdomains_4A,gemini-2.0-flash,A,3,RJ,Spatial,lung Cancer,Biological Inference
+lung_Cancer_spatialdomains_4,3,A,lung_Cancer_spatialdomains_4A,gemini-2.0-flash,A,4,RJ,Spatial,lung Cancer,Biological Inference
+lung_Cancer_spatialdomains_4,3,A,lung_Cancer_spatialdomains_4A,gemini-2.0-flash,A,5,RJ,Spatial,lung Cancer,Biological Inference
+lung_Cancer_spatialdomains_4,3,A,lung_Cancer_spatialdomains_4B,gemini-2.0-flash,A,1,RJ,Spatial,lung Cancer,Biological Inference
+lung_Cancer_spatialdomains_4,3,A,lung_Cancer_spatialdomains_4B,gemini-2.0-flash,A,2,RJ,Spatial,lung Cancer,Biological Inference
+lung_Cancer_spatialdomains_4,3,A,lung_Cancer_spatialdomains_4B,gemini-2.0-flash,A,3,RJ,Spatial,lung Cancer,Biological Inference
+lung_Cancer_spatialdomains_4,3,A,lung_Cancer_spatialdomains_4B,gemini-2.0-flash,A,4,RJ,Spatial,lung Cancer,Biological Inference
+lung_Cancer_spatialdomains_4,3,A,lung_Cancer_spatialdomains_4B,gemini-2.0-flash,A,5,RJ,Spatial,lung Cancer,Biological Inference
+benchmark_SpatialSim_1,1,A,benchmark_SpatialSim_1A,gemini-2.0-flash,A,1,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_1,1,A,benchmark_SpatialSim_1A,gemini-2.0-flash,A,2,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_1,1,A,benchmark_SpatialSim_1A,gemini-2.0-flash,A,3,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_1,1,A,benchmark_SpatialSim_1A,gemini-2.0-flash,A,4,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_1,1,A,benchmark_SpatialSim_1A,gemini-2.0-flash,A,5,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_1,1,A,benchmark_SpatialSim_1C,gemini-2.0-flash,A,1,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_1,1,A,benchmark_SpatialSim_1C,gemini-2.0-flash,A,2,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_1,1,A,benchmark_SpatialSim_1C,gemini-2.0-flash,A,3,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_1,1,A,benchmark_SpatialSim_1C,gemini-2.0-flash,C,4,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_1,1,A,benchmark_SpatialSim_1C,gemini-2.0-flash,C,5,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_1,1,A,benchmark_SpatialSim_1B,gemini-2.0-flash,A,1,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_1,1,A,benchmark_SpatialSim_1B,gemini-2.0-flash,A,2,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_1,1,A,benchmark_SpatialSim_1B,gemini-2.0-flash,A,3,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_1,1,A,benchmark_SpatialSim_1B,gemini-2.0-flash,A,4,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_1,1,A,benchmark_SpatialSim_1B,gemini-2.0-flash,A,5,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_1,1,A,benchmark_SpatialSim_1D,gemini-2.0-flash,A,1,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_1,1,A,benchmark_SpatialSim_1D,gemini-2.0-flash,A,2,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_1,1,A,benchmark_SpatialSim_1D,gemini-2.0-flash,A,3,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_1,1,A,benchmark_SpatialSim_1D,gemini-2.0-flash,A,4,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_1,1,A,benchmark_SpatialSim_1D,gemini-2.0-flash,A,5,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_1,2,A,benchmark_SpatialSim_1A,gemini-2.0-flash,A,1,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_1,2,A,benchmark_SpatialSim_1A,gemini-2.0-flash,A,2,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_1,2,A,benchmark_SpatialSim_1A,gemini-2.0-flash,A,3,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_1,2,A,benchmark_SpatialSim_1A,gemini-2.0-flash,A,4,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_1,2,A,benchmark_SpatialSim_1A,gemini-2.0-flash,A,5,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_1,2,A,benchmark_SpatialSim_1C,gemini-2.0-flash,C,1,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_1,2,A,benchmark_SpatialSim_1C,gemini-2.0-flash,C,2,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_1,2,A,benchmark_SpatialSim_1C,gemini-2.0-flash,C,3,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_1,2,A,benchmark_SpatialSim_1C,gemini-2.0-flash,C,4,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_1,2,A,benchmark_SpatialSim_1C,gemini-2.0-flash,C,5,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_1,2,A,benchmark_SpatialSim_1B,gemini-2.0-flash,A,1,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_1,2,A,benchmark_SpatialSim_1B,gemini-2.0-flash,A,2,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_1,2,A,benchmark_SpatialSim_1B,gemini-2.0-flash,A,3,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_1,2,A,benchmark_SpatialSim_1B,gemini-2.0-flash,A,4,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_1,2,A,benchmark_SpatialSim_1B,gemini-2.0-flash,A,5,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_1,2,A,benchmark_SpatialSim_1D,gemini-2.0-flash,A,1,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_1,2,A,benchmark_SpatialSim_1D,gemini-2.0-flash,A,2,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_1,2,A,benchmark_SpatialSim_1D,gemini-2.0-flash,A,3,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_1,2,A,benchmark_SpatialSim_1D,gemini-2.0-flash,A,4,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_1,2,A,benchmark_SpatialSim_1D,gemini-2.0-flash,A,5,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_1,3,D,benchmark_SpatialSim_1A,gemini-2.0-flash,D,1,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_1,3,D,benchmark_SpatialSim_1A,gemini-2.0-flash,D,2,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_1,3,D,benchmark_SpatialSim_1A,gemini-2.0-flash,D,3,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_1,3,D,benchmark_SpatialSim_1A,gemini-2.0-flash,D,4,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_1,3,D,benchmark_SpatialSim_1A,gemini-2.0-flash,D,5,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_1,3,D,benchmark_SpatialSim_1C,gemini-2.0-flash,B,1,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_1,3,D,benchmark_SpatialSim_1C,gemini-2.0-flash,B,2,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_1,3,D,benchmark_SpatialSim_1C,gemini-2.0-flash,B,3,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_1,3,D,benchmark_SpatialSim_1C,gemini-2.0-flash,B,4,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_1,3,D,benchmark_SpatialSim_1C,gemini-2.0-flash,D,5,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_1,3,D,benchmark_SpatialSim_1B,gemini-2.0-flash,D,1,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_1,3,D,benchmark_SpatialSim_1B,gemini-2.0-flash,D,2,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_1,3,D,benchmark_SpatialSim_1B,gemini-2.0-flash,B,3,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_1,3,D,benchmark_SpatialSim_1B,gemini-2.0-flash,D,4,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_1,3,D,benchmark_SpatialSim_1B,gemini-2.0-flash,D,5,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_1,3,D,benchmark_SpatialSim_1D,gemini-2.0-flash,D,1,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_1,3,D,benchmark_SpatialSim_1D,gemini-2.0-flash,D,2,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_1,3,D,benchmark_SpatialSim_1D,gemini-2.0-flash,D,3,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_1,3,D,benchmark_SpatialSim_1D,gemini-2.0-flash,D,4,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_1,3,D,benchmark_SpatialSim_1D,gemini-2.0-flash,D,5,CL,SpatialSim,benchmark,Descriptive - information retrival
+Ghist_ClassifyR_1,2,A,Ghist_ClassifyR_1A,gemini-2.0-flash,B,1,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_1,2,A,Ghist_ClassifyR_1A,gemini-2.0-flash,B,2,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_1,2,A,Ghist_ClassifyR_1A,gemini-2.0-flash,B,3,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_1,2,A,Ghist_ClassifyR_1A,gemini-2.0-flash,B,4,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_1,2,A,Ghist_ClassifyR_1A,gemini-2.0-flash,B,5,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_1,2,A,Ghist_ClassifyR_1B,gemini-2.0-flash,B,1,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_1,2,A,Ghist_ClassifyR_1B,gemini-2.0-flash,B,2,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_1,2,A,Ghist_ClassifyR_1B,gemini-2.0-flash,B,3,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_1,2,A,Ghist_ClassifyR_1B,gemini-2.0-flash,B,4,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_1,2,A,Ghist_ClassifyR_1B,gemini-2.0-flash,B,5,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_1,2,A,Ghist_ClassifyR_1C,gemini-2.0-flash,B,1,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_1,2,A,Ghist_ClassifyR_1C,gemini-2.0-flash,B,2,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_1,2,A,Ghist_ClassifyR_1C,gemini-2.0-flash,A,3,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_1,2,A,Ghist_ClassifyR_1C,gemini-2.0-flash,B,4,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_1,2,A,Ghist_ClassifyR_1C,gemini-2.0-flash,A,5,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_1,1,D,Ghist_ClassifyR_1A,gemini-2.0-flash,D,1,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_1,1,D,Ghist_ClassifyR_1A,gemini-2.0-flash,D,2,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_1,1,D,Ghist_ClassifyR_1A,gemini-2.0-flash,D,3,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_1,1,D,Ghist_ClassifyR_1A,gemini-2.0-flash,D,4,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_1,1,D,Ghist_ClassifyR_1A,gemini-2.0-flash,D,5,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_1,1,D,Ghist_ClassifyR_1B,gemini-2.0-flash,D,1,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_1,1,D,Ghist_ClassifyR_1B,gemini-2.0-flash,D,2,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_1,1,D,Ghist_ClassifyR_1B,gemini-2.0-flash,D,3,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_1,1,D,Ghist_ClassifyR_1B,gemini-2.0-flash,D,4,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_1,1,D,Ghist_ClassifyR_1B,gemini-2.0-flash,D,5,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_1,1,D,Ghist_ClassifyR_1C,gemini-2.0-flash,D,1,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_1,1,D,Ghist_ClassifyR_1C,gemini-2.0-flash,D,2,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_1,1,D,Ghist_ClassifyR_1C,gemini-2.0-flash,D,3,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_1,1,D,Ghist_ClassifyR_1C,gemini-2.0-flash,D,4,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_1,1,D,Ghist_ClassifyR_1C,gemini-2.0-flash,D,5,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_1,3,C,Ghist_ClassifyR_1A,gemini-2.0-flash,A,1,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_1,3,C,Ghist_ClassifyR_1A,gemini-2.0-flash,A,2,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_1,3,C,Ghist_ClassifyR_1A,gemini-2.0-flash,A,3,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_1,3,C,Ghist_ClassifyR_1A,gemini-2.0-flash,A,4,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_1,3,C,Ghist_ClassifyR_1A,gemini-2.0-flash,A,5,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_1,3,C,Ghist_ClassifyR_1B,gemini-2.0-flash,B,1,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_1,3,C,Ghist_ClassifyR_1B,gemini-2.0-flash,B,2,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_1,3,C,Ghist_ClassifyR_1B,gemini-2.0-flash,B,3,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_1,3,C,Ghist_ClassifyR_1B,gemini-2.0-flash,B,4,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_1,3,C,Ghist_ClassifyR_1B,gemini-2.0-flash,B,5,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_1,3,C,Ghist_ClassifyR_1C,gemini-2.0-flash,A,1,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_1,3,C,Ghist_ClassifyR_1C,gemini-2.0-flash,A,2,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_1,3,C,Ghist_ClassifyR_1C,gemini-2.0-flash,A,3,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_1,3,C,Ghist_ClassifyR_1C,gemini-2.0-flash,A,4,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_1,3,C,Ghist_ClassifyR_1C,gemini-2.0-flash,A,5,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Covid_CCI_7,1,D,Covid_CCI_7A,gemini-2.0-flash,D,1,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_7,1,D,Covid_CCI_7A,gemini-2.0-flash,D,2,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_7,1,D,Covid_CCI_7A,gemini-2.0-flash,D,3,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_7,1,D,Covid_CCI_7A,gemini-2.0-flash,D,4,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_7,1,D,Covid_CCI_7A,gemini-2.0-flash,D,5,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_7,1,D,Covid_CCI_7B,gemini-2.0-flash,D,1,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_7,1,D,Covid_CCI_7B,gemini-2.0-flash,D,2,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_7,1,D,Covid_CCI_7B,gemini-2.0-flash,D,3,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_7,1,D,Covid_CCI_7B,gemini-2.0-flash,D,4,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_7,1,D,Covid_CCI_7B,gemini-2.0-flash,D,5,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_7,1,D,Covid_CCI_7C,gemini-2.0-flash,D,1,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_7,1,D,Covid_CCI_7C,gemini-2.0-flash,D,2,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_7,1,D,Covid_CCI_7C,gemini-2.0-flash,D,3,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_7,1,D,Covid_CCI_7C,gemini-2.0-flash,D,4,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_7,1,D,Covid_CCI_7C,gemini-2.0-flash,D,5,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_7,1,D,Covid_CCI_7D,gemini-2.0-flash,D,1,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_7,1,D,Covid_CCI_7D,gemini-2.0-flash,D,2,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_7,1,D,Covid_CCI_7D,gemini-2.0-flash,D,3,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_7,1,D,Covid_CCI_7D,gemini-2.0-flash,D,4,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_7,1,D,Covid_CCI_7D,gemini-2.0-flash,D,5,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_7,2,A,Covid_CCI_7A,gemini-2.0-flash,A,1,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_7,2,A,Covid_CCI_7A,gemini-2.0-flash,A,2,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_7,2,A,Covid_CCI_7A,gemini-2.0-flash,A,3,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_7,2,A,Covid_CCI_7A,gemini-2.0-flash,A,4,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_7,2,A,Covid_CCI_7A,gemini-2.0-flash,C,5,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_7,2,A,Covid_CCI_7B,gemini-2.0-flash,C,1,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_7,2,A,Covid_CCI_7B,gemini-2.0-flash,C,2,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_7,2,A,Covid_CCI_7B,gemini-2.0-flash,C,3,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_7,2,A,Covid_CCI_7B,gemini-2.0-flash,C,4,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_7,2,A,Covid_CCI_7B,gemini-2.0-flash,C,5,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_7,2,A,Covid_CCI_7C,gemini-2.0-flash,A,1,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_7,2,A,Covid_CCI_7C,gemini-2.0-flash,A,2,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_7,2,A,Covid_CCI_7C,gemini-2.0-flash,A,3,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_7,2,A,Covid_CCI_7C,gemini-2.0-flash,A,4,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_7,2,A,Covid_CCI_7C,gemini-2.0-flash,A,5,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_7,2,A,Covid_CCI_7D,gemini-2.0-flash,C,1,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_7,2,A,Covid_CCI_7D,gemini-2.0-flash,C,2,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_7,2,A,Covid_CCI_7D,gemini-2.0-flash,C,3,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_7,2,A,Covid_CCI_7D,gemini-2.0-flash,C,4,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_7,2,A,Covid_CCI_7D,gemini-2.0-flash,C,5,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_7,3,D,Covid_CCI_7A,gemini-2.0-flash,D,1,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_7,3,D,Covid_CCI_7A,gemini-2.0-flash,D,2,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_7,3,D,Covid_CCI_7A,gemini-2.0-flash,D,3,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_7,3,D,Covid_CCI_7A,gemini-2.0-flash,D,4,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_7,3,D,Covid_CCI_7A,gemini-2.0-flash,D,5,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_7,3,D,Covid_CCI_7B,gemini-2.0-flash,D,1,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_7,3,D,Covid_CCI_7B,gemini-2.0-flash,D,2,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_7,3,D,Covid_CCI_7B,gemini-2.0-flash,D,3,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_7,3,D,Covid_CCI_7B,gemini-2.0-flash,D,4,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_7,3,D,Covid_CCI_7B,gemini-2.0-flash,D,5,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_7,3,D,Covid_CCI_7C,gemini-2.0-flash,D,1,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_7,3,D,Covid_CCI_7C,gemini-2.0-flash,D,2,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_7,3,D,Covid_CCI_7C,gemini-2.0-flash,D,3,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_7,3,D,Covid_CCI_7C,gemini-2.0-flash,D,4,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_7,3,D,Covid_CCI_7C,gemini-2.0-flash,D,5,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_7,3,D,Covid_CCI_7D,gemini-2.0-flash,D,1,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_7,3,D,Covid_CCI_7D,gemini-2.0-flash,D,2,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_7,3,D,Covid_CCI_7D,gemini-2.0-flash,D,3,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_7,3,D,Covid_CCI_7D,gemini-2.0-flash,D,4,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_7,3,D,Covid_CCI_7D,gemini-2.0-flash,D,5,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_8,1,B,Covid_CCI_8A,gemini-2.0-flash,A,1,YC,CCI,COVID,Biological Inference
+Covid_CCI_8,1,B,Covid_CCI_8A,gemini-2.0-flash,A,2,YC,CCI,COVID,Biological Inference
+Covid_CCI_8,1,B,Covid_CCI_8A,gemini-2.0-flash,A,3,YC,CCI,COVID,Biological Inference
+Covid_CCI_8,1,B,Covid_CCI_8A,gemini-2.0-flash,A,4,YC,CCI,COVID,Biological Inference
+Covid_CCI_8,1,B,Covid_CCI_8A,gemini-2.0-flash,A,5,YC,CCI,COVID,Biological Inference
+Covid_CCI_8,1,B,Covid_CCI_8B,gemini-2.0-flash,B,1,YC,CCI,COVID,Biological Inference
+Covid_CCI_8,1,B,Covid_CCI_8B,gemini-2.0-flash,B,2,YC,CCI,COVID,Biological Inference
+Covid_CCI_8,1,B,Covid_CCI_8B,gemini-2.0-flash,B,3,YC,CCI,COVID,Biological Inference
+Covid_CCI_8,1,B,Covid_CCI_8B,gemini-2.0-flash,B,4,YC,CCI,COVID,Biological Inference
+Covid_CCI_8,1,B,Covid_CCI_8B,gemini-2.0-flash,B,5,YC,CCI,COVID,Biological Inference
+Covid_CCI_8,1,B,Covid_CCI_8C,gemini-2.0-flash,C,1,YC,CCI,COVID,Biological Inference
+Covid_CCI_8,1,B,Covid_CCI_8C,gemini-2.0-flash,C,2,YC,CCI,COVID,Biological Inference
+Covid_CCI_8,1,B,Covid_CCI_8C,gemini-2.0-flash,C,3,YC,CCI,COVID,Biological Inference
+Covid_CCI_8,1,B,Covid_CCI_8C,gemini-2.0-flash,C,4,YC,CCI,COVID,Biological Inference
+Covid_CCI_8,1,B,Covid_CCI_8C,gemini-2.0-flash,C,5,YC,CCI,COVID,Biological Inference
+Covid_CCI_8,1,B,Covid_CCI_8D,gemini-2.0-flash,C,1,YC,CCI,COVID,Biological Inference
+Covid_CCI_8,1,B,Covid_CCI_8D,gemini-2.0-flash,C,2,YC,CCI,COVID,Biological Inference
+Covid_CCI_8,1,B,Covid_CCI_8D,gemini-2.0-flash,C,3,YC,CCI,COVID,Biological Inference
+Covid_CCI_8,1,B,Covid_CCI_8D,gemini-2.0-flash,C,4,YC,CCI,COVID,Biological Inference
+Covid_CCI_8,1,B,Covid_CCI_8D,gemini-2.0-flash,C,5,YC,CCI,COVID,Biological Inference
+Covid_CCI_8,2,C,Covid_CCI_8A,gemini-2.0-flash,C,1,YC,CCI,COVID,Biological Inference
+Covid_CCI_8,2,C,Covid_CCI_8A,gemini-2.0-flash,C,2,YC,CCI,COVID,Biological Inference
+Covid_CCI_8,2,C,Covid_CCI_8A,gemini-2.0-flash,C,3,YC,CCI,COVID,Biological Inference
+Covid_CCI_8,2,C,Covid_CCI_8A,gemini-2.0-flash,C,4,YC,CCI,COVID,Biological Inference
+Covid_CCI_8,2,C,Covid_CCI_8A,gemini-2.0-flash,C,5,YC,CCI,COVID,Biological Inference
+Covid_CCI_8,2,C,Covid_CCI_8B,gemini-2.0-flash,C,1,YC,CCI,COVID,Biological Inference
+Covid_CCI_8,2,C,Covid_CCI_8B,gemini-2.0-flash,C,2,YC,CCI,COVID,Biological Inference
+Covid_CCI_8,2,C,Covid_CCI_8B,gemini-2.0-flash,C,3,YC,CCI,COVID,Biological Inference
+Covid_CCI_8,2,C,Covid_CCI_8B,gemini-2.0-flash,C,4,YC,CCI,COVID,Biological Inference
+Covid_CCI_8,2,C,Covid_CCI_8B,gemini-2.0-flash,C,5,YC,CCI,COVID,Biological Inference
+Covid_CCI_8,2,C,Covid_CCI_8C,gemini-2.0-flash,C,1,YC,CCI,COVID,Biological Inference
+Covid_CCI_8,2,C,Covid_CCI_8C,gemini-2.0-flash,C,2,YC,CCI,COVID,Biological Inference
+Covid_CCI_8,2,C,Covid_CCI_8C,gemini-2.0-flash,C,3,YC,CCI,COVID,Biological Inference
+Covid_CCI_8,2,C,Covid_CCI_8C,gemini-2.0-flash,C,4,YC,CCI,COVID,Biological Inference
+Covid_CCI_8,2,C,Covid_CCI_8C,gemini-2.0-flash,C,5,YC,CCI,COVID,Biological Inference
+Covid_CCI_8,2,C,Covid_CCI_8D,gemini-2.0-flash,C,1,YC,CCI,COVID,Biological Inference
+Covid_CCI_8,2,C,Covid_CCI_8D,gemini-2.0-flash,C,2,YC,CCI,COVID,Biological Inference
+Covid_CCI_8,2,C,Covid_CCI_8D,gemini-2.0-flash,C,3,YC,CCI,COVID,Biological Inference
+Covid_CCI_8,2,C,Covid_CCI_8D,gemini-2.0-flash,C,4,YC,CCI,COVID,Biological Inference
+Covid_CCI_8,2,C,Covid_CCI_8D,gemini-2.0-flash,C,5,YC,CCI,COVID,Biological Inference
+Covid_CCI_8,3,A,Covid_CCI_8A,gemini-2.0-flash,A,1,YC,CCI,COVID,Biological Inference
+Covid_CCI_8,3,A,Covid_CCI_8A,gemini-2.0-flash,A,2,YC,CCI,COVID,Biological Inference
+Covid_CCI_8,3,A,Covid_CCI_8A,gemini-2.0-flash,A,3,YC,CCI,COVID,Biological Inference
+Covid_CCI_8,3,A,Covid_CCI_8A,gemini-2.0-flash,A,4,YC,CCI,COVID,Biological Inference
+Covid_CCI_8,3,A,Covid_CCI_8A,gemini-2.0-flash,A,5,YC,CCI,COVID,Biological Inference
+Covid_CCI_8,3,A,Covid_CCI_8B,gemini-2.0-flash,A,1,YC,CCI,COVID,Biological Inference
+Covid_CCI_8,3,A,Covid_CCI_8B,gemini-2.0-flash,A,2,YC,CCI,COVID,Biological Inference
+Covid_CCI_8,3,A,Covid_CCI_8B,gemini-2.0-flash,A,3,YC,CCI,COVID,Biological Inference
+Covid_CCI_8,3,A,Covid_CCI_8B,gemini-2.0-flash,A,4,YC,CCI,COVID,Biological Inference
+Covid_CCI_8,3,A,Covid_CCI_8B,gemini-2.0-flash,A,5,YC,CCI,COVID,Biological Inference
+Covid_CCI_8,3,A,Covid_CCI_8C,gemini-2.0-flash,A,1,YC,CCI,COVID,Biological Inference
+Covid_CCI_8,3,A,Covid_CCI_8C,gemini-2.0-flash,A,2,YC,CCI,COVID,Biological Inference
+Covid_CCI_8,3,A,Covid_CCI_8C,gemini-2.0-flash,A,3,YC,CCI,COVID,Biological Inference
+Covid_CCI_8,3,A,Covid_CCI_8C,gemini-2.0-flash,A,4,YC,CCI,COVID,Biological Inference
+Covid_CCI_8,3,A,Covid_CCI_8C,gemini-2.0-flash,A,5,YC,CCI,COVID,Biological Inference
+Covid_CCI_8,3,A,Covid_CCI_8D,gemini-2.0-flash,A,1,YC,CCI,COVID,Biological Inference
+Covid_CCI_8,3,A,Covid_CCI_8D,gemini-2.0-flash,A,2,YC,CCI,COVID,Biological Inference
+Covid_CCI_8,3,A,Covid_CCI_8D,gemini-2.0-flash,A,3,YC,CCI,COVID,Biological Inference
+Covid_CCI_8,3,A,Covid_CCI_8D,gemini-2.0-flash,A,4,YC,CCI,COVID,Biological Inference
+Covid_CCI_8,3,A,Covid_CCI_8D,gemini-2.0-flash,A,5,YC,CCI,COVID,Biological Inference
+Covid_pathway_3,1,C,Covid_pathway_3B,gemini-2.0-flash,A,1,DK,Pathway,COVID,Descriptive - information retrival
+Covid_pathway_3,1,C,Covid_pathway_3B,gemini-2.0-flash,A,2,DK,Pathway,COVID,Descriptive - information retrival
+Covid_pathway_3,1,C,Covid_pathway_3B,gemini-2.0-flash,A,3,DK,Pathway,COVID,Descriptive - information retrival
+Covid_pathway_3,1,C,Covid_pathway_3B,gemini-2.0-flash,A,4,DK,Pathway,COVID,Descriptive - information retrival
+Covid_pathway_3,1,C,Covid_pathway_3B,gemini-2.0-flash,A,5,DK,Pathway,COVID,Descriptive - information retrival
+Covid_pathway_3,1,C,Covid_pathway_3A,gemini-2.0-flash,A,1,DK,Pathway,COVID,Descriptive - information retrival
+Covid_pathway_3,1,C,Covid_pathway_3A,gemini-2.0-flash,A,2,DK,Pathway,COVID,Descriptive - information retrival
+Covid_pathway_3,1,C,Covid_pathway_3A,gemini-2.0-flash,A,3,DK,Pathway,COVID,Descriptive - information retrival
+Covid_pathway_3,1,C,Covid_pathway_3A,gemini-2.0-flash,A,4,DK,Pathway,COVID,Descriptive - information retrival
+Covid_pathway_3,1,C,Covid_pathway_3A,gemini-2.0-flash,A,5,DK,Pathway,COVID,Descriptive - information retrival
+Covid_pathway_3,2,D,Covid_pathway_3B,gemini-2.0-flash,D,1,DK,Pathway,COVID,Descriptive - information retrival
+Covid_pathway_3,2,D,Covid_pathway_3B,gemini-2.0-flash,D,2,DK,Pathway,COVID,Descriptive - information retrival
+Covid_pathway_3,2,D,Covid_pathway_3B,gemini-2.0-flash,D,3,DK,Pathway,COVID,Descriptive - information retrival
+Covid_pathway_3,2,D,Covid_pathway_3B,gemini-2.0-flash,D,4,DK,Pathway,COVID,Descriptive - information retrival
+Covid_pathway_3,2,D,Covid_pathway_3B,gemini-2.0-flash,D,5,DK,Pathway,COVID,Descriptive - information retrival
+Covid_pathway_3,2,D,Covid_pathway_3A,gemini-2.0-flash,D,1,DK,Pathway,COVID,Descriptive - information retrival
+Covid_pathway_3,2,D,Covid_pathway_3A,gemini-2.0-flash,D,2,DK,Pathway,COVID,Descriptive - information retrival
+Covid_pathway_3,2,D,Covid_pathway_3A,gemini-2.0-flash,D,3,DK,Pathway,COVID,Descriptive - information retrival
+Covid_pathway_3,2,D,Covid_pathway_3A,gemini-2.0-flash,D,4,DK,Pathway,COVID,Descriptive - information retrival
+Covid_pathway_3,2,D,Covid_pathway_3A,gemini-2.0-flash,D,5,DK,Pathway,COVID,Descriptive - information retrival
+Covid_pathway_3,3,A,Covid_pathway_3B,gemini-2.0-flash,A,1,DK,Pathway,COVID,Descriptive - information retrival
+Covid_pathway_3,3,A,Covid_pathway_3B,gemini-2.0-flash,A,2,DK,Pathway,COVID,Descriptive - information retrival
+Covid_pathway_3,3,A,Covid_pathway_3B,gemini-2.0-flash,A,3,DK,Pathway,COVID,Descriptive - information retrival
+Covid_pathway_3,3,A,Covid_pathway_3B,gemini-2.0-flash,A,4,DK,Pathway,COVID,Descriptive - information retrival
+Covid_pathway_3,3,A,Covid_pathway_3B,gemini-2.0-flash,A,5,DK,Pathway,COVID,Descriptive - information retrival
+Covid_pathway_3,3,A,Covid_pathway_3A,gemini-2.0-flash,A,1,DK,Pathway,COVID,Descriptive - information retrival
+Covid_pathway_3,3,A,Covid_pathway_3A,gemini-2.0-flash,A,2,DK,Pathway,COVID,Descriptive - information retrival
+Covid_pathway_3,3,A,Covid_pathway_3A,gemini-2.0-flash,A,3,DK,Pathway,COVID,Descriptive - information retrival
+Covid_pathway_3,3,A,Covid_pathway_3A,gemini-2.0-flash,A,4,DK,Pathway,COVID,Descriptive - information retrival
+Covid_pathway_3,3,A,Covid_pathway_3A,gemini-2.0-flash,A,5,DK,Pathway,COVID,Descriptive - information retrival
+Covid_pathway_4,1,D,Covid_pathway_4B,gemini-2.0-flash,D,1,DK,Pathway,COVID,Descriptive - information retrival
+Covid_pathway_4,1,D,Covid_pathway_4B,gemini-2.0-flash,D,2,DK,Pathway,COVID,Descriptive - information retrival
+Covid_pathway_4,1,D,Covid_pathway_4B,gemini-2.0-flash,D,3,DK,Pathway,COVID,Descriptive - information retrival
+Covid_pathway_4,1,D,Covid_pathway_4B,gemini-2.0-flash,D,4,DK,Pathway,COVID,Descriptive - information retrival
+Covid_pathway_4,1,D,Covid_pathway_4B,gemini-2.0-flash,D,5,DK,Pathway,COVID,Descriptive - information retrival
+Covid_pathway_4,1,D,Covid_pathway_4A,gemini-2.0-flash,D,1,DK,Pathway,COVID,Descriptive - information retrival
+Covid_pathway_4,1,D,Covid_pathway_4A,gemini-2.0-flash,D,2,DK,Pathway,COVID,Descriptive - information retrival
+Covid_pathway_4,1,D,Covid_pathway_4A,gemini-2.0-flash,D,3,DK,Pathway,COVID,Descriptive - information retrival
+Covid_pathway_4,1,D,Covid_pathway_4A,gemini-2.0-flash,D,4,DK,Pathway,COVID,Descriptive - information retrival
+Covid_pathway_4,1,D,Covid_pathway_4A,gemini-2.0-flash,D,5,DK,Pathway,COVID,Descriptive - information retrival
+Covid_pathway_4,2,B,Covid_pathway_4B,gemini-2.0-flash,A,1,DK,Pathway,COVID,Descriptive - information retrival
+Covid_pathway_4,2,B,Covid_pathway_4B,gemini-2.0-flash,A,2,DK,Pathway,COVID,Descriptive - information retrival
+Covid_pathway_4,2,B,Covid_pathway_4B,gemini-2.0-flash,A,3,DK,Pathway,COVID,Descriptive - information retrival
+Covid_pathway_4,2,B,Covid_pathway_4B,gemini-2.0-flash,A,4,DK,Pathway,COVID,Descriptive - information retrival
+Covid_pathway_4,2,B,Covid_pathway_4B,gemini-2.0-flash,A,5,DK,Pathway,COVID,Descriptive - information retrival
+Covid_pathway_4,2,B,Covid_pathway_4A,gemini-2.0-flash,B,1,DK,Pathway,COVID,Descriptive - information retrival
+Covid_pathway_4,2,B,Covid_pathway_4A,gemini-2.0-flash,B,2,DK,Pathway,COVID,Descriptive - information retrival
+Covid_pathway_4,2,B,Covid_pathway_4A,gemini-2.0-flash,B,3,DK,Pathway,COVID,Descriptive - information retrival
+Covid_pathway_4,2,B,Covid_pathway_4A,gemini-2.0-flash,B,4,DK,Pathway,COVID,Descriptive - information retrival
+Covid_pathway_4,2,B,Covid_pathway_4A,gemini-2.0-flash,B,5,DK,Pathway,COVID,Descriptive - information retrival
+Covid_pathway_4,3,C,Covid_pathway_4B,gemini-2.0-flash,D,1,DK,Pathway,COVID,Descriptive - information retrival
+Covid_pathway_4,3,C,Covid_pathway_4B,gemini-2.0-flash,D,2,DK,Pathway,COVID,Descriptive - information retrival
+Covid_pathway_4,3,C,Covid_pathway_4B,gemini-2.0-flash,D,3,DK,Pathway,COVID,Descriptive - information retrival
+Covid_pathway_4,3,C,Covid_pathway_4B,gemini-2.0-flash,D,4,DK,Pathway,COVID,Descriptive - information retrival
+Covid_pathway_4,3,C,Covid_pathway_4B,gemini-2.0-flash,D,5,DK,Pathway,COVID,Descriptive - information retrival
+Covid_pathway_4,3,C,Covid_pathway_4A,gemini-2.0-flash,B,1,DK,Pathway,COVID,Descriptive - information retrival
+Covid_pathway_4,3,C,Covid_pathway_4A,gemini-2.0-flash,B,2,DK,Pathway,COVID,Descriptive - information retrival
+Covid_pathway_4,3,C,Covid_pathway_4A,gemini-2.0-flash,B,3,DK,Pathway,COVID,Descriptive - information retrival
+Covid_pathway_4,3,C,Covid_pathway_4A,gemini-2.0-flash,B,4,DK,Pathway,COVID,Descriptive - information retrival
+Covid_pathway_4,3,C,Covid_pathway_4A,gemini-2.0-flash,B,5,DK,Pathway,COVID,Descriptive - information retrival
+Covid_DE_5,1,B,Covid_DE_5A,gemini-2.0-flash,B,1,DK,DE,COVID,Descriptive - information retrival
+Covid_DE_5,1,B,Covid_DE_5A,gemini-2.0-flash,B,2,DK,DE,COVID,Descriptive - information retrival
+Covid_DE_5,1,B,Covid_DE_5A,gemini-2.0-flash,B,3,DK,DE,COVID,Descriptive - information retrival
+Covid_DE_5,1,B,Covid_DE_5A,gemini-2.0-flash,B,4,DK,DE,COVID,Descriptive - information retrival
+Covid_DE_5,1,B,Covid_DE_5A,gemini-2.0-flash,B,5,DK,DE,COVID,Descriptive - information retrival
+Covid_DE_5,2,A,Covid_DE_5A,gemini-2.0-flash,A,1,DK,DE,COVID,Descriptive - information retrival
+Covid_DE_5,2,A,Covid_DE_5A,gemini-2.0-flash,A,2,DK,DE,COVID,Descriptive - information retrival
+Covid_DE_5,2,A,Covid_DE_5A,gemini-2.0-flash,A,3,DK,DE,COVID,Descriptive - information retrival
+Covid_DE_5,2,A,Covid_DE_5A,gemini-2.0-flash,A,4,DK,DE,COVID,Descriptive - information retrival
+Covid_DE_5,2,A,Covid_DE_5A,gemini-2.0-flash,A,5,DK,DE,COVID,Descriptive - information retrival
+Covid_DE_5,3,C,Covid_DE_5A,gemini-2.0-flash,C,1,DK,DE,COVID,Descriptive - information retrival
+Covid_DE_5,3,C,Covid_DE_5A,gemini-2.0-flash,C,2,DK,DE,COVID,Descriptive - information retrival
+Covid_DE_5,3,C,Covid_DE_5A,gemini-2.0-flash,C,3,DK,DE,COVID,Descriptive - information retrival
+Covid_DE_5,3,C,Covid_DE_5A,gemini-2.0-flash,C,4,DK,DE,COVID,Descriptive - information retrival
+Covid_DE_5,3,C,Covid_DE_5A,gemini-2.0-flash,C,5,DK,DE,COVID,Descriptive - information retrival
+Covid_CCI_9,1,B,Covid_CCI_9A,gemini-2.0-flash,B,1,YC,CCI,COVID,Biological Inference
+Covid_CCI_9,1,B,Covid_CCI_9A,gemini-2.0-flash,B,2,YC,CCI,COVID,Biological Inference
+Covid_CCI_9,1,B,Covid_CCI_9A,gemini-2.0-flash,B,3,YC,CCI,COVID,Biological Inference
+Covid_CCI_9,1,B,Covid_CCI_9A,gemini-2.0-flash,B,4,YC,CCI,COVID,Biological Inference
+Covid_CCI_9,1,B,Covid_CCI_9A,gemini-2.0-flash,B,5,YC,CCI,COVID,Biological Inference
+Covid_CCI_9,1,B,Covid_CCI_9B,gemini-2.0-flash,B,1,YC,CCI,COVID,Biological Inference
+Covid_CCI_9,1,B,Covid_CCI_9B,gemini-2.0-flash,B,2,YC,CCI,COVID,Biological Inference
+Covid_CCI_9,1,B,Covid_CCI_9B,gemini-2.0-flash,B,3,YC,CCI,COVID,Biological Inference
+Covid_CCI_9,1,B,Covid_CCI_9B,gemini-2.0-flash,B,4,YC,CCI,COVID,Biological Inference
+Covid_CCI_9,1,B,Covid_CCI_9B,gemini-2.0-flash,B,5,YC,CCI,COVID,Biological Inference
+Covid_CCI_9,1,B,Covid_CCI_9C,gemini-2.0-flash,B,1,YC,CCI,COVID,Biological Inference
+Covid_CCI_9,1,B,Covid_CCI_9C,gemini-2.0-flash,B,2,YC,CCI,COVID,Biological Inference
+Covid_CCI_9,1,B,Covid_CCI_9C,gemini-2.0-flash,B,3,YC,CCI,COVID,Biological Inference
+Covid_CCI_9,1,B,Covid_CCI_9C,gemini-2.0-flash,B,4,YC,CCI,COVID,Biological Inference
+Covid_CCI_9,1,B,Covid_CCI_9C,gemini-2.0-flash,B,5,YC,CCI,COVID,Biological Inference
+Covid_CCI_9,1,B,Covid_CCI_9D,gemini-2.0-flash,B,1,YC,CCI,COVID,Biological Inference
+Covid_CCI_9,1,B,Covid_CCI_9D,gemini-2.0-flash,B,2,YC,CCI,COVID,Biological Inference
+Covid_CCI_9,1,B,Covid_CCI_9D,gemini-2.0-flash,B,3,YC,CCI,COVID,Biological Inference
+Covid_CCI_9,1,B,Covid_CCI_9D,gemini-2.0-flash,B,4,YC,CCI,COVID,Biological Inference
+Covid_CCI_9,1,B,Covid_CCI_9D,gemini-2.0-flash,B,5,YC,CCI,COVID,Biological Inference
+Covid_CCI_9,2,D,Covid_CCI_9A,gemini-2.0-flash,D,1,YC,CCI,COVID,Biological Inference
+Covid_CCI_9,2,D,Covid_CCI_9A,gemini-2.0-flash,D,2,YC,CCI,COVID,Biological Inference
+Covid_CCI_9,2,D,Covid_CCI_9A,gemini-2.0-flash,D,3,YC,CCI,COVID,Biological Inference
+Covid_CCI_9,2,D,Covid_CCI_9A,gemini-2.0-flash,D,4,YC,CCI,COVID,Biological Inference
+Covid_CCI_9,2,D,Covid_CCI_9A,gemini-2.0-flash,D,5,YC,CCI,COVID,Biological Inference
+Covid_CCI_9,2,D,Covid_CCI_9B,gemini-2.0-flash,A,1,YC,CCI,COVID,Biological Inference
+Covid_CCI_9,2,D,Covid_CCI_9B,gemini-2.0-flash,A,2,YC,CCI,COVID,Biological Inference
+Covid_CCI_9,2,D,Covid_CCI_9B,gemini-2.0-flash,A,3,YC,CCI,COVID,Biological Inference
+Covid_CCI_9,2,D,Covid_CCI_9B,gemini-2.0-flash,A,4,YC,CCI,COVID,Biological Inference
+Covid_CCI_9,2,D,Covid_CCI_9B,gemini-2.0-flash,A,5,YC,CCI,COVID,Biological Inference
+Covid_CCI_9,2,D,Covid_CCI_9C,gemini-2.0-flash,D,1,YC,CCI,COVID,Biological Inference
+Covid_CCI_9,2,D,Covid_CCI_9C,gemini-2.0-flash,D,2,YC,CCI,COVID,Biological Inference
+Covid_CCI_9,2,D,Covid_CCI_9C,gemini-2.0-flash,D,3,YC,CCI,COVID,Biological Inference
+Covid_CCI_9,2,D,Covid_CCI_9C,gemini-2.0-flash,D,4,YC,CCI,COVID,Biological Inference
+Covid_CCI_9,2,D,Covid_CCI_9C,gemini-2.0-flash,D,5,YC,CCI,COVID,Biological Inference
+Covid_CCI_9,2,D,Covid_CCI_9D,gemini-2.0-flash,D,1,YC,CCI,COVID,Biological Inference
+Covid_CCI_9,2,D,Covid_CCI_9D,gemini-2.0-flash,D,2,YC,CCI,COVID,Biological Inference
+Covid_CCI_9,2,D,Covid_CCI_9D,gemini-2.0-flash,D,3,YC,CCI,COVID,Biological Inference
+Covid_CCI_9,2,D,Covid_CCI_9D,gemini-2.0-flash,D,4,YC,CCI,COVID,Biological Inference
+Covid_CCI_9,2,D,Covid_CCI_9D,gemini-2.0-flash,D,5,YC,CCI,COVID,Biological Inference
+Covid_CCI_9,3,C,Covid_CCI_9A,gemini-2.0-flash,C,1,YC,CCI,COVID,Biological Inference
+Covid_CCI_9,3,C,Covid_CCI_9A,gemini-2.0-flash,C,2,YC,CCI,COVID,Biological Inference
+Covid_CCI_9,3,C,Covid_CCI_9A,gemini-2.0-flash,C,3,YC,CCI,COVID,Biological Inference
+Covid_CCI_9,3,C,Covid_CCI_9A,gemini-2.0-flash,C,4,YC,CCI,COVID,Biological Inference
+Covid_CCI_9,3,C,Covid_CCI_9A,gemini-2.0-flash,C,5,YC,CCI,COVID,Biological Inference
+Covid_CCI_9,3,C,Covid_CCI_9B,gemini-2.0-flash,C,1,YC,CCI,COVID,Biological Inference
+Covid_CCI_9,3,C,Covid_CCI_9B,gemini-2.0-flash,C,2,YC,CCI,COVID,Biological Inference
+Covid_CCI_9,3,C,Covid_CCI_9B,gemini-2.0-flash,C,3,YC,CCI,COVID,Biological Inference
+Covid_CCI_9,3,C,Covid_CCI_9B,gemini-2.0-flash,C,4,YC,CCI,COVID,Biological Inference
+Covid_CCI_9,3,C,Covid_CCI_9B,gemini-2.0-flash,C,5,YC,CCI,COVID,Biological Inference
+Covid_CCI_9,3,C,Covid_CCI_9C,gemini-2.0-flash,C,1,YC,CCI,COVID,Biological Inference
+Covid_CCI_9,3,C,Covid_CCI_9C,gemini-2.0-flash,C,2,YC,CCI,COVID,Biological Inference
+Covid_CCI_9,3,C,Covid_CCI_9C,gemini-2.0-flash,C,3,YC,CCI,COVID,Biological Inference
+Covid_CCI_9,3,C,Covid_CCI_9C,gemini-2.0-flash,C,4,YC,CCI,COVID,Biological Inference
+Covid_CCI_9,3,C,Covid_CCI_9C,gemini-2.0-flash,C,5,YC,CCI,COVID,Biological Inference
+Covid_CCI_9,3,C,Covid_CCI_9D,gemini-2.0-flash,C,1,YC,CCI,COVID,Biological Inference
+Covid_CCI_9,3,C,Covid_CCI_9D,gemini-2.0-flash,C,2,YC,CCI,COVID,Biological Inference
+Covid_CCI_9,3,C,Covid_CCI_9D,gemini-2.0-flash,C,3,YC,CCI,COVID,Biological Inference
+Covid_CCI_9,3,C,Covid_CCI_9D,gemini-2.0-flash,C,4,YC,CCI,COVID,Biological Inference
+Covid_CCI_9,3,C,Covid_CCI_9D,gemini-2.0-flash,C,5,YC,CCI,COVID,Biological Inference
+Covid_CCI_10,1,A,Covid_CCI_10A,gemini-2.0-flash,A,1,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_10,1,A,Covid_CCI_10A,gemini-2.0-flash,A,2,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_10,1,A,Covid_CCI_10A,gemini-2.0-flash,A,3,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_10,1,A,Covid_CCI_10A,gemini-2.0-flash,A,4,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_10,1,A,Covid_CCI_10A,gemini-2.0-flash,A,5,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_10,1,A,Covid_CCI_10B,gemini-2.0-flash,A,1,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_10,1,A,Covid_CCI_10B,gemini-2.0-flash,A,2,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_10,1,A,Covid_CCI_10B,gemini-2.0-flash,A,3,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_10,1,A,Covid_CCI_10B,gemini-2.0-flash,A,4,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_10,1,A,Covid_CCI_10B,gemini-2.0-flash,A,5,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_10,1,A,Covid_CCI_10C,gemini-2.0-flash,A,1,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_10,1,A,Covid_CCI_10C,gemini-2.0-flash,A,2,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_10,1,A,Covid_CCI_10C,gemini-2.0-flash,A,3,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_10,1,A,Covid_CCI_10C,gemini-2.0-flash,A,4,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_10,1,A,Covid_CCI_10C,gemini-2.0-flash,A,5,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_10,1,A,Covid_CCI_10D,gemini-2.0-flash,A,1,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_10,1,A,Covid_CCI_10D,gemini-2.0-flash,A,2,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_10,1,A,Covid_CCI_10D,gemini-2.0-flash,A,3,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_10,1,A,Covid_CCI_10D,gemini-2.0-flash,A,4,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_10,1,A,Covid_CCI_10D,gemini-2.0-flash,A,5,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_10,2,A,Covid_CCI_10A,gemini-2.0-flash,A,1,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_10,2,A,Covid_CCI_10A,gemini-2.0-flash,A,2,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_10,2,A,Covid_CCI_10A,gemini-2.0-flash,A,3,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_10,2,A,Covid_CCI_10A,gemini-2.0-flash,A,4,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_10,2,A,Covid_CCI_10A,gemini-2.0-flash,A,5,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_10,2,A,Covid_CCI_10B,gemini-2.0-flash,A,1,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_10,2,A,Covid_CCI_10B,gemini-2.0-flash,A,2,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_10,2,A,Covid_CCI_10B,gemini-2.0-flash,A,3,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_10,2,A,Covid_CCI_10B,gemini-2.0-flash,A,4,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_10,2,A,Covid_CCI_10B,gemini-2.0-flash,A,5,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_10,2,A,Covid_CCI_10C,gemini-2.0-flash,A,1,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_10,2,A,Covid_CCI_10C,gemini-2.0-flash,A,2,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_10,2,A,Covid_CCI_10C,gemini-2.0-flash,A,3,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_10,2,A,Covid_CCI_10C,gemini-2.0-flash,A,4,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_10,2,A,Covid_CCI_10C,gemini-2.0-flash,A,5,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_10,2,A,Covid_CCI_10D,gemini-2.0-flash,A,1,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_10,2,A,Covid_CCI_10D,gemini-2.0-flash,A,2,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_10,2,A,Covid_CCI_10D,gemini-2.0-flash,A,3,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_10,2,A,Covid_CCI_10D,gemini-2.0-flash,A,4,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_10,2,A,Covid_CCI_10D,gemini-2.0-flash,A,5,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_10,3,C,Covid_CCI_10A,gemini-2.0-flash,C,1,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_10,3,C,Covid_CCI_10A,gemini-2.0-flash,C,2,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_10,3,C,Covid_CCI_10A,gemini-2.0-flash,C,3,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_10,3,C,Covid_CCI_10A,gemini-2.0-flash,C,4,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_10,3,C,Covid_CCI_10A,gemini-2.0-flash,C,5,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_10,3,C,Covid_CCI_10B,gemini-2.0-flash,C,1,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_10,3,C,Covid_CCI_10B,gemini-2.0-flash,C,2,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_10,3,C,Covid_CCI_10B,gemini-2.0-flash,C,3,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_10,3,C,Covid_CCI_10B,gemini-2.0-flash,C,4,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_10,3,C,Covid_CCI_10B,gemini-2.0-flash,C,5,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_10,3,C,Covid_CCI_10C,gemini-2.0-flash,C,1,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_10,3,C,Covid_CCI_10C,gemini-2.0-flash,C,2,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_10,3,C,Covid_CCI_10C,gemini-2.0-flash,C,3,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_10,3,C,Covid_CCI_10C,gemini-2.0-flash,C,4,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_10,3,C,Covid_CCI_10C,gemini-2.0-flash,C,5,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_10,3,C,Covid_CCI_10D,gemini-2.0-flash,C,1,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_10,3,C,Covid_CCI_10D,gemini-2.0-flash,C,2,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_10,3,C,Covid_CCI_10D,gemini-2.0-flash,C,3,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_10,3,C,Covid_CCI_10D,gemini-2.0-flash,C,4,YC,CCI,COVID,Descriptive - information retrival
+Covid_CCI_10,3,C,Covid_CCI_10D,gemini-2.0-flash,C,5,YC,CCI,COVID,Descriptive - information retrival
+Covid_DE_2,1,B,Covid_DE_2A,gemini-2.0-flash,D,1,MS,DE,COVID,Biological Inference
+Covid_DE_2,1,B,Covid_DE_2A,gemini-2.0-flash,D,2,MS,DE,COVID,Biological Inference
+Covid_DE_2,1,B,Covid_DE_2A,gemini-2.0-flash,D,3,MS,DE,COVID,Biological Inference
+Covid_DE_2,1,B,Covid_DE_2A,gemini-2.0-flash,D,4,MS,DE,COVID,Biological Inference
+Covid_DE_2,1,B,Covid_DE_2A,gemini-2.0-flash,D,5,MS,DE,COVID,Biological Inference
+Covid_DE_2,2,D,Covid_DE_2A,gemini-2.0-flash,D,1,MS,DE,COVID,Biological Inference
+Covid_DE_2,2,D,Covid_DE_2A,gemini-2.0-flash,D,2,MS,DE,COVID,Biological Inference
+Covid_DE_2,2,D,Covid_DE_2A,gemini-2.0-flash,D,3,MS,DE,COVID,Biological Inference
+Covid_DE_2,2,D,Covid_DE_2A,gemini-2.0-flash,D,4,MS,DE,COVID,Biological Inference
+Covid_DE_2,2,D,Covid_DE_2A,gemini-2.0-flash,D,5,MS,DE,COVID,Biological Inference
+Covid_DE_2,3,A,Covid_DE_2A,gemini-2.0-flash,A,1,MS,DE,COVID,Biological Inference
+Covid_DE_2,3,A,Covid_DE_2A,gemini-2.0-flash,A,2,MS,DE,COVID,Biological Inference
+Covid_DE_2,3,A,Covid_DE_2A,gemini-2.0-flash,A,3,MS,DE,COVID,Biological Inference
+Covid_DE_2,3,A,Covid_DE_2A,gemini-2.0-flash,A,4,MS,DE,COVID,Biological Inference
+Covid_DE_2,3,A,Covid_DE_2A,gemini-2.0-flash,A,5,MS,DE,COVID,Biological Inference
+Covid_DE_3,1,C,Covid_DE_3A,gemini-2.0-flash,C,1,MS,DE,COVID,Biological Inference
+Covid_DE_3,1,C,Covid_DE_3A,gemini-2.0-flash,C,2,MS,DE,COVID,Biological Inference
+Covid_DE_3,1,C,Covid_DE_3A,gemini-2.0-flash,C,3,MS,DE,COVID,Biological Inference
+Covid_DE_3,1,C,Covid_DE_3A,gemini-2.0-flash,C,4,MS,DE,COVID,Biological Inference
+Covid_DE_3,1,C,Covid_DE_3A,gemini-2.0-flash,C,5,MS,DE,COVID,Biological Inference
+Covid_DE_3,2,B,Covid_DE_3A,gemini-2.0-flash,B,1,MS,DE,COVID,Biological Inference
+Covid_DE_3,2,B,Covid_DE_3A,gemini-2.0-flash,B,2,MS,DE,COVID,Biological Inference
+Covid_DE_3,2,B,Covid_DE_3A,gemini-2.0-flash,B,3,MS,DE,COVID,Biological Inference
+Covid_DE_3,2,B,Covid_DE_3A,gemini-2.0-flash,B,4,MS,DE,COVID,Biological Inference
+Covid_DE_3,2,B,Covid_DE_3A,gemini-2.0-flash,B,5,MS,DE,COVID,Biological Inference
+Covid_DE_3,3,B,Covid_DE_3A,gemini-2.0-flash,C,1,MS,DE,COVID,Biological Inference
+Covid_DE_3,3,B,Covid_DE_3A,gemini-2.0-flash,C,2,MS,DE,COVID,Biological Inference
+Covid_DE_3,3,B,Covid_DE_3A,gemini-2.0-flash,C,3,MS,DE,COVID,Biological Inference
+Covid_DE_3,3,B,Covid_DE_3A,gemini-2.0-flash,C,4,MS,DE,COVID,Biological Inference
+Covid_DE_3,3,B,Covid_DE_3A,gemini-2.0-flash,C,5,MS,DE,COVID,Biological Inference
+Covid_DE_4,1,A,Covid_DE_4A,gemini-2.0-flash,A,1,MS,DE,COVID,Biological Inference
+Covid_DE_4,1,A,Covid_DE_4A,gemini-2.0-flash,A,2,MS,DE,COVID,Biological Inference
+Covid_DE_4,1,A,Covid_DE_4A,gemini-2.0-flash,A,3,MS,DE,COVID,Biological Inference
+Covid_DE_4,1,A,Covid_DE_4A,gemini-2.0-flash,A,4,MS,DE,COVID,Biological Inference
+Covid_DE_4,1,A,Covid_DE_4A,gemini-2.0-flash,A,5,MS,DE,COVID,Biological Inference
+Covid_DE_4,2,D,Covid_DE_4A,gemini-2.0-flash,D,1,MS,DE,COVID,Biological Inference
+Covid_DE_4,2,D,Covid_DE_4A,gemini-2.0-flash,D,2,MS,DE,COVID,Biological Inference
+Covid_DE_4,2,D,Covid_DE_4A,gemini-2.0-flash,D,3,MS,DE,COVID,Biological Inference
+Covid_DE_4,2,D,Covid_DE_4A,gemini-2.0-flash,D,4,MS,DE,COVID,Biological Inference
+Covid_DE_4,2,D,Covid_DE_4A,gemini-2.0-flash,D,5,MS,DE,COVID,Biological Inference
+Covid_DE_4,3,B,Covid_DE_4A,gemini-2.0-flash,B,1,MS,DE,COVID,Biological Inference
+Covid_DE_4,3,B,Covid_DE_4A,gemini-2.0-flash,B,2,MS,DE,COVID,Biological Inference
+Covid_DE_4,3,B,Covid_DE_4A,gemini-2.0-flash,B,3,MS,DE,COVID,Biological Inference
+Covid_DE_4,3,B,Covid_DE_4A,gemini-2.0-flash,B,4,MS,DE,COVID,Biological Inference
+Covid_DE_4,3,B,Covid_DE_4A,gemini-2.0-flash,B,5,MS,DE,COVID,Biological Inference
+Covid_Pathway_1,1,D,Covid_Pathway_1A,gemini-2.0-flash,D,1,MS,Pathway,COVID,Biological Inference
+Covid_Pathway_1,1,D,Covid_Pathway_1A,gemini-2.0-flash,D,2,MS,Pathway,COVID,Biological Inference
+Covid_Pathway_1,1,D,Covid_Pathway_1A,gemini-2.0-flash,D,3,MS,Pathway,COVID,Biological Inference
+Covid_Pathway_1,1,D,Covid_Pathway_1A,gemini-2.0-flash,D,4,MS,Pathway,COVID,Biological Inference
+Covid_Pathway_1,1,D,Covid_Pathway_1A,gemini-2.0-flash,D,5,MS,Pathway,COVID,Biological Inference
+Covid_Pathway_1,1,D,Covid_Pathway_1B,gemini-2.0-flash,D,1,MS,Pathway,COVID,Biological Inference
+Covid_Pathway_1,1,D,Covid_Pathway_1B,gemini-2.0-flash,D,2,MS,Pathway,COVID,Biological Inference
+Covid_Pathway_1,1,D,Covid_Pathway_1B,gemini-2.0-flash,D,3,MS,Pathway,COVID,Biological Inference
+Covid_Pathway_1,1,D,Covid_Pathway_1B,gemini-2.0-flash,D,4,MS,Pathway,COVID,Biological Inference
+Covid_Pathway_1,1,D,Covid_Pathway_1B,gemini-2.0-flash,D,5,MS,Pathway,COVID,Biological Inference
+Covid_Pathway_1,1,D,Covid_Pathway_1C,gemini-2.0-flash,D,1,MS,Pathway,COVID,Biological Inference
+Covid_Pathway_1,1,D,Covid_Pathway_1C,gemini-2.0-flash,D,2,MS,Pathway,COVID,Biological Inference
+Covid_Pathway_1,1,D,Covid_Pathway_1C,gemini-2.0-flash,D,3,MS,Pathway,COVID,Biological Inference
+Covid_Pathway_1,1,D,Covid_Pathway_1C,gemini-2.0-flash,D,4,MS,Pathway,COVID,Biological Inference
+Covid_Pathway_1,1,D,Covid_Pathway_1C,gemini-2.0-flash,D,5,MS,Pathway,COVID,Biological Inference
+Covid_Pathway_1,2,B,Covid_Pathway_1A,gemini-2.0-flash,B,1,MS,Pathway,COVID,Biological Inference
+Covid_Pathway_1,2,B,Covid_Pathway_1A,gemini-2.0-flash,B,2,MS,Pathway,COVID,Biological Inference
+Covid_Pathway_1,2,B,Covid_Pathway_1A,gemini-2.0-flash,B,3,MS,Pathway,COVID,Biological Inference
+Covid_Pathway_1,2,B,Covid_Pathway_1A,gemini-2.0-flash,B,4,MS,Pathway,COVID,Biological Inference
+Covid_Pathway_1,2,B,Covid_Pathway_1A,gemini-2.0-flash,B,5,MS,Pathway,COVID,Biological Inference
+Covid_Pathway_1,2,B,Covid_Pathway_1B,gemini-2.0-flash,D,1,MS,Pathway,COVID,Biological Inference
+Covid_Pathway_1,2,B,Covid_Pathway_1B,gemini-2.0-flash,D,2,MS,Pathway,COVID,Biological Inference
+Covid_Pathway_1,2,B,Covid_Pathway_1B,gemini-2.0-flash,B,3,MS,Pathway,COVID,Biological Inference
+Covid_Pathway_1,2,B,Covid_Pathway_1B,gemini-2.0-flash,B,4,MS,Pathway,COVID,Biological Inference
+Covid_Pathway_1,2,B,Covid_Pathway_1B,gemini-2.0-flash,B,5,MS,Pathway,COVID,Biological Inference
+Covid_Pathway_1,2,B,Covid_Pathway_1C,gemini-2.0-flash,D,1,MS,Pathway,COVID,Biological Inference
+Covid_Pathway_1,2,B,Covid_Pathway_1C,gemini-2.0-flash,D,2,MS,Pathway,COVID,Biological Inference
+Covid_Pathway_1,2,B,Covid_Pathway_1C,gemini-2.0-flash,D,3,MS,Pathway,COVID,Biological Inference
+Covid_Pathway_1,2,B,Covid_Pathway_1C,gemini-2.0-flash,D,4,MS,Pathway,COVID,Biological Inference
+Covid_Pathway_1,2,B,Covid_Pathway_1C,gemini-2.0-flash,D,5,MS,Pathway,COVID,Biological Inference
+Covid_Pathway_1,3,C,Covid_Pathway_1A,gemini-2.0-flash,A,1,MS,Pathway,COVID,Biological Inference
+Covid_Pathway_1,3,C,Covid_Pathway_1A,gemini-2.0-flash,A,2,MS,Pathway,COVID,Biological Inference
+Covid_Pathway_1,3,C,Covid_Pathway_1A,gemini-2.0-flash,A,3,MS,Pathway,COVID,Biological Inference
+Covid_Pathway_1,3,C,Covid_Pathway_1A,gemini-2.0-flash,A,4,MS,Pathway,COVID,Biological Inference
+Covid_Pathway_1,3,C,Covid_Pathway_1A,gemini-2.0-flash,A,5,MS,Pathway,COVID,Biological Inference
+Covid_Pathway_1,3,C,Covid_Pathway_1B,gemini-2.0-flash,A,1,MS,Pathway,COVID,Biological Inference
+Covid_Pathway_1,3,C,Covid_Pathway_1B,gemini-2.0-flash,A,2,MS,Pathway,COVID,Biological Inference
+Covid_Pathway_1,3,C,Covid_Pathway_1B,gemini-2.0-flash,A,3,MS,Pathway,COVID,Biological Inference
+Covid_Pathway_1,3,C,Covid_Pathway_1B,gemini-2.0-flash,A,4,MS,Pathway,COVID,Biological Inference
+Covid_Pathway_1,3,C,Covid_Pathway_1B,gemini-2.0-flash,A,5,MS,Pathway,COVID,Biological Inference
+Covid_Pathway_1,3,C,Covid_Pathway_1C,gemini-2.0-flash,A,1,MS,Pathway,COVID,Biological Inference
+Covid_Pathway_1,3,C,Covid_Pathway_1C,gemini-2.0-flash,A,2,MS,Pathway,COVID,Biological Inference
+Covid_Pathway_1,3,C,Covid_Pathway_1C,gemini-2.0-flash,A,3,MS,Pathway,COVID,Biological Inference
+Covid_Pathway_1,3,C,Covid_Pathway_1C,gemini-2.0-flash,A,4,MS,Pathway,COVID,Biological Inference
+Covid_Pathway_1,3,C,Covid_Pathway_1C,gemini-2.0-flash,A,5,MS,Pathway,COVID,Biological Inference
+Covid_Pathway_2,1,B,Covid_Pathway_2A,gemini-2.0-flash,B,1,MS,Pathway,COVID,Biological Inference
+Covid_Pathway_2,1,B,Covid_Pathway_2A,gemini-2.0-flash,B,2,MS,Pathway,COVID,Biological Inference
+Covid_Pathway_2,1,B,Covid_Pathway_2A,gemini-2.0-flash,B,3,MS,Pathway,COVID,Biological Inference
+Covid_Pathway_2,1,B,Covid_Pathway_2A,gemini-2.0-flash,B,4,MS,Pathway,COVID,Biological Inference
+Covid_Pathway_2,1,B,Covid_Pathway_2A,gemini-2.0-flash,B,5,MS,Pathway,COVID,Biological Inference
+Covid_Pathway_2,1,B,Covid_Pathway_2B,gemini-2.0-flash,B,1,MS,Pathway,COVID,Biological Inference
+Covid_Pathway_2,1,B,Covid_Pathway_2B,gemini-2.0-flash,B,2,MS,Pathway,COVID,Biological Inference
+Covid_Pathway_2,1,B,Covid_Pathway_2B,gemini-2.0-flash,B,3,MS,Pathway,COVID,Biological Inference
+Covid_Pathway_2,1,B,Covid_Pathway_2B,gemini-2.0-flash,B,4,MS,Pathway,COVID,Biological Inference
+Covid_Pathway_2,1,B,Covid_Pathway_2B,gemini-2.0-flash,B,5,MS,Pathway,COVID,Biological Inference
+Covid_Pathway_2,1,B,Covid_Pathway_2C,gemini-2.0-flash,B,1,MS,Pathway,COVID,Biological Inference
+Covid_Pathway_2,1,B,Covid_Pathway_2C,gemini-2.0-flash,B,2,MS,Pathway,COVID,Biological Inference
+Covid_Pathway_2,1,B,Covid_Pathway_2C,gemini-2.0-flash,B,3,MS,Pathway,COVID,Biological Inference
+Covid_Pathway_2,1,B,Covid_Pathway_2C,gemini-2.0-flash,B,4,MS,Pathway,COVID,Biological Inference
+Covid_Pathway_2,1,B,Covid_Pathway_2C,gemini-2.0-flash,B,5,MS,Pathway,COVID,Biological Inference
+Covid_Pathway_2,2,A,Covid_Pathway_2A,gemini-2.0-flash,A,1,MS,Pathway,COVID,Biological Inference
+Covid_Pathway_2,2,A,Covid_Pathway_2A,gemini-2.0-flash,A,2,MS,Pathway,COVID,Biological Inference
+Covid_Pathway_2,2,A,Covid_Pathway_2A,gemini-2.0-flash,A,3,MS,Pathway,COVID,Biological Inference
+Covid_Pathway_2,2,A,Covid_Pathway_2A,gemini-2.0-flash,A,4,MS,Pathway,COVID,Biological Inference
+Covid_Pathway_2,2,A,Covid_Pathway_2A,gemini-2.0-flash,A,5,MS,Pathway,COVID,Biological Inference
+Covid_Pathway_2,2,A,Covid_Pathway_2B,gemini-2.0-flash,A,1,MS,Pathway,COVID,Biological Inference
+Covid_Pathway_2,2,A,Covid_Pathway_2B,gemini-2.0-flash,A,2,MS,Pathway,COVID,Biological Inference
+Covid_Pathway_2,2,A,Covid_Pathway_2B,gemini-2.0-flash,A,3,MS,Pathway,COVID,Biological Inference
+Covid_Pathway_2,2,A,Covid_Pathway_2B,gemini-2.0-flash,A,4,MS,Pathway,COVID,Biological Inference
+Covid_Pathway_2,2,A,Covid_Pathway_2B,gemini-2.0-flash,A,5,MS,Pathway,COVID,Biological Inference
+Covid_Pathway_2,2,A,Covid_Pathway_2C,gemini-2.0-flash,D,1,MS,Pathway,COVID,Biological Inference
+Covid_Pathway_2,2,A,Covid_Pathway_2C,gemini-2.0-flash,D,2,MS,Pathway,COVID,Biological Inference
+Covid_Pathway_2,2,A,Covid_Pathway_2C,gemini-2.0-flash,D,3,MS,Pathway,COVID,Biological Inference
+Covid_Pathway_2,2,A,Covid_Pathway_2C,gemini-2.0-flash,D,4,MS,Pathway,COVID,Biological Inference
+Covid_Pathway_2,2,A,Covid_Pathway_2C,gemini-2.0-flash,D,5,MS,Pathway,COVID,Biological Inference
+Covid_Pathway_2,3,C,Covid_Pathway_2A,gemini-2.0-flash,C,1,MS,Pathway,COVID,Biological Inference
+Covid_Pathway_2,3,C,Covid_Pathway_2A,gemini-2.0-flash,C,2,MS,Pathway,COVID,Biological Inference
+Covid_Pathway_2,3,C,Covid_Pathway_2A,gemini-2.0-flash,C,3,MS,Pathway,COVID,Biological Inference
+Covid_Pathway_2,3,C,Covid_Pathway_2A,gemini-2.0-flash,C,4,MS,Pathway,COVID,Biological Inference
+Covid_Pathway_2,3,C,Covid_Pathway_2A,gemini-2.0-flash,C,5,MS,Pathway,COVID,Biological Inference
+Covid_Pathway_2,3,C,Covid_Pathway_2B,gemini-2.0-flash,C,1,MS,Pathway,COVID,Biological Inference
+Covid_Pathway_2,3,C,Covid_Pathway_2B,gemini-2.0-flash,C,2,MS,Pathway,COVID,Biological Inference
+Covid_Pathway_2,3,C,Covid_Pathway_2B,gemini-2.0-flash,C,3,MS,Pathway,COVID,Biological Inference
+Covid_Pathway_2,3,C,Covid_Pathway_2B,gemini-2.0-flash,C,4,MS,Pathway,COVID,Biological Inference
+Covid_Pathway_2,3,C,Covid_Pathway_2B,gemini-2.0-flash,C,5,MS,Pathway,COVID,Biological Inference
+Covid_Pathway_2,3,C,Covid_Pathway_2C,gemini-2.0-flash,C,1,MS,Pathway,COVID,Biological Inference
+Covid_Pathway_2,3,C,Covid_Pathway_2C,gemini-2.0-flash,C,2,MS,Pathway,COVID,Biological Inference
+Covid_Pathway_2,3,C,Covid_Pathway_2C,gemini-2.0-flash,C,3,MS,Pathway,COVID,Biological Inference
+Covid_Pathway_2,3,C,Covid_Pathway_2C,gemini-2.0-flash,C,4,MS,Pathway,COVID,Biological Inference
+Covid_Pathway_2,3,C,Covid_Pathway_2C,gemini-2.0-flash,C,5,MS,Pathway,COVID,Biological Inference
+Ghist_ClassifyR_2,1,A,Ghist_ClassifyR_2A,gemini-2.0-flash,A,1,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_2,1,A,Ghist_ClassifyR_2A,gemini-2.0-flash,A,2,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_2,1,A,Ghist_ClassifyR_2A,gemini-2.0-flash,A,3,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_2,1,A,Ghist_ClassifyR_2A,gemini-2.0-flash,A,4,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_2,1,A,Ghist_ClassifyR_2A,gemini-2.0-flash,A,5,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_2,1,A,Ghist_ClassifyR_2B,gemini-2.0-flash,A,1,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_2,1,A,Ghist_ClassifyR_2B,gemini-2.0-flash,A,2,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_2,1,A,Ghist_ClassifyR_2B,gemini-2.0-flash,A,3,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_2,1,A,Ghist_ClassifyR_2B,gemini-2.0-flash,A,4,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_2,1,A,Ghist_ClassifyR_2B,gemini-2.0-flash,A,5,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_2,1,A,Ghist_ClassifyR_2C,gemini-2.0-flash,A,1,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_2,1,A,Ghist_ClassifyR_2C,gemini-2.0-flash,A,2,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_2,1,A,Ghist_ClassifyR_2C,gemini-2.0-flash,A,3,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_2,1,A,Ghist_ClassifyR_2C,gemini-2.0-flash,A,4,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_2,1,A,Ghist_ClassifyR_2C,gemini-2.0-flash,A,5,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_2,2,D,Ghist_ClassifyR_2A,gemini-2.0-flash,D,1,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_2,2,D,Ghist_ClassifyR_2A,gemini-2.0-flash,D,2,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_2,2,D,Ghist_ClassifyR_2A,gemini-2.0-flash,D,3,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_2,2,D,Ghist_ClassifyR_2A,gemini-2.0-flash,D,4,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_2,2,D,Ghist_ClassifyR_2A,gemini-2.0-flash,D,5,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_2,2,D,Ghist_ClassifyR_2B,gemini-2.0-flash,D,1,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_2,2,D,Ghist_ClassifyR_2B,gemini-2.0-flash,D,2,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_2,2,D,Ghist_ClassifyR_2B,gemini-2.0-flash,D,3,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_2,2,D,Ghist_ClassifyR_2B,gemini-2.0-flash,D,4,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_2,2,D,Ghist_ClassifyR_2B,gemini-2.0-flash,D,5,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_2,2,D,Ghist_ClassifyR_2C,gemini-2.0-flash,C,1,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_2,2,D,Ghist_ClassifyR_2C,gemini-2.0-flash,C,2,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_2,2,D,Ghist_ClassifyR_2C,gemini-2.0-flash,C,3,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_2,2,D,Ghist_ClassifyR_2C,gemini-2.0-flash,C,4,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_2,2,D,Ghist_ClassifyR_2C,gemini-2.0-flash,C,5,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_2,3,B,Ghist_ClassifyR_2A,gemini-2.0-flash,B,1,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_2,3,B,Ghist_ClassifyR_2A,gemini-2.0-flash,B,2,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_2,3,B,Ghist_ClassifyR_2A,gemini-2.0-flash,B,3,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_2,3,B,Ghist_ClassifyR_2A,gemini-2.0-flash,B,4,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_2,3,B,Ghist_ClassifyR_2A,gemini-2.0-flash,B,5,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_2,3,B,Ghist_ClassifyR_2B,gemini-2.0-flash,B,1,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_2,3,B,Ghist_ClassifyR_2B,gemini-2.0-flash,B,2,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_2,3,B,Ghist_ClassifyR_2B,gemini-2.0-flash,B,3,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_2,3,B,Ghist_ClassifyR_2B,gemini-2.0-flash,B,4,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_2,3,B,Ghist_ClassifyR_2B,gemini-2.0-flash,B,5,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_2,3,B,Ghist_ClassifyR_2C,gemini-2.0-flash,B,1,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_2,3,B,Ghist_ClassifyR_2C,gemini-2.0-flash,B,2,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_2,3,B,Ghist_ClassifyR_2C,gemini-2.0-flash,B,3,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_2,3,B,Ghist_ClassifyR_2C,gemini-2.0-flash,B,4,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_2,3,B,Ghist_ClassifyR_2C,gemini-2.0-flash,B,5,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_3,1,A,Ghist_ClassifyR_3A,gemini-2.0-flash,D,1,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_3,1,A,Ghist_ClassifyR_3A,gemini-2.0-flash,D,2,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_3,1,A,Ghist_ClassifyR_3A,gemini-2.0-flash,D,3,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_3,1,A,Ghist_ClassifyR_3A,gemini-2.0-flash,D,4,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_3,1,A,Ghist_ClassifyR_3A,gemini-2.0-flash,D,5,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_3,1,A,Ghist_ClassifyR_3B,gemini-2.0-flash,D,1,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_3,1,A,Ghist_ClassifyR_3B,gemini-2.0-flash,D,2,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_3,1,A,Ghist_ClassifyR_3B,gemini-2.0-flash,D,3,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_3,1,A,Ghist_ClassifyR_3B,gemini-2.0-flash,D,4,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_3,1,A,Ghist_ClassifyR_3B,gemini-2.0-flash,D,5,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_3,1,A,Ghist_ClassifyR_3C,gemini-2.0-flash,A,1,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_3,1,A,Ghist_ClassifyR_3C,gemini-2.0-flash,A,2,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_3,1,A,Ghist_ClassifyR_3C,gemini-2.0-flash,A,3,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_3,1,A,Ghist_ClassifyR_3C,gemini-2.0-flash,A,4,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_3,1,A,Ghist_ClassifyR_3C,gemini-2.0-flash,A,5,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_3,2,B,Ghist_ClassifyR_3A,gemini-2.0-flash,C,1,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_3,2,B,Ghist_ClassifyR_3A,gemini-2.0-flash,C,2,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_3,2,B,Ghist_ClassifyR_3A,gemini-2.0-flash,C,3,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_3,2,B,Ghist_ClassifyR_3A,gemini-2.0-flash,C,4,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_3,2,B,Ghist_ClassifyR_3A,gemini-2.0-flash,C,5,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_3,2,B,Ghist_ClassifyR_3B,gemini-2.0-flash,C,1,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_3,2,B,Ghist_ClassifyR_3B,gemini-2.0-flash,C,2,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_3,2,B,Ghist_ClassifyR_3B,gemini-2.0-flash,C,3,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_3,2,B,Ghist_ClassifyR_3B,gemini-2.0-flash,C,4,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_3,2,B,Ghist_ClassifyR_3B,gemini-2.0-flash,C,5,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_3,2,B,Ghist_ClassifyR_3C,gemini-2.0-flash,B,1,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_3,2,B,Ghist_ClassifyR_3C,gemini-2.0-flash,B,2,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_3,2,B,Ghist_ClassifyR_3C,gemini-2.0-flash,B,3,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_3,2,B,Ghist_ClassifyR_3C,gemini-2.0-flash,B,4,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_3,2,B,Ghist_ClassifyR_3C,gemini-2.0-flash,B,5,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_3,3,B,Ghist_ClassifyR_3A,gemini-2.0-flash,B,1,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_3,3,B,Ghist_ClassifyR_3A,gemini-2.0-flash,B,2,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_3,3,B,Ghist_ClassifyR_3A,gemini-2.0-flash,B,3,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_3,3,B,Ghist_ClassifyR_3A,gemini-2.0-flash,B,4,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_3,3,B,Ghist_ClassifyR_3A,gemini-2.0-flash,B,5,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_3,3,B,Ghist_ClassifyR_3B,gemini-2.0-flash,B,1,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_3,3,B,Ghist_ClassifyR_3B,gemini-2.0-flash,B,2,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_3,3,B,Ghist_ClassifyR_3B,gemini-2.0-flash,B,3,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_3,3,B,Ghist_ClassifyR_3B,gemini-2.0-flash,B,4,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_3,3,B,Ghist_ClassifyR_3B,gemini-2.0-flash,B,5,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_3,3,B,Ghist_ClassifyR_3C,gemini-2.0-flash,B,1,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_3,3,B,Ghist_ClassifyR_3C,gemini-2.0-flash,B,2,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_3,3,B,Ghist_ClassifyR_3C,gemini-2.0-flash,B,3,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_3,3,B,Ghist_ClassifyR_3C,gemini-2.0-flash,B,4,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_3,3,B,Ghist_ClassifyR_3C,gemini-2.0-flash,B,5,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_4,1,B,Ghist_ClassifyR_4A,gemini-2.0-flash,A,1,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_4,1,B,Ghist_ClassifyR_4A,gemini-2.0-flash,A,2,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_4,1,B,Ghist_ClassifyR_4A,gemini-2.0-flash,A,3,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_4,1,B,Ghist_ClassifyR_4A,gemini-2.0-flash,A,4,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_4,1,B,Ghist_ClassifyR_4A,gemini-2.0-flash,A,5,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_4,1,B,Ghist_ClassifyR_4B,gemini-2.0-flash,A,1,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_4,1,B,Ghist_ClassifyR_4B,gemini-2.0-flash,A,2,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_4,1,B,Ghist_ClassifyR_4B,gemini-2.0-flash,A,3,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_4,1,B,Ghist_ClassifyR_4B,gemini-2.0-flash,A,4,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_4,1,B,Ghist_ClassifyR_4B,gemini-2.0-flash,A,5,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_4,1,B,Metabric_ClassifyR_4C,gemini-2.0-flash,A,1,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_4,1,B,Metabric_ClassifyR_4C,gemini-2.0-flash,A,2,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_4,1,B,Metabric_ClassifyR_4C,gemini-2.0-flash,A,3,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_4,1,B,Metabric_ClassifyR_4C,gemini-2.0-flash,A,4,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_4,1,B,Metabric_ClassifyR_4C,gemini-2.0-flash,A,5,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_4,2,C,Ghist_ClassifyR_4A,gemini-2.0-flash,C,1,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_4,2,C,Ghist_ClassifyR_4A,gemini-2.0-flash,C,2,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_4,2,C,Ghist_ClassifyR_4A,gemini-2.0-flash,C,3,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_4,2,C,Ghist_ClassifyR_4A,gemini-2.0-flash,C,4,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_4,2,C,Ghist_ClassifyR_4A,gemini-2.0-flash,C,5,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_4,2,C,Ghist_ClassifyR_4B,gemini-2.0-flash,C,1,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_4,2,C,Ghist_ClassifyR_4B,gemini-2.0-flash,C,2,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_4,2,C,Ghist_ClassifyR_4B,gemini-2.0-flash,C,3,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_4,2,C,Ghist_ClassifyR_4B,gemini-2.0-flash,C,4,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_4,2,C,Ghist_ClassifyR_4B,gemini-2.0-flash,C,5,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_4,2,C,Metabric_ClassifyR_4C,gemini-2.0-flash,C,1,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_4,2,C,Metabric_ClassifyR_4C,gemini-2.0-flash,C,2,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_4,2,C,Metabric_ClassifyR_4C,gemini-2.0-flash,C,3,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_4,2,C,Metabric_ClassifyR_4C,gemini-2.0-flash,C,4,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_4,2,C,Metabric_ClassifyR_4C,gemini-2.0-flash,C,5,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_4,3,A,Ghist_ClassifyR_4A,gemini-2.0-flash,A,1,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_4,3,A,Ghist_ClassifyR_4A,gemini-2.0-flash,A,2,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_4,3,A,Ghist_ClassifyR_4A,gemini-2.0-flash,A,3,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_4,3,A,Ghist_ClassifyR_4A,gemini-2.0-flash,A,4,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_4,3,A,Ghist_ClassifyR_4A,gemini-2.0-flash,A,5,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_4,3,A,Ghist_ClassifyR_4B,gemini-2.0-flash,D,1,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_4,3,A,Ghist_ClassifyR_4B,gemini-2.0-flash,A,2,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_4,3,A,Ghist_ClassifyR_4B,gemini-2.0-flash,A,3,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_4,3,A,Ghist_ClassifyR_4B,gemini-2.0-flash,D,4,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_4,3,A,Ghist_ClassifyR_4B,gemini-2.0-flash,A,5,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_4,3,A,Metabric_ClassifyR_4C,gemini-2.0-flash,A,1,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_4,3,A,Metabric_ClassifyR_4C,gemini-2.0-flash,A,2,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_4,3,A,Metabric_ClassifyR_4C,gemini-2.0-flash,A,3,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_4,3,A,Metabric_ClassifyR_4C,gemini-2.0-flash,A,4,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Ghist_ClassifyR_4,3,A,Metabric_ClassifyR_4C,gemini-2.0-flash,A,5,JG,ClassifyR,Breast Cancer,Descriptive - information retrival
+Covid_pathway_5,1,B,Covid_pathway_5B,gemini-2.0-flash,D,1,DK,Pathway,Covid,Biological Inference
+Covid_pathway_5,1,B,Covid_pathway_5B,gemini-2.0-flash,D,2,DK,Pathway,Covid,Biological Inference
+Covid_pathway_5,1,B,Covid_pathway_5B,gemini-2.0-flash,D,3,DK,Pathway,Covid,Biological Inference
+Covid_pathway_5,1,B,Covid_pathway_5B,gemini-2.0-flash,D,4,DK,Pathway,Covid,Biological Inference
+Covid_pathway_5,1,B,Covid_pathway_5B,gemini-2.0-flash,D,5,DK,Pathway,Covid,Biological Inference
+Covid_pathway_5,1,B,Covid_pathway_5A,gemini-2.0-flash,B,1,DK,Pathway,Covid,Biological Inference
+Covid_pathway_5,1,B,Covid_pathway_5A,gemini-2.0-flash,B,2,DK,Pathway,Covid,Biological Inference
+Covid_pathway_5,1,B,Covid_pathway_5A,gemini-2.0-flash,B,3,DK,Pathway,Covid,Biological Inference
+Covid_pathway_5,1,B,Covid_pathway_5A,gemini-2.0-flash,B,4,DK,Pathway,Covid,Biological Inference
+Covid_pathway_5,1,B,Covid_pathway_5A,gemini-2.0-flash,B,5,DK,Pathway,Covid,Biological Inference
+Covid_pathway_5,2,B,Covid_pathway_5B,gemini-2.0-flash,A,1,DK,Pathway,Covid,Biological Inference
+Covid_pathway_5,2,B,Covid_pathway_5B,gemini-2.0-flash,A,2,DK,Pathway,Covid,Biological Inference
+Covid_pathway_5,2,B,Covid_pathway_5B,gemini-2.0-flash,A,3,DK,Pathway,Covid,Biological Inference
+Covid_pathway_5,2,B,Covid_pathway_5B,gemini-2.0-flash,A,4,DK,Pathway,Covid,Biological Inference
+Covid_pathway_5,2,B,Covid_pathway_5B,gemini-2.0-flash,A,5,DK,Pathway,Covid,Biological Inference
+Covid_pathway_5,2,B,Covid_pathway_5A,gemini-2.0-flash,B,1,DK,Pathway,Covid,Biological Inference
+Covid_pathway_5,2,B,Covid_pathway_5A,gemini-2.0-flash,B,2,DK,Pathway,Covid,Biological Inference
+Covid_pathway_5,2,B,Covid_pathway_5A,gemini-2.0-flash,B,3,DK,Pathway,Covid,Biological Inference
+Covid_pathway_5,2,B,Covid_pathway_5A,gemini-2.0-flash,B,4,DK,Pathway,Covid,Biological Inference
+Covid_pathway_5,2,B,Covid_pathway_5A,gemini-2.0-flash,B,5,DK,Pathway,Covid,Biological Inference
+Covid_pathway_5,3,D,Covid_pathway_5B,gemini-2.0-flash,D,1,DK,Pathway,Covid,Biological Inference
+Covid_pathway_5,3,D,Covid_pathway_5B,gemini-2.0-flash,D,2,DK,Pathway,Covid,Biological Inference
+Covid_pathway_5,3,D,Covid_pathway_5B,gemini-2.0-flash,D,3,DK,Pathway,Covid,Biological Inference
+Covid_pathway_5,3,D,Covid_pathway_5B,gemini-2.0-flash,D,4,DK,Pathway,Covid,Biological Inference
+Covid_pathway_5,3,D,Covid_pathway_5B,gemini-2.0-flash,D,5,DK,Pathway,Covid,Biological Inference
+Covid_pathway_5,3,D,Covid_pathway_5A,gemini-2.0-flash,D,1,DK,Pathway,Covid,Biological Inference
+Covid_pathway_5,3,D,Covid_pathway_5A,gemini-2.0-flash,D,2,DK,Pathway,Covid,Biological Inference
+Covid_pathway_5,3,D,Covid_pathway_5A,gemini-2.0-flash,D,3,DK,Pathway,Covid,Biological Inference
+Covid_pathway_5,3,D,Covid_pathway_5A,gemini-2.0-flash,D,4,DK,Pathway,Covid,Biological Inference
+Covid_pathway_5,3,D,Covid_pathway_5A,gemini-2.0-flash,D,5,DK,Pathway,Covid,Biological Inference
+Covid_pathway_6,1,A,Covid_pathway_6B,gemini-2.0-flash,A,1,DK,Pathway,Covid,Biological Inference
+Covid_pathway_6,1,A,Covid_pathway_6B,gemini-2.0-flash,A,2,DK,Pathway,Covid,Biological Inference
+Covid_pathway_6,1,A,Covid_pathway_6B,gemini-2.0-flash,A,3,DK,Pathway,Covid,Biological Inference
+Covid_pathway_6,1,A,Covid_pathway_6B,gemini-2.0-flash,A,4,DK,Pathway,Covid,Biological Inference
+Covid_pathway_6,1,A,Covid_pathway_6B,gemini-2.0-flash,A,5,DK,Pathway,Covid,Biological Inference
+Covid_pathway_6,1,A,Covid_pathway_6A,gemini-2.0-flash,A,1,DK,Pathway,Covid,Biological Inference
+Covid_pathway_6,1,A,Covid_pathway_6A,gemini-2.0-flash,A,2,DK,Pathway,Covid,Biological Inference
+Covid_pathway_6,1,A,Covid_pathway_6A,gemini-2.0-flash,A,3,DK,Pathway,Covid,Biological Inference
+Covid_pathway_6,1,A,Covid_pathway_6A,gemini-2.0-flash,A,4,DK,Pathway,Covid,Biological Inference
+Covid_pathway_6,1,A,Covid_pathway_6A,gemini-2.0-flash,A,5,DK,Pathway,Covid,Biological Inference
+Covid_pathway_6,2,B,Covid_pathway_6B,gemini-2.0-flash,D,1,DK,Pathway,Covid,Biological Inference
+Covid_pathway_6,2,B,Covid_pathway_6B,gemini-2.0-flash,D,2,DK,Pathway,Covid,Biological Inference
+Covid_pathway_6,2,B,Covid_pathway_6B,gemini-2.0-flash,D,3,DK,Pathway,Covid,Biological Inference
+Covid_pathway_6,2,B,Covid_pathway_6B,gemini-2.0-flash,D,4,DK,Pathway,Covid,Biological Inference
+Covid_pathway_6,2,B,Covid_pathway_6B,gemini-2.0-flash,D,5,DK,Pathway,Covid,Biological Inference
+Covid_pathway_6,2,B,Covid_pathway_6A,gemini-2.0-flash,D,1,DK,Pathway,Covid,Biological Inference
+Covid_pathway_6,2,B,Covid_pathway_6A,gemini-2.0-flash,D,2,DK,Pathway,Covid,Biological Inference
+Covid_pathway_6,2,B,Covid_pathway_6A,gemini-2.0-flash,D,3,DK,Pathway,Covid,Biological Inference
+Covid_pathway_6,2,B,Covid_pathway_6A,gemini-2.0-flash,D,4,DK,Pathway,Covid,Biological Inference
+Covid_pathway_6,2,B,Covid_pathway_6A,gemini-2.0-flash,D,5,DK,Pathway,Covid,Biological Inference
+Covid_pathway_6,3,D,Covid_pathway_6B,gemini-2.0-flash,D,1,DK,Pathway,Covid,Biological Inference
+Covid_pathway_6,3,D,Covid_pathway_6B,gemini-2.0-flash,D,2,DK,Pathway,Covid,Biological Inference
+Covid_pathway_6,3,D,Covid_pathway_6B,gemini-2.0-flash,D,3,DK,Pathway,Covid,Biological Inference
+Covid_pathway_6,3,D,Covid_pathway_6B,gemini-2.0-flash,D,4,DK,Pathway,Covid,Biological Inference
+Covid_pathway_6,3,D,Covid_pathway_6B,gemini-2.0-flash,D,5,DK,Pathway,Covid,Biological Inference
+Covid_pathway_6,3,D,Covid_pathway_6A,gemini-2.0-flash,D,1,DK,Pathway,Covid,Biological Inference
+Covid_pathway_6,3,D,Covid_pathway_6A,gemini-2.0-flash,D,2,DK,Pathway,Covid,Biological Inference
+Covid_pathway_6,3,D,Covid_pathway_6A,gemini-2.0-flash,D,3,DK,Pathway,Covid,Biological Inference
+Covid_pathway_6,3,D,Covid_pathway_6A,gemini-2.0-flash,D,4,DK,Pathway,Covid,Biological Inference
+Covid_pathway_6,3,D,Covid_pathway_6A,gemini-2.0-flash,D,5,DK,Pathway,Covid,Biological Inference
+Covid_CCI_11,1,B,Covid_CCI_11A,gemini-2.0-flash,B,1,YC,CCI,Covid,Biological Inference
+Covid_CCI_11,1,B,Covid_CCI_11A,gemini-2.0-flash,B,2,YC,CCI,Covid,Biological Inference
+Covid_CCI_11,1,B,Covid_CCI_11A,gemini-2.0-flash,B,3,YC,CCI,Covid,Biological Inference
+Covid_CCI_11,1,B,Covid_CCI_11A,gemini-2.0-flash,B,4,YC,CCI,Covid,Biological Inference
+Covid_CCI_11,1,B,Covid_CCI_11A,gemini-2.0-flash,B,5,YC,CCI,Covid,Biological Inference
+Covid_CCI_11,1,B,Covid_CCI_11B,gemini-2.0-flash,B,1,YC,CCI,Covid,Biological Inference
+Covid_CCI_11,1,B,Covid_CCI_11B,gemini-2.0-flash,B,2,YC,CCI,Covid,Biological Inference
+Covid_CCI_11,1,B,Covid_CCI_11B,gemini-2.0-flash,B,3,YC,CCI,Covid,Biological Inference
+Covid_CCI_11,1,B,Covid_CCI_11B,gemini-2.0-flash,B,4,YC,CCI,Covid,Biological Inference
+Covid_CCI_11,1,B,Covid_CCI_11B,gemini-2.0-flash,B,5,YC,CCI,Covid,Biological Inference
+Covid_CCI_11,1,B,Covid_CCI_11C,gemini-2.0-flash,B,1,YC,CCI,Covid,Biological Inference
+Covid_CCI_11,1,B,Covid_CCI_11C,gemini-2.0-flash,B,2,YC,CCI,Covid,Biological Inference
+Covid_CCI_11,1,B,Covid_CCI_11C,gemini-2.0-flash,B,3,YC,CCI,Covid,Biological Inference
+Covid_CCI_11,1,B,Covid_CCI_11C,gemini-2.0-flash,B,4,YC,CCI,Covid,Biological Inference
+Covid_CCI_11,1,B,Covid_CCI_11C,gemini-2.0-flash,B,5,YC,CCI,Covid,Biological Inference
+Covid_CCI_11,1,B,Covid_CCI_11D,gemini-2.0-flash,B,1,YC,CCI,Covid,Biological Inference
+Covid_CCI_11,1,B,Covid_CCI_11D,gemini-2.0-flash,B,2,YC,CCI,Covid,Biological Inference
+Covid_CCI_11,1,B,Covid_CCI_11D,gemini-2.0-flash,B,3,YC,CCI,Covid,Biological Inference
+Covid_CCI_11,1,B,Covid_CCI_11D,gemini-2.0-flash,B,4,YC,CCI,Covid,Biological Inference
+Covid_CCI_11,1,B,Covid_CCI_11D,gemini-2.0-flash,B,5,YC,CCI,Covid,Biological Inference
+Covid_CCI_11,2,A,Covid_CCI_11A,gemini-2.0-flash,A,1,YC,CCI,Covid,Biological Inference
+Covid_CCI_11,2,A,Covid_CCI_11A,gemini-2.0-flash,A,2,YC,CCI,Covid,Biological Inference
+Covid_CCI_11,2,A,Covid_CCI_11A,gemini-2.0-flash,A,3,YC,CCI,Covid,Biological Inference
+Covid_CCI_11,2,A,Covid_CCI_11A,gemini-2.0-flash,A,4,YC,CCI,Covid,Biological Inference
+Covid_CCI_11,2,A,Covid_CCI_11A,gemini-2.0-flash,A,5,YC,CCI,Covid,Biological Inference
+Covid_CCI_11,2,A,Covid_CCI_11B,gemini-2.0-flash,A,1,YC,CCI,Covid,Biological Inference
+Covid_CCI_11,2,A,Covid_CCI_11B,gemini-2.0-flash,A,2,YC,CCI,Covid,Biological Inference
+Covid_CCI_11,2,A,Covid_CCI_11B,gemini-2.0-flash,A,3,YC,CCI,Covid,Biological Inference
+Covid_CCI_11,2,A,Covid_CCI_11B,gemini-2.0-flash,A,4,YC,CCI,Covid,Biological Inference
+Covid_CCI_11,2,A,Covid_CCI_11B,gemini-2.0-flash,A,5,YC,CCI,Covid,Biological Inference
+Covid_CCI_11,2,A,Covid_CCI_11C,gemini-2.0-flash,A,1,YC,CCI,Covid,Biological Inference
+Covid_CCI_11,2,A,Covid_CCI_11C,gemini-2.0-flash,A,2,YC,CCI,Covid,Biological Inference
+Covid_CCI_11,2,A,Covid_CCI_11C,gemini-2.0-flash,A,3,YC,CCI,Covid,Biological Inference
+Covid_CCI_11,2,A,Covid_CCI_11C,gemini-2.0-flash,A,4,YC,CCI,Covid,Biological Inference
+Covid_CCI_11,2,A,Covid_CCI_11C,gemini-2.0-flash,A,5,YC,CCI,Covid,Biological Inference
+Covid_CCI_11,2,A,Covid_CCI_11D,gemini-2.0-flash,A,1,YC,CCI,Covid,Biological Inference
+Covid_CCI_11,2,A,Covid_CCI_11D,gemini-2.0-flash,A,2,YC,CCI,Covid,Biological Inference
+Covid_CCI_11,2,A,Covid_CCI_11D,gemini-2.0-flash,A,3,YC,CCI,Covid,Biological Inference
+Covid_CCI_11,2,A,Covid_CCI_11D,gemini-2.0-flash,A,4,YC,CCI,Covid,Biological Inference
+Covid_CCI_11,2,A,Covid_CCI_11D,gemini-2.0-flash,A,5,YC,CCI,Covid,Biological Inference
+Covid_CCI_11,3,D,Covid_CCI_11A,gemini-2.0-flash,D,1,YC,CCI,Covid,Biological Inference
+Covid_CCI_11,3,D,Covid_CCI_11A,gemini-2.0-flash,D,2,YC,CCI,Covid,Biological Inference
+Covid_CCI_11,3,D,Covid_CCI_11A,gemini-2.0-flash,D,3,YC,CCI,Covid,Biological Inference
+Covid_CCI_11,3,D,Covid_CCI_11A,gemini-2.0-flash,D,4,YC,CCI,Covid,Biological Inference
+Covid_CCI_11,3,D,Covid_CCI_11A,gemini-2.0-flash,D,5,YC,CCI,Covid,Biological Inference
+Covid_CCI_11,3,D,Covid_CCI_11B,gemini-2.0-flash,D,1,YC,CCI,Covid,Biological Inference
+Covid_CCI_11,3,D,Covid_CCI_11B,gemini-2.0-flash,D,2,YC,CCI,Covid,Biological Inference
+Covid_CCI_11,3,D,Covid_CCI_11B,gemini-2.0-flash,D,3,YC,CCI,Covid,Biological Inference
+Covid_CCI_11,3,D,Covid_CCI_11B,gemini-2.0-flash,D,4,YC,CCI,Covid,Biological Inference
+Covid_CCI_11,3,D,Covid_CCI_11B,gemini-2.0-flash,D,5,YC,CCI,Covid,Biological Inference
+Covid_CCI_11,3,D,Covid_CCI_11C,gemini-2.0-flash,D,1,YC,CCI,Covid,Biological Inference
+Covid_CCI_11,3,D,Covid_CCI_11C,gemini-2.0-flash,D,2,YC,CCI,Covid,Biological Inference
+Covid_CCI_11,3,D,Covid_CCI_11C,gemini-2.0-flash,D,3,YC,CCI,Covid,Biological Inference
+Covid_CCI_11,3,D,Covid_CCI_11C,gemini-2.0-flash,D,4,YC,CCI,Covid,Biological Inference
+Covid_CCI_11,3,D,Covid_CCI_11C,gemini-2.0-flash,D,5,YC,CCI,Covid,Biological Inference
+Covid_CCI_11,3,D,Covid_CCI_11D,gemini-2.0-flash,D,1,YC,CCI,Covid,Biological Inference
+Covid_CCI_11,3,D,Covid_CCI_11D,gemini-2.0-flash,D,2,YC,CCI,Covid,Biological Inference
+Covid_CCI_11,3,D,Covid_CCI_11D,gemini-2.0-flash,D,3,YC,CCI,Covid,Biological Inference
+Covid_CCI_11,3,D,Covid_CCI_11D,gemini-2.0-flash,D,4,YC,CCI,Covid,Biological Inference
+Covid_CCI_11,3,D,Covid_CCI_11D,gemini-2.0-flash,D,5,YC,CCI,Covid,Biological Inference
+Kidney_Pathway_3,1,C,Kidney_Pathway_3A,gemini-2.0-flash,A,1,MS,Pathway,Kidney,Biological Inference
+Kidney_Pathway_3,1,C,Kidney_Pathway_3A,gemini-2.0-flash,A,2,MS,Pathway,Kidney,Biological Inference
+Kidney_Pathway_3,1,C,Kidney_Pathway_3A,gemini-2.0-flash,A,3,MS,Pathway,Kidney,Biological Inference
+Kidney_Pathway_3,1,C,Kidney_Pathway_3A,gemini-2.0-flash,A,4,MS,Pathway,Kidney,Biological Inference
+Kidney_Pathway_3,1,C,Kidney_Pathway_3A,gemini-2.0-flash,A,5,MS,Pathway,Kidney,Biological Inference
+Kidney_Pathway_3,1,C,Kidney_Pathway_3B,gemini-2.0-flash,A,1,MS,Pathway,Kidney,Biological Inference
+Kidney_Pathway_3,1,C,Kidney_Pathway_3B,gemini-2.0-flash,A,2,MS,Pathway,Kidney,Biological Inference
+Kidney_Pathway_3,1,C,Kidney_Pathway_3B,gemini-2.0-flash,A,3,MS,Pathway,Kidney,Biological Inference
+Kidney_Pathway_3,1,C,Kidney_Pathway_3B,gemini-2.0-flash,A,4,MS,Pathway,Kidney,Biological Inference
+Kidney_Pathway_3,1,C,Kidney_Pathway_3B,gemini-2.0-flash,A,5,MS,Pathway,Kidney,Biological Inference
+Kidney_Pathway_3,1,C,Kidney_Pathway_3C,gemini-2.0-flash,A,1,MS,Pathway,Kidney,Biological Inference
+Kidney_Pathway_3,1,C,Kidney_Pathway_3C,gemini-2.0-flash,A,2,MS,Pathway,Kidney,Biological Inference
+Kidney_Pathway_3,1,C,Kidney_Pathway_3C,gemini-2.0-flash,A,3,MS,Pathway,Kidney,Biological Inference
+Kidney_Pathway_3,1,C,Kidney_Pathway_3C,gemini-2.0-flash,A,4,MS,Pathway,Kidney,Biological Inference
+Kidney_Pathway_3,1,C,Kidney_Pathway_3C,gemini-2.0-flash,A,5,MS,Pathway,Kidney,Biological Inference
+Kidney_Pathway_3,2,C,Kidney_Pathway_3A,gemini-2.0-flash,B,1,MS,Pathway,Kidney,Biological Inference
+Kidney_Pathway_3,2,C,Kidney_Pathway_3A,gemini-2.0-flash,B,2,MS,Pathway,Kidney,Biological Inference
+Kidney_Pathway_3,2,C,Kidney_Pathway_3A,gemini-2.0-flash,B,3,MS,Pathway,Kidney,Biological Inference
+Kidney_Pathway_3,2,C,Kidney_Pathway_3A,gemini-2.0-flash,C,4,MS,Pathway,Kidney,Biological Inference
+Kidney_Pathway_3,2,C,Kidney_Pathway_3A,gemini-2.0-flash,C,5,MS,Pathway,Kidney,Biological Inference
+Kidney_Pathway_3,2,C,Kidney_Pathway_3B,gemini-2.0-flash,C,1,MS,Pathway,Kidney,Biological Inference
+Kidney_Pathway_3,2,C,Kidney_Pathway_3B,gemini-2.0-flash,C,2,MS,Pathway,Kidney,Biological Inference
+Kidney_Pathway_3,2,C,Kidney_Pathway_3B,gemini-2.0-flash,C,3,MS,Pathway,Kidney,Biological Inference
+Kidney_Pathway_3,2,C,Kidney_Pathway_3B,gemini-2.0-flash,C,4,MS,Pathway,Kidney,Biological Inference
+Kidney_Pathway_3,2,C,Kidney_Pathway_3B,gemini-2.0-flash,C,5,MS,Pathway,Kidney,Biological Inference
+Kidney_Pathway_3,2,C,Kidney_Pathway_3C,gemini-2.0-flash,C,1,MS,Pathway,Kidney,Biological Inference
+Kidney_Pathway_3,2,C,Kidney_Pathway_3C,gemini-2.0-flash,C,2,MS,Pathway,Kidney,Biological Inference
+Kidney_Pathway_3,2,C,Kidney_Pathway_3C,gemini-2.0-flash,C,3,MS,Pathway,Kidney,Biological Inference
+Kidney_Pathway_3,2,C,Kidney_Pathway_3C,gemini-2.0-flash,C,4,MS,Pathway,Kidney,Biological Inference
+Kidney_Pathway_3,2,C,Kidney_Pathway_3C,gemini-2.0-flash,C,5,MS,Pathway,Kidney,Biological Inference
+Kidney_Pathway_3,3,D,Kidney_Pathway_3A,gemini-2.0-flash,D,1,MS,Pathway,Kidney,Biological Inference
+Kidney_Pathway_3,3,D,Kidney_Pathway_3A,gemini-2.0-flash,D,2,MS,Pathway,Kidney,Biological Inference
+Kidney_Pathway_3,3,D,Kidney_Pathway_3A,gemini-2.0-flash,D,3,MS,Pathway,Kidney,Biological Inference
+Kidney_Pathway_3,3,D,Kidney_Pathway_3A,gemini-2.0-flash,D,4,MS,Pathway,Kidney,Biological Inference
+Kidney_Pathway_3,3,D,Kidney_Pathway_3A,gemini-2.0-flash,D,5,MS,Pathway,Kidney,Biological Inference
+Kidney_Pathway_3,3,D,Kidney_Pathway_3B,gemini-2.0-flash,D,1,MS,Pathway,Kidney,Biological Inference
+Kidney_Pathway_3,3,D,Kidney_Pathway_3B,gemini-2.0-flash,D,2,MS,Pathway,Kidney,Biological Inference
+Kidney_Pathway_3,3,D,Kidney_Pathway_3B,gemini-2.0-flash,D,3,MS,Pathway,Kidney,Biological Inference
+Kidney_Pathway_3,3,D,Kidney_Pathway_3B,gemini-2.0-flash,D,4,MS,Pathway,Kidney,Biological Inference
+Kidney_Pathway_3,3,D,Kidney_Pathway_3B,gemini-2.0-flash,D,5,MS,Pathway,Kidney,Biological Inference
+Kidney_Pathway_3,3,D,Kidney_Pathway_3C,gemini-2.0-flash,D,1,MS,Pathway,Kidney,Biological Inference
+Kidney_Pathway_3,3,D,Kidney_Pathway_3C,gemini-2.0-flash,D,2,MS,Pathway,Kidney,Biological Inference
+Kidney_Pathway_3,3,D,Kidney_Pathway_3C,gemini-2.0-flash,D,3,MS,Pathway,Kidney,Biological Inference
+Kidney_Pathway_3,3,D,Kidney_Pathway_3C,gemini-2.0-flash,D,4,MS,Pathway,Kidney,Biological Inference
+Kidney_Pathway_3,3,D,Kidney_Pathway_3C,gemini-2.0-flash,D,5,MS,Pathway,Kidney,Biological Inference
+Kidney_Pathway_4,1,B,Kidney_Pathway_4A,gemini-2.0-flash,B,1,MS,Pathway,Kidney,Biological Inference
+Kidney_Pathway_4,1,B,Kidney_Pathway_4A,gemini-2.0-flash,B,2,MS,Pathway,Kidney,Biological Inference
+Kidney_Pathway_4,1,B,Kidney_Pathway_4A,gemini-2.0-flash,B,3,MS,Pathway,Kidney,Biological Inference
+Kidney_Pathway_4,1,B,Kidney_Pathway_4A,gemini-2.0-flash,B,4,MS,Pathway,Kidney,Biological Inference
+Kidney_Pathway_4,1,B,Kidney_Pathway_4A,gemini-2.0-flash,B,5,MS,Pathway,Kidney,Biological Inference
+Kidney_Pathway_4,1,B,Kidney_Pathway_4B,gemini-2.0-flash,D,1,MS,Pathway,Kidney,Biological Inference
+Kidney_Pathway_4,1,B,Kidney_Pathway_4B,gemini-2.0-flash,D,2,MS,Pathway,Kidney,Biological Inference
+Kidney_Pathway_4,1,B,Kidney_Pathway_4B,gemini-2.0-flash,D,3,MS,Pathway,Kidney,Biological Inference
+Kidney_Pathway_4,1,B,Kidney_Pathway_4B,gemini-2.0-flash,D,4,MS,Pathway,Kidney,Biological Inference
+Kidney_Pathway_4,1,B,Kidney_Pathway_4B,gemini-2.0-flash,D,5,MS,Pathway,Kidney,Biological Inference
+Kidney_Pathway_4,1,B,Kidney_Pathway_4C,gemini-2.0-flash,B,1,MS,Pathway,Kidney,Biological Inference
+Kidney_Pathway_4,1,B,Kidney_Pathway_4C,gemini-2.0-flash,B,2,MS,Pathway,Kidney,Biological Inference
+Kidney_Pathway_4,1,B,Kidney_Pathway_4C,gemini-2.0-flash,B,3,MS,Pathway,Kidney,Biological Inference
+Kidney_Pathway_4,1,B,Kidney_Pathway_4C,gemini-2.0-flash,B,4,MS,Pathway,Kidney,Biological Inference
+Kidney_Pathway_4,1,B,Kidney_Pathway_4C,gemini-2.0-flash,B,5,MS,Pathway,Kidney,Biological Inference
+Kidney_Pathway_4,2,B,Kidney_Pathway_4A,gemini-2.0-flash,B,1,MS,Pathway,Kidney,Biological Inference
+Kidney_Pathway_4,2,B,Kidney_Pathway_4A,gemini-2.0-flash,B,2,MS,Pathway,Kidney,Biological Inference
+Kidney_Pathway_4,2,B,Kidney_Pathway_4A,gemini-2.0-flash,B,3,MS,Pathway,Kidney,Biological Inference
+Kidney_Pathway_4,2,B,Kidney_Pathway_4A,gemini-2.0-flash,B,4,MS,Pathway,Kidney,Biological Inference
+Kidney_Pathway_4,2,B,Kidney_Pathway_4A,gemini-2.0-flash,B,5,MS,Pathway,Kidney,Biological Inference
+Kidney_Pathway_4,2,B,Kidney_Pathway_4B,gemini-2.0-flash,B,1,MS,Pathway,Kidney,Biological Inference
+Kidney_Pathway_4,2,B,Kidney_Pathway_4B,gemini-2.0-flash,B,2,MS,Pathway,Kidney,Biological Inference
+Kidney_Pathway_4,2,B,Kidney_Pathway_4B,gemini-2.0-flash,B,3,MS,Pathway,Kidney,Biological Inference
+Kidney_Pathway_4,2,B,Kidney_Pathway_4B,gemini-2.0-flash,B,4,MS,Pathway,Kidney,Biological Inference
+Kidney_Pathway_4,2,B,Kidney_Pathway_4B,gemini-2.0-flash,B,5,MS,Pathway,Kidney,Biological Inference
+Kidney_Pathway_4,2,B,Kidney_Pathway_4C,gemini-2.0-flash,B,1,MS,Pathway,Kidney,Biological Inference
+Kidney_Pathway_4,2,B,Kidney_Pathway_4C,gemini-2.0-flash,B,2,MS,Pathway,Kidney,Biological Inference
+Kidney_Pathway_4,2,B,Kidney_Pathway_4C,gemini-2.0-flash,B,3,MS,Pathway,Kidney,Biological Inference
+Kidney_Pathway_4,2,B,Kidney_Pathway_4C,gemini-2.0-flash,B,4,MS,Pathway,Kidney,Biological Inference
+Kidney_Pathway_4,2,B,Kidney_Pathway_4C,gemini-2.0-flash,B,5,MS,Pathway,Kidney,Biological Inference
+Kidney_Pathway_4,3,C,Kidney_Pathway_4A,gemini-2.0-flash,C,1,MS,Pathway,Kidney,Biological Inference
+Kidney_Pathway_4,3,C,Kidney_Pathway_4A,gemini-2.0-flash,C,2,MS,Pathway,Kidney,Biological Inference
+Kidney_Pathway_4,3,C,Kidney_Pathway_4A,gemini-2.0-flash,C,3,MS,Pathway,Kidney,Biological Inference
+Kidney_Pathway_4,3,C,Kidney_Pathway_4A,gemini-2.0-flash,C,4,MS,Pathway,Kidney,Biological Inference
+Kidney_Pathway_4,3,C,Kidney_Pathway_4A,gemini-2.0-flash,C,5,MS,Pathway,Kidney,Biological Inference
+Kidney_Pathway_4,3,C,Kidney_Pathway_4B,gemini-2.0-flash,C,1,MS,Pathway,Kidney,Biological Inference
+Kidney_Pathway_4,3,C,Kidney_Pathway_4B,gemini-2.0-flash,C,2,MS,Pathway,Kidney,Biological Inference
+Kidney_Pathway_4,3,C,Kidney_Pathway_4B,gemini-2.0-flash,C,3,MS,Pathway,Kidney,Biological Inference
+Kidney_Pathway_4,3,C,Kidney_Pathway_4B,gemini-2.0-flash,C,4,MS,Pathway,Kidney,Biological Inference
+Kidney_Pathway_4,3,C,Kidney_Pathway_4B,gemini-2.0-flash,C,5,MS,Pathway,Kidney,Biological Inference
+Kidney_Pathway_4,3,C,Kidney_Pathway_4C,gemini-2.0-flash,C,1,MS,Pathway,Kidney,Biological Inference
+Kidney_Pathway_4,3,C,Kidney_Pathway_4C,gemini-2.0-flash,C,2,MS,Pathway,Kidney,Biological Inference
+Kidney_Pathway_4,3,C,Kidney_Pathway_4C,gemini-2.0-flash,C,3,MS,Pathway,Kidney,Biological Inference
+Kidney_Pathway_4,3,C,Kidney_Pathway_4C,gemini-2.0-flash,C,4,MS,Pathway,Kidney,Biological Inference
+Kidney_Pathway_4,3,C,Kidney_Pathway_4C,gemini-2.0-flash,C,5,MS,Pathway,Kidney,Biological Inference
+Kidney_DE_2,1,C,Kidney_DE_2,gemini-2.0-flash,C,1,MS,DE,Kidney,Biological Inference
+Kidney_DE_2,1,C,Kidney_DE_2,gemini-2.0-flash,C,2,MS,DE,Kidney,Biological Inference
+Kidney_DE_2,1,C,Kidney_DE_2,gemini-2.0-flash,C,3,MS,DE,Kidney,Biological Inference
+Kidney_DE_2,1,C,Kidney_DE_2,gemini-2.0-flash,C,4,MS,DE,Kidney,Biological Inference
+Kidney_DE_2,1,C,Kidney_DE_2,gemini-2.0-flash,C,5,MS,DE,Kidney,Biological Inference
+Kidney_DE_2,2,B,Kidney_DE_2,gemini-2.0-flash,B,1,MS,DE,Kidney,Biological Inference
+Kidney_DE_2,2,B,Kidney_DE_2,gemini-2.0-flash,B,2,MS,DE,Kidney,Biological Inference
+Kidney_DE_2,2,B,Kidney_DE_2,gemini-2.0-flash,B,3,MS,DE,Kidney,Biological Inference
+Kidney_DE_2,2,B,Kidney_DE_2,gemini-2.0-flash,B,4,MS,DE,Kidney,Biological Inference
+Kidney_DE_2,2,B,Kidney_DE_2,gemini-2.0-flash,B,5,MS,DE,Kidney,Biological Inference
+Kidney_DE_2,3,D,Kidney_DE_2,gemini-2.0-flash,D,1,MS,DE,Kidney,Biological Inference
+Kidney_DE_2,3,D,Kidney_DE_2,gemini-2.0-flash,D,2,MS,DE,Kidney,Biological Inference
+Kidney_DE_2,3,D,Kidney_DE_2,gemini-2.0-flash,D,3,MS,DE,Kidney,Biological Inference
+Kidney_DE_2,3,D,Kidney_DE_2,gemini-2.0-flash,D,4,MS,DE,Kidney,Biological Inference
+Kidney_DE_2,3,D,Kidney_DE_2,gemini-2.0-flash,D,5,MS,DE,Kidney,Biological Inference
+Covid_pathway_7,1,C,Covid_pathway_7B,gemini-2.0-flash,B,1,DK,Pathway,Covid,Biological Inference
+Covid_pathway_7,1,C,Covid_pathway_7B,gemini-2.0-flash,B,2,DK,Pathway,Covid,Biological Inference
+Covid_pathway_7,1,C,Covid_pathway_7B,gemini-2.0-flash,D,3,DK,Pathway,Covid,Biological Inference
+Covid_pathway_7,1,C,Covid_pathway_7B,gemini-2.0-flash,D,4,DK,Pathway,Covid,Biological Inference
+Covid_pathway_7,1,C,Covid_pathway_7B,gemini-2.0-flash,D,5,DK,Pathway,Covid,Biological Inference
+Covid_pathway_7,1,C,Covid_pathway_7A,gemini-2.0-flash,B,1,DK,Pathway,Covid,Biological Inference
+Covid_pathway_7,1,C,Covid_pathway_7A,gemini-2.0-flash,B,2,DK,Pathway,Covid,Biological Inference
+Covid_pathway_7,1,C,Covid_pathway_7A,gemini-2.0-flash,B,3,DK,Pathway,Covid,Biological Inference
+Covid_pathway_7,1,C,Covid_pathway_7A,gemini-2.0-flash,B,4,DK,Pathway,Covid,Biological Inference
+Covid_pathway_7,1,C,Covid_pathway_7A,gemini-2.0-flash,B,5,DK,Pathway,Covid,Biological Inference
+Covid_pathway_7,2,D,Covid_pathway_7B,gemini-2.0-flash,D,1,DK,Pathway,Covid,Biological Inference
+Covid_pathway_7,2,D,Covid_pathway_7B,gemini-2.0-flash,D,2,DK,Pathway,Covid,Biological Inference
+Covid_pathway_7,2,D,Covid_pathway_7B,gemini-2.0-flash,D,3,DK,Pathway,Covid,Biological Inference
+Covid_pathway_7,2,D,Covid_pathway_7B,gemini-2.0-flash,D,4,DK,Pathway,Covid,Biological Inference
+Covid_pathway_7,2,D,Covid_pathway_7B,gemini-2.0-flash,D,5,DK,Pathway,Covid,Biological Inference
+Covid_pathway_7,2,D,Covid_pathway_7A,gemini-2.0-flash,D,1,DK,Pathway,Covid,Biological Inference
+Covid_pathway_7,2,D,Covid_pathway_7A,gemini-2.0-flash,D,2,DK,Pathway,Covid,Biological Inference
+Covid_pathway_7,2,D,Covid_pathway_7A,gemini-2.0-flash,D,3,DK,Pathway,Covid,Biological Inference
+Covid_pathway_7,2,D,Covid_pathway_7A,gemini-2.0-flash,D,4,DK,Pathway,Covid,Biological Inference
+Covid_pathway_7,2,D,Covid_pathway_7A,gemini-2.0-flash,D,5,DK,Pathway,Covid,Biological Inference
+Covid_pathway_7,3,B,Covid_pathway_7B,gemini-2.0-flash,B,1,DK,Pathway,Covid,Biological Inference
+Covid_pathway_7,3,B,Covid_pathway_7B,gemini-2.0-flash,B,2,DK,Pathway,Covid,Biological Inference
+Covid_pathway_7,3,B,Covid_pathway_7B,gemini-2.0-flash,B,3,DK,Pathway,Covid,Biological Inference
+Covid_pathway_7,3,B,Covid_pathway_7B,gemini-2.0-flash,B,4,DK,Pathway,Covid,Biological Inference
+Covid_pathway_7,3,B,Covid_pathway_7B,gemini-2.0-flash,B,5,DK,Pathway,Covid,Biological Inference
+Covid_pathway_7,3,B,Covid_pathway_7A,gemini-2.0-flash,B,1,DK,Pathway,Covid,Biological Inference
+Covid_pathway_7,3,B,Covid_pathway_7A,gemini-2.0-flash,B,2,DK,Pathway,Covid,Biological Inference
+Covid_pathway_7,3,B,Covid_pathway_7A,gemini-2.0-flash,B,3,DK,Pathway,Covid,Biological Inference
+Covid_pathway_7,3,B,Covid_pathway_7A,gemini-2.0-flash,B,4,DK,Pathway,Covid,Biological Inference
+Covid_pathway_7,3,B,Covid_pathway_7A,gemini-2.0-flash,B,5,DK,Pathway,Covid,Biological Inference
+Covid_pathway_8,1,B,Covid_pathway_8B,gemini-2.0-flash,B,1,DK,Pathway,Covid,Biological Inference
+Covid_pathway_8,1,B,Covid_pathway_8B,gemini-2.0-flash,B,2,DK,Pathway,Covid,Biological Inference
+Covid_pathway_8,1,B,Covid_pathway_8B,gemini-2.0-flash,B,3,DK,Pathway,Covid,Biological Inference
+Covid_pathway_8,1,B,Covid_pathway_8B,gemini-2.0-flash,B,4,DK,Pathway,Covid,Biological Inference
+Covid_pathway_8,1,B,Covid_pathway_8B,gemini-2.0-flash,B,5,DK,Pathway,Covid,Biological Inference
+Covid_pathway_8,1,B,Covid_pathway_8A,gemini-2.0-flash,B,1,DK,Pathway,Covid,Biological Inference
+Covid_pathway_8,1,B,Covid_pathway_8A,gemini-2.0-flash,B,2,DK,Pathway,Covid,Biological Inference
+Covid_pathway_8,1,B,Covid_pathway_8A,gemini-2.0-flash,B,3,DK,Pathway,Covid,Biological Inference
+Covid_pathway_8,1,B,Covid_pathway_8A,gemini-2.0-flash,B,4,DK,Pathway,Covid,Biological Inference
+Covid_pathway_8,1,B,Covid_pathway_8A,gemini-2.0-flash,B,5,DK,Pathway,Covid,Biological Inference
+Covid_pathway_8,2,D,Covid_pathway_8B,gemini-2.0-flash,D,1,DK,Pathway,Covid,Biological Inference
+Covid_pathway_8,2,D,Covid_pathway_8B,gemini-2.0-flash,D,2,DK,Pathway,Covid,Biological Inference
+Covid_pathway_8,2,D,Covid_pathway_8B,gemini-2.0-flash,D,3,DK,Pathway,Covid,Biological Inference
+Covid_pathway_8,2,D,Covid_pathway_8B,gemini-2.0-flash,D,4,DK,Pathway,Covid,Biological Inference
+Covid_pathway_8,2,D,Covid_pathway_8B,gemini-2.0-flash,D,5,DK,Pathway,Covid,Biological Inference
+Covid_pathway_8,2,D,Covid_pathway_8A,gemini-2.0-flash,D,1,DK,Pathway,Covid,Biological Inference
+Covid_pathway_8,2,D,Covid_pathway_8A,gemini-2.0-flash,D,2,DK,Pathway,Covid,Biological Inference
+Covid_pathway_8,2,D,Covid_pathway_8A,gemini-2.0-flash,D,3,DK,Pathway,Covid,Biological Inference
+Covid_pathway_8,2,D,Covid_pathway_8A,gemini-2.0-flash,D,4,DK,Pathway,Covid,Biological Inference
+Covid_pathway_8,2,D,Covid_pathway_8A,gemini-2.0-flash,D,5,DK,Pathway,Covid,Biological Inference
+Covid_pathway_8,3,C,Covid_pathway_8B,gemini-2.0-flash,C,1,DK,Pathway,Covid,Biological Inference
+Covid_pathway_8,3,C,Covid_pathway_8B,gemini-2.0-flash,C,2,DK,Pathway,Covid,Biological Inference
+Covid_pathway_8,3,C,Covid_pathway_8B,gemini-2.0-flash,C,3,DK,Pathway,Covid,Biological Inference
+Covid_pathway_8,3,C,Covid_pathway_8B,gemini-2.0-flash,C,4,DK,Pathway,Covid,Biological Inference
+Covid_pathway_8,3,C,Covid_pathway_8B,gemini-2.0-flash,C,5,DK,Pathway,Covid,Biological Inference
+Covid_pathway_8,3,C,Covid_pathway_8A,gemini-2.0-flash,C,1,DK,Pathway,Covid,Biological Inference
+Covid_pathway_8,3,C,Covid_pathway_8A,gemini-2.0-flash,C,2,DK,Pathway,Covid,Biological Inference
+Covid_pathway_8,3,C,Covid_pathway_8A,gemini-2.0-flash,C,3,DK,Pathway,Covid,Biological Inference
+Covid_pathway_8,3,C,Covid_pathway_8A,gemini-2.0-flash,C,4,DK,Pathway,Covid,Biological Inference
+Covid_pathway_8,3,C,Covid_pathway_8A,gemini-2.0-flash,C,5,DK,Pathway,Covid,Biological Inference
+Covid_pathway_9,1,C,Covid_pathway_9B,gemini-2.0-flash,C,1,DK,Pathway,Covid,Biological Inference
+Covid_pathway_9,1,C,Covid_pathway_9B,gemini-2.0-flash,C,2,DK,Pathway,Covid,Biological Inference
+Covid_pathway_9,1,C,Covid_pathway_9B,gemini-2.0-flash,C,3,DK,Pathway,Covid,Biological Inference
+Covid_pathway_9,1,C,Covid_pathway_9B,gemini-2.0-flash,C,4,DK,Pathway,Covid,Biological Inference
+Covid_pathway_9,1,C,Covid_pathway_9B,gemini-2.0-flash,C,5,DK,Pathway,Covid,Biological Inference
+Covid_pathway_9,1,C,Covid_pathway_9A,gemini-2.0-flash,A,1,DK,Pathway,Covid,Biological Inference
+Covid_pathway_9,1,C,Covid_pathway_9A,gemini-2.0-flash,A,2,DK,Pathway,Covid,Biological Inference
+Covid_pathway_9,1,C,Covid_pathway_9A,gemini-2.0-flash,A,3,DK,Pathway,Covid,Biological Inference
+Covid_pathway_9,1,C,Covid_pathway_9A,gemini-2.0-flash,A,4,DK,Pathway,Covid,Biological Inference
+Covid_pathway_9,1,C,Covid_pathway_9A,gemini-2.0-flash,A,5,DK,Pathway,Covid,Biological Inference
+Covid_pathway_9,2,C,Covid_pathway_9B,gemini-2.0-flash,D,1,DK,Pathway,Covid,Biological Inference
+Covid_pathway_9,2,C,Covid_pathway_9B,gemini-2.0-flash,D,2,DK,Pathway,Covid,Biological Inference
+Covid_pathway_9,2,C,Covid_pathway_9B,gemini-2.0-flash,D,3,DK,Pathway,Covid,Biological Inference
+Covid_pathway_9,2,C,Covid_pathway_9B,gemini-2.0-flash,D,4,DK,Pathway,Covid,Biological Inference
+Covid_pathway_9,2,C,Covid_pathway_9B,gemini-2.0-flash,D,5,DK,Pathway,Covid,Biological Inference
+Covid_pathway_9,2,C,Covid_pathway_9A,gemini-2.0-flash,D,1,DK,Pathway,Covid,Biological Inference
+Covid_pathway_9,2,C,Covid_pathway_9A,gemini-2.0-flash,D,2,DK,Pathway,Covid,Biological Inference
+Covid_pathway_9,2,C,Covid_pathway_9A,gemini-2.0-flash,D,3,DK,Pathway,Covid,Biological Inference
+Covid_pathway_9,2,C,Covid_pathway_9A,gemini-2.0-flash,D,4,DK,Pathway,Covid,Biological Inference
+Covid_pathway_9,2,C,Covid_pathway_9A,gemini-2.0-flash,D,5,DK,Pathway,Covid,Biological Inference
+Covid_pathway_9,3,B,Covid_pathway_9B,gemini-2.0-flash,B,1,DK,Pathway,Covid,Biological Inference
+Covid_pathway_9,3,B,Covid_pathway_9B,gemini-2.0-flash,B,2,DK,Pathway,Covid,Biological Inference
+Covid_pathway_9,3,B,Covid_pathway_9B,gemini-2.0-flash,B,3,DK,Pathway,Covid,Biological Inference
+Covid_pathway_9,3,B,Covid_pathway_9B,gemini-2.0-flash,B,4,DK,Pathway,Covid,Biological Inference
+Covid_pathway_9,3,B,Covid_pathway_9B,gemini-2.0-flash,B,5,DK,Pathway,Covid,Biological Inference
+Covid_pathway_9,3,B,Covid_pathway_9A,gemini-2.0-flash,B,1,DK,Pathway,Covid,Biological Inference
+Covid_pathway_9,3,B,Covid_pathway_9A,gemini-2.0-flash,B,2,DK,Pathway,Covid,Biological Inference
+Covid_pathway_9,3,B,Covid_pathway_9A,gemini-2.0-flash,B,3,DK,Pathway,Covid,Biological Inference
+Covid_pathway_9,3,B,Covid_pathway_9A,gemini-2.0-flash,B,4,DK,Pathway,Covid,Biological Inference
+Covid_pathway_9,3,B,Covid_pathway_9A,gemini-2.0-flash,B,5,DK,Pathway,Covid,Biological Inference
+Kidney_pathway_5,1,D,Kidney_pathway_5A,gemini-2.0-flash,B,1,DK,Pathway,Kidney,Biological Inference
+Kidney_pathway_5,1,D,Kidney_pathway_5A,gemini-2.0-flash,B,2,DK,Pathway,Kidney,Biological Inference
+Kidney_pathway_5,1,D,Kidney_pathway_5A,gemini-2.0-flash,B,3,DK,Pathway,Kidney,Biological Inference
+Kidney_pathway_5,1,D,Kidney_pathway_5A,gemini-2.0-flash,B,4,DK,Pathway,Kidney,Biological Inference
+Kidney_pathway_5,1,D,Kidney_pathway_5A,gemini-2.0-flash,B,5,DK,Pathway,Kidney,Biological Inference
+Kidney_pathway_5,2,A,Kidney_pathway_5A,gemini-2.0-flash,D,1,DK,Pathway,Kidney,Biological Inference
+Kidney_pathway_5,2,A,Kidney_pathway_5A,gemini-2.0-flash,D,2,DK,Pathway,Kidney,Biological Inference
+Kidney_pathway_5,2,A,Kidney_pathway_5A,gemini-2.0-flash,D,3,DK,Pathway,Kidney,Biological Inference
+Kidney_pathway_5,2,A,Kidney_pathway_5A,gemini-2.0-flash,D,4,DK,Pathway,Kidney,Biological Inference
+Kidney_pathway_5,2,A,Kidney_pathway_5A,gemini-2.0-flash,D,5,DK,Pathway,Kidney,Biological Inference
+Kidney_pathway_5,3,B,Kidney_pathway_5A,gemini-2.0-flash,B,1,DK,Pathway,Kidney,Biological Inference
+Kidney_pathway_5,3,B,Kidney_pathway_5A,gemini-2.0-flash,B,2,DK,Pathway,Kidney,Biological Inference
+Kidney_pathway_5,3,B,Kidney_pathway_5A,gemini-2.0-flash,B,3,DK,Pathway,Kidney,Biological Inference
+Kidney_pathway_5,3,B,Kidney_pathway_5A,gemini-2.0-flash,B,4,DK,Pathway,Kidney,Biological Inference
+Kidney_pathway_5,3,B,Kidney_pathway_5A,gemini-2.0-flash,B,5,DK,Pathway,Kidney,Biological Inference
+benchmark_SpatialSim_2,1,B,benchmark_SpatialSim_2A,gemini-2.0-flash,B,1,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_2,1,B,benchmark_SpatialSim_2A,gemini-2.0-flash,B,2,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_2,1,B,benchmark_SpatialSim_2A,gemini-2.0-flash,B,3,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_2,1,B,benchmark_SpatialSim_2A,gemini-2.0-flash,B,4,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_2,1,B,benchmark_SpatialSim_2A,gemini-2.0-flash,B,5,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_2,1,B,benchmark_SpatialSim_2B,gemini-2.0-flash,B,1,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_2,1,B,benchmark_SpatialSim_2B,gemini-2.0-flash,B,2,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_2,1,B,benchmark_SpatialSim_2B,gemini-2.0-flash,B,3,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_2,1,B,benchmark_SpatialSim_2B,gemini-2.0-flash,B,4,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_2,1,B,benchmark_SpatialSim_2B,gemini-2.0-flash,B,5,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_2,1,B,benchmark_SpatialSim_2C,gemini-2.0-flash,B,1,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_2,1,B,benchmark_SpatialSim_2C,gemini-2.0-flash,B,2,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_2,1,B,benchmark_SpatialSim_2C,gemini-2.0-flash,B,3,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_2,1,B,benchmark_SpatialSim_2C,gemini-2.0-flash,B,4,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_2,1,B,benchmark_SpatialSim_2C,gemini-2.0-flash,B,5,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_2,1,B,benchmark_SpatialSim_2D,gemini-2.0-flash,B,1,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_2,1,B,benchmark_SpatialSim_2D,gemini-2.0-flash,B,2,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_2,1,B,benchmark_SpatialSim_2D,gemini-2.0-flash,B,3,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_2,1,B,benchmark_SpatialSim_2D,gemini-2.0-flash,B,4,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_2,1,B,benchmark_SpatialSim_2D,gemini-2.0-flash,B,5,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_2,2,D,benchmark_SpatialSim_2A,gemini-2.0-flash,C,1,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_2,2,D,benchmark_SpatialSim_2A,gemini-2.0-flash,C,2,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_2,2,D,benchmark_SpatialSim_2A,gemini-2.0-flash,C,3,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_2,2,D,benchmark_SpatialSim_2A,gemini-2.0-flash,C,4,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_2,2,D,benchmark_SpatialSim_2A,gemini-2.0-flash,C,5,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_2,2,D,benchmark_SpatialSim_2B,gemini-2.0-flash,A,1,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_2,2,D,benchmark_SpatialSim_2B,gemini-2.0-flash,A,2,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_2,2,D,benchmark_SpatialSim_2B,gemini-2.0-flash,B,3,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_2,2,D,benchmark_SpatialSim_2B,gemini-2.0-flash,A,4,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_2,2,D,benchmark_SpatialSim_2B,gemini-2.0-flash,B,5,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_2,2,D,benchmark_SpatialSim_2C,gemini-2.0-flash,D,1,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_2,2,D,benchmark_SpatialSim_2C,gemini-2.0-flash,D,2,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_2,2,D,benchmark_SpatialSim_2C,gemini-2.0-flash,C,3,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_2,2,D,benchmark_SpatialSim_2C,gemini-2.0-flash,D,4,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_2,2,D,benchmark_SpatialSim_2C,gemini-2.0-flash,C,5,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_2,2,D,benchmark_SpatialSim_2D,gemini-2.0-flash,C,1,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_2,2,D,benchmark_SpatialSim_2D,gemini-2.0-flash,C,2,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_2,2,D,benchmark_SpatialSim_2D,gemini-2.0-flash,C,3,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_2,2,D,benchmark_SpatialSim_2D,gemini-2.0-flash,C,4,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_2,2,D,benchmark_SpatialSim_2D,gemini-2.0-flash,C,5,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_2,3,A,benchmark_SpatialSim_2A,gemini-2.0-flash,A,1,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_2,3,A,benchmark_SpatialSim_2A,gemini-2.0-flash,A,2,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_2,3,A,benchmark_SpatialSim_2A,gemini-2.0-flash,A,3,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_2,3,A,benchmark_SpatialSim_2A,gemini-2.0-flash,A,4,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_2,3,A,benchmark_SpatialSim_2A,gemini-2.0-flash,A,5,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_2,3,A,benchmark_SpatialSim_2B,gemini-2.0-flash,A,1,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_2,3,A,benchmark_SpatialSim_2B,gemini-2.0-flash,A,2,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_2,3,A,benchmark_SpatialSim_2B,gemini-2.0-flash,A,3,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_2,3,A,benchmark_SpatialSim_2B,gemini-2.0-flash,A,4,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_2,3,A,benchmark_SpatialSim_2B,gemini-2.0-flash,A,5,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_2,3,A,benchmark_SpatialSim_2C,gemini-2.0-flash,A,1,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_2,3,A,benchmark_SpatialSim_2C,gemini-2.0-flash,A,2,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_2,3,A,benchmark_SpatialSim_2C,gemini-2.0-flash,A,3,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_2,3,A,benchmark_SpatialSim_2C,gemini-2.0-flash,A,4,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_2,3,A,benchmark_SpatialSim_2C,gemini-2.0-flash,A,5,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_2,3,A,benchmark_SpatialSim_2D,gemini-2.0-flash,A,1,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_2,3,A,benchmark_SpatialSim_2D,gemini-2.0-flash,A,2,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_2,3,A,benchmark_SpatialSim_2D,gemini-2.0-flash,A,3,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_2,3,A,benchmark_SpatialSim_2D,gemini-2.0-flash,A,4,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_2,3,A,benchmark_SpatialSim_2D,gemini-2.0-flash,A,5,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_3,1,C,benchmark_SpatialSim_3A,gemini-2.0-flash,C,1,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_3,1,C,benchmark_SpatialSim_3A,gemini-2.0-flash,C,2,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_3,1,C,benchmark_SpatialSim_3A,gemini-2.0-flash,C,3,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_3,1,C,benchmark_SpatialSim_3A,gemini-2.0-flash,C,4,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_3,1,C,benchmark_SpatialSim_3A,gemini-2.0-flash,C,5,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_3,1,C,benchmark_SpatialSim_3B,gemini-2.0-flash,C,1,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_3,1,C,benchmark_SpatialSim_3B,gemini-2.0-flash,C,2,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_3,1,C,benchmark_SpatialSim_3B,gemini-2.0-flash,C,3,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_3,1,C,benchmark_SpatialSim_3B,gemini-2.0-flash,C,4,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_3,1,C,benchmark_SpatialSim_3B,gemini-2.0-flash,C,5,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_3,1,C,benchmark_SpatialSim_3C,gemini-2.0-flash,D,1,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_3,1,C,benchmark_SpatialSim_3C,gemini-2.0-flash,D,2,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_3,1,C,benchmark_SpatialSim_3C,gemini-2.0-flash,D,3,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_3,1,C,benchmark_SpatialSim_3C,gemini-2.0-flash,D,4,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_3,1,C,benchmark_SpatialSim_3C,gemini-2.0-flash,D,5,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_3,1,C,benchmark_SpatialSim_3D,gemini-2.0-flash,D,1,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_3,1,C,benchmark_SpatialSim_3D,gemini-2.0-flash,D,2,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_3,1,C,benchmark_SpatialSim_3D,gemini-2.0-flash,D,3,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_3,1,C,benchmark_SpatialSim_3D,gemini-2.0-flash,D,4,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_3,1,C,benchmark_SpatialSim_3D,gemini-2.0-flash,D,5,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_3,2,D,benchmark_SpatialSim_3A,gemini-2.0-flash,D,1,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_3,2,D,benchmark_SpatialSim_3A,gemini-2.0-flash,D,2,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_3,2,D,benchmark_SpatialSim_3A,gemini-2.0-flash,D,3,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_3,2,D,benchmark_SpatialSim_3A,gemini-2.0-flash,D,4,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_3,2,D,benchmark_SpatialSim_3A,gemini-2.0-flash,D,5,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_3,2,D,benchmark_SpatialSim_3B,gemini-2.0-flash,D,1,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_3,2,D,benchmark_SpatialSim_3B,gemini-2.0-flash,D,2,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_3,2,D,benchmark_SpatialSim_3B,gemini-2.0-flash,D,3,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_3,2,D,benchmark_SpatialSim_3B,gemini-2.0-flash,D,4,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_3,2,D,benchmark_SpatialSim_3B,gemini-2.0-flash,D,5,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_3,2,D,benchmark_SpatialSim_3C,gemini-2.0-flash,D,1,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_3,2,D,benchmark_SpatialSim_3C,gemini-2.0-flash,D,2,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_3,2,D,benchmark_SpatialSim_3C,gemini-2.0-flash,D,3,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_3,2,D,benchmark_SpatialSim_3C,gemini-2.0-flash,D,4,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_3,2,D,benchmark_SpatialSim_3C,gemini-2.0-flash,D,5,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_3,2,D,benchmark_SpatialSim_3D,gemini-2.0-flash,D,1,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_3,2,D,benchmark_SpatialSim_3D,gemini-2.0-flash,D,2,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_3,2,D,benchmark_SpatialSim_3D,gemini-2.0-flash,D,3,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_3,2,D,benchmark_SpatialSim_3D,gemini-2.0-flash,D,4,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_3,2,D,benchmark_SpatialSim_3D,gemini-2.0-flash,D,5,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_3,3,C,benchmark_SpatialSim_3A,gemini-2.0-flash,C,1,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_3,3,C,benchmark_SpatialSim_3A,gemini-2.0-flash,C,2,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_3,3,C,benchmark_SpatialSim_3A,gemini-2.0-flash,C,3,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_3,3,C,benchmark_SpatialSim_3A,gemini-2.0-flash,C,4,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_3,3,C,benchmark_SpatialSim_3A,gemini-2.0-flash,C,5,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_3,3,C,benchmark_SpatialSim_3B,gemini-2.0-flash,C,1,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_3,3,C,benchmark_SpatialSim_3B,gemini-2.0-flash,C,2,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_3,3,C,benchmark_SpatialSim_3B,gemini-2.0-flash,C,3,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_3,3,C,benchmark_SpatialSim_3B,gemini-2.0-flash,C,4,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_3,3,C,benchmark_SpatialSim_3B,gemini-2.0-flash,C,5,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_3,3,C,benchmark_SpatialSim_3C,gemini-2.0-flash,C,1,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_3,3,C,benchmark_SpatialSim_3C,gemini-2.0-flash,C,2,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_3,3,C,benchmark_SpatialSim_3C,gemini-2.0-flash,C,3,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_3,3,C,benchmark_SpatialSim_3C,gemini-2.0-flash,C,4,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_3,3,C,benchmark_SpatialSim_3C,gemini-2.0-flash,C,5,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_3,3,C,benchmark_SpatialSim_3D,gemini-2.0-flash,C,1,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_3,3,C,benchmark_SpatialSim_3D,gemini-2.0-flash,C,2,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_3,3,C,benchmark_SpatialSim_3D,gemini-2.0-flash,C,3,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_3,3,C,benchmark_SpatialSim_3D,gemini-2.0-flash,C,4,CL,SpatialSim,benchmark,Descriptive - information retrival
+benchmark_SpatialSim_3,3,C,benchmark_SpatialSim_3D,gemini-2.0-flash,C,5,CL,SpatialSim,benchmark,Descriptive - information retrival

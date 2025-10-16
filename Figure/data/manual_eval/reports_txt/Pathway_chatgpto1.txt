@@ -1,0 +1,28 @@
+RESULTS
+To characterize the transcriptional landscape associated with injury and subsequent recovery, we profiled samples collected at multiple time points (1 d, 4 d, 7 d, 14 d, 1 m, and 2 m) alongside uninjured controls. Dimensional reduction by UMAP (Figure 1) revealed distinct clustering of injured versus uninjured samples, with partial convergence over later time points. These observations suggest that while injury induces pronounced and immediate transcriptional changes, the system’s global transcriptome gradually transitions toward a more homeostatic state.
+In total, N genes met our threshold for differential expression (log2 fold-change ≥ 1, false discovery rate [FDR] < 0.05). Gene ontology (GO) analysis of these regulated transcripts (Figure 2) indicated a marked enrichment for processes critical to synaptic function among upregulated genes (FDR < 10–25–10–31[a]). Notably, the most significantly over-represented terms encompassed:
+1. Regulation of membrane potential (FDR ≈ 3.9 × 10–31; GeneRatio ≈ 0.045),
+
+2. Dendrite development (FDR ≈ 1.4 × 10–25; GeneRatio ≈ 0.035),
+
+3. Vesicle-mediated transport in synapse (FDR ≈ 2.8 × 10–25; GeneRatio ≈ 0.035),
+
+4. Regulation of synapse structure or activity (FDR ≈ 4.1 × 10–25; GeneRatio ≈ 0.04), and
+
+5. Postsynapse organization (FDR ≈ 5.5 × 10–25; GeneRatio ≈ 0.03).
+
+All five terms reflect key facets of neuronal plasticity and remodeling, suggesting that injured tissues mount a robust pro-regenerative program. Indeed, these enrichments mirror well-described injury responses wherein neurons alter their intrinsic growth programs to re-establish connectivity (He and Jin, 2016; Liu et al., 2019). The prominence of dendrite development and synaptic transport genes, in particular, is consistent with neuronal attempts to restore functional circuitry.
+In contrast, downregulated gene sets (FDR < 10–15–10–17) were strongly associated with:
+   1. Regulation of innate immune response (FDR ≈ 2.7 × 10–17; GeneRatio ≈ 0.04),
+
+   2. Positive regulation of response to biotic stimulus (FDR ≈ 9.2 × 10–16; GeneRatio ≈ 0.035),
+
+   3. Regulation of apoptotic signaling pathway (FDR ≈ 1.8 × 10–15; GeneRatio ≈ 0.035),
+
+   4. Alcohol metabolic process (FDR ≈ 2.7 × 10–15; GeneRatio ≈ 0.035), and
+
+   5. Response to endoplasmic reticulum stress (FDR ≈ 3.9 × 10–15; GeneRatio ≈ 0.03).
+
+These findings imply that, relative to uninjured controls, the injured tissues overall demonstrated suppression of inflammatory and stress-related signaling pathways during the observed interval. While innate immune pathways typically dominate the acute response to injury (David et al., 2012), our data indicate that this inflammatory program is substantially attenuated by later phases of recovery. Furthermore, the concomitant reduction in apoptotic and ER stress signaling suggests that cell-survival pathways may be stabilized over time, thereby enabling reparative processes to predominate.
+Taken together, these results describe a biphasic or multiphasic transcriptional trajectory: an early post-injury state characterized by pronounced immune activation and cellular stress—phases that rapidly subside—and a subsequent period dominated by synaptic remodeling, dendrite outgrowth, and reconstitution of neuronal function. The robust upregulation of synapse- and dendrite-related pathways underscores a potentially pro-regenerative program, whereas the downregulation of innate immune genes reinforces the idea that inflammatory processes shift or resolve as regeneration ensues. These observations align well with established models of tissue repair, in which initial immune-mediated cleanup and protection give way to neuronal plasticity and network reorganization (Huebner and Strittmatter, 2009).
+Overall, our integrative transcriptomic analyses provide quantitative support for a pro-regenerative gene expression signature that emerges alongside the dampening of inflammatory pathways, offering insight into the temporal dynamics of injury response and the intrinsic capacity for neuronal repair.

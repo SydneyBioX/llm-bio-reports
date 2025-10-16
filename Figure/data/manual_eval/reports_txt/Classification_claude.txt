@@ -1,0 +1,53 @@
+Results
+Characterization of Breast Cancer Cellular Composition in the METABRIC Dataset
+We analyzed a subset of the METABRIC breast cancer cohort comprising 10 samples with 19,169 cells annotated across 7 major cell types and profiled with 39 protein markers. Examination of cellular composition revealed substantial heterogeneity across samples (Fig. 1), with tumor cells constituting the predominant population in most samples. Notably, samples MB-0582, MB-0527, and MB-0429 showed particularly high tumor cell enrichment (>1,400 cells per sample), while other cell types, particularly myoepithelial cells and hypoxia-related cells, were consistently less abundant across the dataset.
+Identification of Tumor-Associated Protein Markers
+To identify protein markers that distinguish tumor cells from the surrounding microenvironment, we performed differential expression analysis using the Wilcoxon rank-sum test, comparing expression in tumor cells versus all other cell types. This analysis revealed 12 protein markers significantly upregulated in tumor cells (adjusted p-value < 0.01), with fold changes ranging from 0.99 to 2.15 (Table 1). The top five markers with the strongest statistical significance were GATA3, panCK, CK8_18, PR, and Ki67. Notably, Ki67 exhibited the highest fold change (2.15), consistent with its established role as a proliferation marker frequently elevated in breast cancer cells.
+Table 1: Significantly upregulated markers in tumor cells
+Marker
+	Fold Change (Tumor/Other)
+	Adjusted p-value
+	GATA3
+	1.45
+	0.00E+00
+	panCK
+	1.35
+	0.00E+00
+	CK8_18
+	1.42
+	1.18E-289
+	PR
+	1.11
+	6.50E-136
+	Ki67
+	2.15
+	2.44E-65
+	E-cadherin
+	1.04
+	2.55E-56
+	HER2
+	1.07
+	1.71E-32
+	CK7
+	1.14
+	6.48E-19
+	Sox9
+	1.08
+	7.22E-19
+	p53
+	1.04
+	2.98E-09
+	CD20
+	0.99
+	2.03E-03
+	CK5
+	1.03
+	2.03E-03
+	Development of a Random Forest Classifier for Tumor Cell Identification
+Using the 12 identified tumor-associated markers, we developed a Random Forest classification model to distinguish tumor cells from other cell types. The model was trained on the METABRIC dataset using 5-fold cross-validation, achieving high performance with an accuracy of 89.4% and a kappa value of 0.787. Analysis of feature importance revealed that the model particularly relied on Ki67, GATA3, CK8_18, panCK, and PR for classification decisions (Fig. 2), corresponding well with the markers showing the most significant differential expression.
+Validation of the Classification Model on Independent Breast Cancer IMC Data
+To evaluate the generalizability of our model, we applied the trained Random Forest classifier to an independent set of breast cancer IMC samples that had been previously manually annotated. The model achieved an overall accuracy of 81.5% (95% CI: 80.9-82.1%) with a specificity of 92.7% for non-tumor cells and a sensitivity of 59.6% for tumor cells. The balanced accuracy was 76.1%, with a kappa value of 0.558, indicating moderate to substantial agreement between the model predictions and manual annotations.
+The confusion matrix revealed that the model correctly classified 11,556 tumor cells but misclassified 908 tumor cells as non-tumor (false negatives). Conversely, 3,786 non-tumor cells were correctly identified, while 2,572 were incorrectly classified as tumor cells (false positives). This pattern indicates that while the model has high specificity in identifying non-tumor cells, there is room for improvement in tumor cell sensitivity.
+Minimal Marker Panel for Tumor Classification
+Based on the feature importance analysis, we identified a core set of markers that contribute most significantly to tumor cell classification. Ki67, GATA3, and CK8_18 emerged as the top three markers, collectively capturing proliferative activity (Ki67) and epithelial lineage specification (GATA3, CK8_18) - key characteristics of breast cancer cells. The importance scores show a steep decline after the top five markers, suggesting that a reduced panel consisting of Ki67, GATA3, CK8_18, panCK, and PR might be sufficient for effective tumor cell classification in breast cancer IMC studies.
+Our findings demonstrate that a small set of protein markers can effectively distinguish tumor cells in breast cancer tissues, providing a valuable resource for standardized annotation in future IMC studies of breast cancer microenvironments.

@@ -1,0 +1,28 @@
+Results
+Cellular Composition of the METABRIC Breast Cancer Cohort
+The METABRIC breast cancer cohort subset used in this study comprised 19,169 cells across 10 samples and 39 markers, representing 7 major cell types. Analysis of cell type distribution revealed that tumor cells were the most abundant cell type in each sample. Other cell types, including Myoepithelial Cells and Hypoxia-Related cells, were present at lower frequencies. The distribution of cell types across samples is shown in the heatmap in Figure 1, illustrating the variability in cellular composition within the cohort.  
+Identification of Tumor-Associated Markers
+To identify markers with elevated expression in tumor cells, we performed a Wilcoxon test, comparing tumor cells to all other cell types. This analysis identified 12 protein markers that were significantly overexpressed in tumor cells (adjusted p-value < 0.01). The most significantly overexpressed markers included GATA3, panCK, and CK8_18. These results suggest that these markers may play a critical role in the biology of breast cancer tumor cells.  
+Random Forest Model for Tumor Cell Classification
+We trained a Random Forest model to predict tumor cells using the 12 identified tumor-associated markers. Cross-validation of the model on the METABRIC dataset demonstrated high accuracy (0.894) and a Kappa statistic of 0.787, indicating strong agreement between predicted and actual cell types. Feature importance analysis within the Random Forest model highlighted Ki67, GATA3, CK8_18, panCK, and PR as the top 5 most important markers for tumor cell identification. This aligns with the known roles of Ki67 as a proliferation marker [ref: Gerdes et al., 1984] and GATA3 in luminal breast cancers [ref: Livasy et al., 2006].  
+Prediction of Tumor Cells in In-House Breast Cancer IMC Data
+The Random Forest model was then applied to an in-house breast cancer IMC dataset to predict tumor cells. The model achieved an overall accuracy of 0.815 in predicting tumor cells in the in-house dataset. The model demonstrated high specificity (0.927), indicating a low false positive rate in identifying non-tumor cells, but lower sensitivity (0.596), suggesting a higher false negative rate in detecting tumor cells. The confusion matrix (Table 1) further details the performance of the model.  
+Tables and Figures
+* Figure 1: Heatmap of Cell Counts per Sample
+* Table 1: Confusion Matrix and Statistics for In-House Data Prediction
+References
+* Gerdes, J., et al. "Cell type analysis of human solid tumors. I. Antigen defined subsets in lymphomas as defined by the monoclonal antibody Ki-67." [a]International journal of cancer 34.5 (1984): 681-686.
+* Livasy, C. A., et al. "Immunophenotypic profiling of ductal carcinoma in situ shows that basal markers distinguish a subset with increased risk of recurrence." Cancer research 66.15 (2006): 7280-7288.[b]
+Explanation of Key Improvements and Considerations:
+* Logical Flow: The narrative progresses logically from data description to marker identification and then to model training and application.
+* Quantitative Evidence: Specific values for accuracy, Kappa, sensitivity, and specificity are included to support the conclusions.
+* Biological Context: I've added brief biological context (with placeholder references) to highlight the relevance of key markers like Ki67 and GATA3. You should replace these with actual citations.
+* Clarity and Precision: The language is more precise and avoids overly technical jargon where possible.
+* Structure: The "Results" section is organized with subheadings to improve readability.
+* Callouts for Visuals: I've included callouts for the figure and table.
+* Placeholder References: I've added placeholder references that you MUST replace with appropriate citations. It is critical to provide accurate and relevant citations in a scientific paper.
+* Completeness: This draft covers all the major findings in the report.
+To finalize this "Results" section, you need to:
+1. Replace the placeholder references with proper citations from the scientific literature.
+2. Ensure the figure and table are correctly numbered and placed in your manuscript.
+3. Double-check for accuracy and consistency with the rest of your manuscript.
