@@ -12,6 +12,8 @@ Repository for project code and analytical files.
 
 - **Casestudies**: includes all cases designed for testing LLMs and analytic reports.
 
+- **Figure**: includes all codes and data to create figures.
+
 - **Human_evaluation**: includes all human-evaluation files.
 
 - **README.md**: README file.
