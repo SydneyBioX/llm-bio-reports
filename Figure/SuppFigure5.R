@@ -1,156 +1,112 @@
-# Load required libraries
-library(ggplot2)
+# Required libraries
+library(readr)
 library(dplyr)
 library(tidyr)
 library(stringr)
+library(tidytext)
+library(quanteda)
+library(ggplot2)
 
-# Read and process data
-url <- "https://docs.google.com/spreadsheets/d/1yFDcz5VEJg4iws9exABzG9eMF46wLGS38pWxalxQC-k/export?format=csv&gid=339476217"
-mcq_data <- read.csv(url, check.names = F)
-mcq_data[, "qid"] <- paste0(mcq_data$CaseStudy_ID, "_", mcq_data$Question_ID)
+# Load and process text data
+text_list <- readRDS("data/REPORTS FOR MANUAL EVALUATION/manual_reports.rds")
+models <- strsplit(names(text_list), "_")
+models <- unlist(lapply(models, function(x){x[[1]]}))
+case_id <- strsplit(names(text_list), "_")
+case_id <- unlist(lapply(case_id, function(x){x[[2]]}))
 
-url <- 'https://docs.google.com/spreadsheets/d/1yFDcz5VEJg4iws9exABzG9eMF46wLGS38pWxalxQC-k/export?format=csv&gid=652035055'
-case_data_raw <- read.csv(url, stringsAsFactors = FALSE, check.names = F)
-case_data <- case_data_raw
+# Calculate basic text metrics
+df <- data.frame(model=NA, case=NA, avg_sentence_length=NA, n_sentences=NA)
 
-# Read strategy data files
-strategy1 <- read.csv("data/APRIL15_MCQ_result_strategy1.csv", check.names = F)
-strategy2 <- read.csv("data/APRIL16_MCQ_result_strategy2_cleaned.csv", check.names = F)
+for(i in 1:length(text_list)){
+  txt <- unlist(text_list[[i]])
+  txt <- iconv(txt, from = "CP1252", to = "UTF-8", sub = "")
+  sentences <- purrr::map(txt, tokenizers::tokenize_sentences)
+  sentences <- purrr::map(sentences, unlist)
+  sentences <- unlist(sentences)
+  
+  avg_sentence_length <- mean(str_count(sentences, "\\S+"))
+  total_sentences <- length(sentences)
+  
+  tmp_df <- data.frame(model=models[i], case=case_id[i], 
+                       avg_sentence_length=avg_sentence_length,
+                       n_sentences=total_sentences)
+  df <- rbind(df, tmp_df)
+}
 
-# Process strategy1 data
-strategy1$Info_check <- gsub("\\.", "", strategy1$Info_check)
-strategy1$correct <- as.character(strategy1$Answer) == as.character(strategy1$Model_return)
-strategy1[, "qid"] <- paste0(strategy1$CaseStudy_ID, "_", strategy1$Question_ID)
+# Calculate word-level metrics
+df2 <- data.frame(model=NA, avg_word_length = NA, total_words = NA, 
+                  unique_tokens = NA, ttr = NA)
+for(i in 1:length(text_list)){
+  txt <- data.frame(text=unlist(text_list[[i]]))
+  tokens <- unnest_tokens(txt, output = token, input = text)
+  avg_word_length <- mean(nchar(tokens$token))
+  total_words <- nrow(tokens)
+  unique_tokens <- n_distinct(tokens$token)
+  ttr <- unique_tokens / sqrt(2*total_words)
+  
+  tmp_df <- data.frame(model=models[i], avg_word_length = avg_word_length,
+                       total_words = total_words, unique_tokens = unique_tokens, ttr = ttr)
+  df2 <- rbind(df2, tmp_df)
+}
 
-# Merge strategy1 with case data
-case_data_clean <- case_data[, !names(case_data) %in% setdiff(intersect(names(strategy1), names(case_data)), "Sample_ID")]
-strategy1_case <- merge(strategy1, case_data_clean, by = "Sample_ID", all.x = TRUE)
-mcq_data_clean <- mcq_data[, !names(mcq_data) %in% setdiff(intersect(names(strategy1_case), names(mcq_data)), "qid")]
-strategy1_full <- merge(strategy1_case, mcq_data_clean, by = "qid", all.x = TRUE)
-strategy1_full[, "report_model"] <- str_extract(strategy1_full$Report_name, "(?<=\\.)[^.]+(?:\\.[^.]+)*(?=\\.txt)")
+final_df <- cbind(df, df2[,-1])
+final_df2 <- final_df[-1,]
 
-# Process strategy2 data
-strategy2$Info_check <- gsub("\\.", "", strategy2$Info_check)
-strategy2$correct <- as.character(strategy2$Answer) == as.character(strategy2$Model_return)
-strategy2[, "qid"] <- paste0(strategy2$CaseStudy_ID, "_", strategy2$Question_ID)
+# Calculate readability metrics
+reports <- data.frame(filename = names(text_list), text = unlist(text_list))
+corp <- corpus(reports$text)
+readability_metrics <- quanteda.textstats::textstat_readability(corp, measure = c("Dale.Chall.PSK","Dale.Chall","Flesch","Flesch.PSK","Flesch.Kincaid","FOG","SMOG")) 
+readability_results <- readability_metrics %>%
+  as_tibble() %>%
+  mutate(model = reports$model, case_id = reports$case_id)
 
-# Merge strategy2 with case data
-case_data_clean <- case_data[, !names(case_data) %in% setdiff(intersect(names(strategy2), names(case_data)), "Sample_ID")]
-strategy2_case <- merge(strategy2, case_data_clean, by = "Sample_ID", all.x = TRUE)
-mcq_data_clean <- mcq_data[, !names(mcq_data) %in% setdiff(intersect(names(strategy2_case), names(mcq_data)), "qid")]
-strategy2_full <- merge(strategy2_case, mcq_data_clean, by = "qid", all.x = TRUE)
+final_df2 <- cbind(final_df2, readability_results[,-1])
 
-# Recode Information retrieval strategy labels for both datasets
-strategy1_full <- strategy1_full %>%
-  mutate(`Information retrieval strategy` = recode(`Information retrieval strategy`,
-                                                   "1. Fact-based (literal) retrieval → Remembering" = "1. Remembering",
-                                                   "2. Logical or structural comprehension → Understanding" = "2. Understanding",
-                                                   "3. Contextual use of information → Applying" = "3. Applying",
-                                                   "4. Complex synthesis and meaning extraction → Analyzing" = "4. Analyzing",
-                                                   "5. Evaluative and critical retrieval → Evaluative" = "5. Evaluating",
-                                                   "6. Real-world synthesis and knowledge expansion → Creating" = "6. Creating"
-  ))
+# Load and process manual evaluation results
+m_results <- readRDS("data/manual_eval_results.rds")
+colnames(m_results) <- tolower(colnames(m_results))
+results <- strsplit(as.character(m_results$report), " ")
+results <- lapply(results, function(x){tolower(x[[1]])})
+m_results$report <- unlist(results)
 
-strategy2_full <- strategy2_full %>%
-  mutate(`Information retrieval strategy` = recode(`Information retrieval strategy`,
-                                                   "1. Fact-based (literal) retrieval → Remembering" = "1. Remembering",
-                                                   "2. Logical or structural comprehension → Understanding" = "2. Understanding",
-                                                   "3. Contextual use of information → Applying" = "3. Applying",
-                                                   "4. Complex synthesis and meaning extraction → Analyzing" = "4. Analyzing",
-                                                   "5. Evaluative and critical retrieval → Evaluative" = "5. Evaluating",
-                                                   "6. Real-world synthesis and knowledge expansion → Creating" = "6. Creating"
-  ))
+# Clean model names
+clean_vec <- gsub("chatGPT 4o",  "chatgpt4o",  m_results$model, ignore.case = TRUE)
+clean_vec <- gsub("chatGPT o1",  "chatgpto1",  clean_vec, ignore.case = TRUE)
+clean_vec <- gsub("Claude 3\\.7", "claude",     clean_vec, ignore.case = TRUE)
+clean_vec <- gsub("Gemini 2\\.0", "gemini",     clean_vec, ignore.case = TRUE)
+m_results$model <- clean_vec
+m_results$unique_id <- paste0(m_results$model, "_", m_results$report)
 
-# Create summary data for strategy2 (baseline)
-info_check_by_case_input_question_strategy2 <- strategy2_full %>%
-  group_by(`Information retrieval strategy`, Model_name) %>%
-  summarise(percent_yes = mean(Info_check == "Yes") * 100,
-            correct = mean(correct) * 100,
-            incorrect = 100 - mean(correct),
-            .groups = "drop") %>%
-  rename(percent_yes_s2 = percent_yes, correct_s2 = correct, incorrect_s2 = incorrect)
+# Process case names and merge
+case <- final_df2$case
+case <- strsplit(case, ".txt")
+case <- lapply(case, function(x){tolower(x[[1]])})
+final_df2$case <- unlist(case)
+final_df2$unique_id <- paste0(final_df2$model, "_", final_df2$case)
 
-# Create summary data for strategy1 (report model)
-info_check_by_case_input_question_strategy1 <- strategy1_full %>%
-  group_by(`Information retrieval strategy`, report_model) %>%
-  summarise(percent_yes = mean(Info_check == "Yes") * 100,
-            correct = mean(correct) * 100,
-            incorrect = 100 - mean(correct),
-            .groups = "drop") %>%
-  rename(percent_yes_s1 = percent_yes, correct_s1 = correct, incorrect_s1 = incorrect)
-
-# Merge the summaries
-merged_info <- full_join(info_check_by_case_input_question_strategy1, info_check_by_case_input_question_strategy2,
-                         by = c("Information retrieval strategy", "report_model" = "Model_name"))
-
-# Create plot data
-plot_data <- merged_info %>%
-  select(`Information retrieval strategy`, report_model, correct_s1, correct_s2) %>%
-  pivot_longer(cols = c(correct_s1, correct_s2),
-               names_to = "source",
-               values_to = "accuracy") %>%
-  mutate(source = recode(source,
-                         correct_s1 = "Report Model",
-                         correct_s2 = "Baseline"))
-
-# Calculate percentage retention
-pct_retain <- plot_data %>%
-  pivot_wider(
-    names_from = source,
-    values_from = accuracy
-  ) %>%
-  mutate(
-    pct_retain = `Report Model` / Baseline 
-  )
-
-# Calculate average retention by information retrieval strategy for horizontal lines
-pct_retain_by_retrieval_strategy <- pct_retain %>%
-  group_by(`Information retrieval strategy`) %>%
-  summarise(
-    avg_pct_retain = mean(pct_retain, na.rm = TRUE)
-  )
-
-# Update model names
-pct_retain <- pct_retain %>%
-  mutate(report_model = recode(report_model,
-                               "claude-3-7-sonnet-20250219" = "Claude 3.7",
-                               "gemini-2.0-flash" = "Gemini 2.0",
-                               "gpt-4o" = "GPT-4o",
-                               "o1" = "o1"
-  ))
+final_df2 <- merge(final_df2, m_results, by="unique_id")
+final_df2$score <- ordered(final_df2$score, levels = c(0, 1, 2, 3, 4, 5))
 
 # Create the plot
-ggplot(pct_retain, aes(x = report_model, y = pct_retain * 100, fill = report_model)) +
-  geom_col(position = position_dodge(width = 0.75), width = 0.6) +
-  facet_grid(~ `Information retrieval strategy`) +
-  geom_text(
-    aes(label = round(pct_retain * 100, 1)),  # scale if needed
-    position = position_dodge(width = 0.75),
-    vjust = -0.5,
-    size = 3.5
-  ) +
-  labs(
-    title = "Model Accuracy Comparison: Report vs Baseline",
-    x = "Model",
-    y = "Percentage retain (%)",
-    fill = "Model"
-  ) +
-  scale_fill_manual(values = c(
-    "Claude 3.7" = "#EF6F6A",   # Claude
-    "Gemini 2.0" = "#6388B4",   # Gemini
-    "GPT-4o" = "#55AD89",       # ChatGPT 4o
-    "o1" = "#64CDCC"            # o1
-  )) +
-  theme_bw(base_size = 13) +
-  theme(axis.text.x = element_text(angle = 60, hjust = 1)) +
-  geom_hline(
-    data = pct_retain_by_retrieval_strategy,
-    aes(yintercept = avg_pct_retain * 100),
-    linetype = "dashed",
-    color = "purple",
-    size = 0.8
-  )
+# Flesch-Kincaid (Stratified by model)
+final_df2 <- final_df2 %>%
+  rename(Model = model.x)
+
+final_df2$Model <- recode(final_df2$Model,
+                          "gemini"    = "Gemini 2.0",
+                          "claude"    = "Claude 3.7",
+                          "chatgpt4o" = "GPT-4o",
+                          "chatgpto1" = "o1"
+)
 
 
+ggplot(final_df2, aes(x = score, y = Flesch.Kincaid, color = Model, group = Model)) + 
+  stat_summary(fun = mean, geom = "line", size = 0.5) +
+  stat_summary(fun = mean, geom = "point", size = 1) +
+  facet_wrap(~category) + 
+  labs(x = "\nScore", y = "Flesch-Kincaid Grade Level\n") +
+  theme(panel.background = element_blank(),
+        axis.line = element_line(color = "black"))
 
-ggsave("accuracy_by_mcq_type.pdf", width = 25, height = 12, units = "cm" )
+# ggsave("flesch_kincaid_supp.pdf" , width = 17, height  =10 , units = "cm")
+
