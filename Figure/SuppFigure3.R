@@ -84,7 +84,7 @@ df_diff <- df_diff %>%
   )
 
 # Create the plot
-ggplot(df_diff, aes(x = `Information retrieval strategy`, fill = Result)) +
+sup.fig3=ggplot(df_diff, aes(x = `Information retrieval strategy`, fill = Result)) +
   geom_bar(position = "dodge") +
   labs(
     title = "Differential Performance: One Input Type Correct (baseline)",
@@ -97,4 +97,4 @@ ggplot(df_diff, aes(x = `Information retrieval strategy`, fill = Result)) +
 
 
 
-ggsave("data_better_than_graph.pdf", width = 17, height = 8, units = "cm")
+ggsave("SuppFigure3.pdf",plot=sup.fig3, width = 17, height = 12, units = "cm")

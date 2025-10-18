@@ -72,7 +72,7 @@ combined_summary <- combined_summary %>%
 dodge <- position_dodge(width = 0.7)
 
 # Create the plot
-ggplot(combined_summary, aes(x = Model_name, y = yes_percent, fill = strategy)) +
+sup.f2=ggplot(combined_summary, aes(x = Model_name, y = yes_percent, fill = strategy)) +
   geom_bar(stat = "identity", position = dodge, width = 0.6) +
   geom_text(aes(label = yes_percent),
             position = dodge,
@@ -97,4 +97,4 @@ ggplot(combined_summary, aes(x = Model_name, y = yes_percent, fill = strategy)) 
 
 
 
-ggsave("info_coverage_baseline_report.pdf", width = 10, height = 10, units = "cm")
+ggsave("SuppFigure2.pdf",plot=sup.f2, width = 15, height = 12, units = "cm")

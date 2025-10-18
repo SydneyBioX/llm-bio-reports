@@ -45,7 +45,9 @@ reports <- tibble(
 
 # Get readability statistics
 corp <- corpus(reports$text)
-readability_metrics <- quanteda.textstats::textstat_readability(corp, measure = c("Dale.Chall.PSK", "Dale.Chall", "Flesch", "Flesch.PSK", "Flesch.Kincaid", "FOG", "SMOG")) 
+readability_metrics <- quanteda.textstats::textstat_readability(corp, 
+                                                                measure = c("Dale.Chall.PSK", "Dale.Chall", "Flesch", 
+                                                                            "Flesch.PSK", "Flesch.Kincaid", "FOG", "SMOG")) 
 readability_results <- readability_metrics %>%
   as_tibble() %>%
   mutate(model = reports$model, case_id = reports$case_id)
@@ -83,7 +85,7 @@ readability_joined <- readability_joined %>%
   ))
 
 # Create the plot
-ggplot(readability_joined, aes(x = accuracy_type, y = Dale.Chall, fill = report_model)) +
+fig.3d=ggplot(readability_joined, aes(x = accuracy_type, y = Dale.Chall, fill = report_model)) +
   geom_boxplot(outliers = FALSE) +  
   scale_fill_manual(values = c(
     "Claude 3.7" = "#EF6F6A",
@@ -103,7 +105,7 @@ ggplot(readability_joined, aes(x = accuracy_type, y = Dale.Chall, fill = report_
 
 
 
-ggsave("Dale_Chall.pdf", width = 12, height = 12 , units = "cm")
+ggsave("Figure3D.pdf",plot=fig.3d, width = 12, height = 12 , units = "cm")
 
 
 

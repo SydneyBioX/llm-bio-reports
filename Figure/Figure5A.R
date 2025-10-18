@@ -116,7 +116,7 @@ outline <- c("#55AD89", "#64CDCC", "#EF6F6A", "#6388B4")
 fill    <- alpha(outline, 0.25)
 
 
-# pdf("radar_plot.pdf", width = 7, height = 6)
+pdf("Figure5A.pdf", width = 7, height = 6)
 # Create the spider plot
 radarchart(
   radar_df[, paste0("Q", 1:7)],  
@@ -132,7 +132,7 @@ radarchart(
 legend("right", inset = 0,         
        legend = c("GPT-4o","o1","Claude 3.7","Gemini 2.0"),
        col = outline, lwd = 2, bty = "n", cex = 0.9)
-#dev.off()     
+dev.off()
 
 
 

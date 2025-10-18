@@ -120,7 +120,7 @@ pct_retain <- pct_retain %>%
   ))
 
 # Create the plot
-ggplot(pct_retain, aes(x = report_model, y = pct_retain * 100, fill = report_model)) +
+sup.fig4=ggplot(pct_retain, aes(x = report_model, y = pct_retain * 100, fill = report_model)) +
   geom_col(position = position_dodge(width = 0.75), width = 0.6) +
   facet_grid(~ `Information retrieval strategy`) +
   geom_text(
@@ -153,4 +153,4 @@ ggplot(pct_retain, aes(x = report_model, y = pct_retain * 100, fill = report_mod
 
 
 
-ggsave("accuracy_by_mcq_type.pdf", width = 25, height = 12, units = "cm" )
+ggsave("SuppFigure4.pdf",plot=sup.fig4, width = 25, height = 14, units = "cm" )

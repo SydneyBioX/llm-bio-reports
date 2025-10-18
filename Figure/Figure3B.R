@@ -106,7 +106,7 @@ pct_retain <- pct_retain %>%
   ))
 
 # Create the plot
-ggplot(pct_retain, aes(x = report_model, y = pct_retain * 100, fill = report_model)) +
+fig.3b=ggplot(pct_retain, aes(x = report_model, y = pct_retain * 100, fill = report_model)) +
   geom_col(position = position_dodge(width = 0.75), width = 0.6) +
   facet_grid(~ `Input type`) +
   geom_text(
@@ -116,7 +116,7 @@ ggplot(pct_retain, aes(x = report_model, y = pct_retain * 100, fill = report_mod
     size = 3.5
   ) +
   labs(
-    title = "Model Accuracy Comparison: Report vs Baseline",
+    # title = "Model Accuracy Comparison: Report vs Baseline",
     x = "Model",
     y = "Percentage retain (%)",
     fill = "Source"
@@ -136,9 +136,9 @@ ggplot(pct_retain, aes(x = report_model, y = pct_retain * 100, fill = report_mod
     aes(yintercept = avg_pct_retain * 100),
     linetype = "dashed",
     color = "purple",
-    size = 0.8
+    linewidth = 0.8
   )
 
 
  
-#ggsave("accuracy_by_input.pdf", width = 25, height = 12 , units = "cm")
+ggsave("Figure3B.pdf",plot=fig.3b, width = 30, height = 12 , units = "cm")

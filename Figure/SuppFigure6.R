@@ -35,7 +35,7 @@ readability_results <- readability_results %>%
   ))
 
 # Create the scatter plot
-ggplot(readability_results, aes(x = Dale.Chall, y = Flesch.Kincaid, color = model)) +
+sup.fig6=ggplot(readability_results, aes(x = Dale.Chall, y = Flesch.Kincaid, color = model)) +
   geom_point(alpha = 0.4) +
   geom_smooth(method = "lm", se = FALSE) +
   theme_minimal() +
@@ -47,4 +47,4 @@ ggplot(readability_results, aes(x = Dale.Chall, y = Flesch.Kincaid, color = mode
 
 
 
-ggsave("readability.pdf", width = 15, height = 12, units = "cm")
+ggsave("SuppFigure6.pdf", plot=sup.fig6,width = 15, height = 12, units = "cm")

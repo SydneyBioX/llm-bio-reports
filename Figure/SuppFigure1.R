@@ -67,7 +67,7 @@ p2 <- ggplot(frequency_question, aes(x = `Information retrieval strategy`,
   theme(axis.text.x = element_text(angle = 45, hjust = 1, color = "black"),
         axis.text.y = element_text(color = "black"))
 
-# Combine using patchwork
-ggpubr::ggarrange( plotlist= list(p1, p2), nrow = 1, ncol = 2)
 
-ggsave("num_case_across_input_question.pdf", width = 18, height = 8, units = "cm")
+sup.f1=ggpubr::ggarrange( plotlist= list(p1, p2), nrow = 1, ncol = 2)
+
+ggsave("SuppFigure1.pdf", plot=sup.f1,width = 18, height = 8, units = "cm")

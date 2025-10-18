@@ -97,7 +97,7 @@ acc_wide <- acc_wide %>%
   ))
 
 # Create the plot
-ggplot(acc_wide, aes(x = casestudy_type, y = pct_retain, fill = report_model)) +
+fig.3c=ggplot(acc_wide, aes(x = casestudy_type, y = pct_retain, fill = report_model)) +
   geom_col(position = position_dodge(width = 0.7), width = 0.6) +
   geom_text(
     aes(label = round(pct_retain * 100, 1)),  # Convert to %
@@ -122,7 +122,7 @@ ggplot(acc_wide, aes(x = casestudy_type, y = pct_retain, fill = report_model)) +
         panel.grid.major = element_line(size = 0.2),  # thinner major grid lines
         panel.grid.minor = element_line(size = 0.1) )
 
-# ggsave("Percentage_retain_biology_data.pdf", width = 12, height = 12 , units = "cm")
+ggsave("Figure3C.pdf",plot=fig.3c, width = 12, height = 12 , units = "cm")
 
 
 

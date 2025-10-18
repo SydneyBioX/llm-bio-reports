@@ -92,7 +92,7 @@ ggarrange(plotlist = list( factual, comprehensive, harmful, coherence ),
           ncol = 2 , nrow = 2)
 
 
-# ggsave( "Figure5.pdf" , width = 25, height = 15, units = "cm" )
+ggsave( "Figure5C.pdf" , width = 25, height = 15, units = "cm" )
  
  
  

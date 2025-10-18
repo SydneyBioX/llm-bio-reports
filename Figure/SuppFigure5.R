@@ -100,7 +100,7 @@ final_df2$Model <- recode(final_df2$Model,
 )
 
 
-ggplot(final_df2, aes(x = score, y = Flesch.Kincaid, color = Model, group = Model)) + 
+sup.fig5=ggplot(final_df2, aes(x = score, y = Flesch.Kincaid, color = Model, group = Model)) + 
   stat_summary(fun = mean, geom = "line", size = 0.5) +
   stat_summary(fun = mean, geom = "point", size = 1) +
   facet_wrap(~category) + 
@@ -108,5 +108,5 @@ ggplot(final_df2, aes(x = score, y = Flesch.Kincaid, color = Model, group = Mode
   theme(panel.background = element_blank(),
         axis.line = element_line(color = "black"))
 
-# ggsave("flesch_kincaid_supp.pdf" , width = 17, height  =10 , units = "cm")
+ggsave("SuppFigure5.pdf" , plot=sup.fig5,width = 17, height  =10 , units = "cm")
 
