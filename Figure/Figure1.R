@@ -3,6 +3,7 @@ library(ggplot2)
 library(dplyr)
 library(tidyr)
 library(ggpubr)
+library(patchwork)
  
 
 # Reports (Automated evaluation strategy)
@@ -113,7 +114,7 @@ plots <- lapply(
   function(p) p + remove_x_ticks
 )
 
-ggarrange( plotlist = plots,
+fig1b=ggarrange( plotlist = plots,
            ncol = 5 , nrow = 1,
            common.legend = T)
 
@@ -243,7 +244,7 @@ plots <- lapply(
   function(p) p + remove_x_ticks
 )
 
-ggarrange( plotlist = plots,
+fig1c=ggarrange( plotlist = plots,
            ncol = 5 , nrow = 1,
            common.legend = T)
  
@@ -251,3 +252,11 @@ ggarrange( plotlist = plots,
 
 
 
+fig.all <- fig1b / fig1c
+
+
+ggsave(
+  filename = "Figure1.pdf",
+  plot = fig.all,
+  device = "pdf",
+  width = 35, height = 18, units = "cm")
