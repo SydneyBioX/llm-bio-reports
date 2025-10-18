@@ -1,112 +1,76 @@
 # Required libraries
-library(readr)
-library(dplyr)
-library(tidyr)
-library(stringr)
-library(tidytext)
-library(quanteda)
-library(ggplot2)
+suppressPackageStartupMessages({
+  library(dplyr)
+  library(RColorBrewer)
+  library(tidyr)
+  library(patchwork)
+  library(ggplot2)
+})
 
-# Load and process text data
-text_list <- readRDS("data/REPORTS FOR MANUAL EVALUATION/manual_reports.rds")
-models <- strsplit(names(text_list), "_")
-models <- unlist(lapply(models, function(x){x[[1]]}))
-case_id <- strsplit(names(text_list), "_")
-case_id <- unlist(lapply(case_id, function(x){x[[2]]}))
-
-# Calculate basic text metrics
-df <- data.frame(model=NA, case=NA, avg_sentence_length=NA, n_sentences=NA)
-
-for(i in 1:length(text_list)){
-  txt <- unlist(text_list[[i]])
-  txt <- iconv(txt, from = "CP1252", to = "UTF-8", sub = "")
-  sentences <- purrr::map(txt, tokenizers::tokenize_sentences)
-  sentences <- purrr::map(sentences, unlist)
-  sentences <- unlist(sentences)
-  
-  avg_sentence_length <- mean(str_count(sentences, "\\S+"))
-  total_sentences <- length(sentences)
-  
-  tmp_df <- data.frame(model=models[i], case=case_id[i], 
-                       avg_sentence_length=avg_sentence_length,
-                       n_sentences=total_sentences)
-  df <- rbind(df, tmp_df)
-}
-
-# Calculate word-level metrics
-df2 <- data.frame(model=NA, avg_word_length = NA, total_words = NA, 
-                  unique_tokens = NA, ttr = NA)
-for(i in 1:length(text_list)){
-  txt <- data.frame(text=unlist(text_list[[i]]))
-  tokens <- unnest_tokens(txt, output = token, input = text)
-  avg_word_length <- mean(nchar(tokens$token))
-  total_words <- nrow(tokens)
-  unique_tokens <- n_distinct(tokens$token)
-  ttr <- unique_tokens / sqrt(2*total_words)
-  
-  tmp_df <- data.frame(model=models[i], avg_word_length = avg_word_length,
-                       total_words = total_words, unique_tokens = unique_tokens, ttr = ttr)
-  df2 <- rbind(df2, tmp_df)
-}
-
-final_df <- cbind(df, df2[,-1])
-final_df2 <- final_df[-1,]
-
-# Calculate readability metrics
-reports <- data.frame(filename = names(text_list), text = unlist(text_list))
-corp <- corpus(reports$text)
-readability_metrics <- quanteda.textstats::textstat_readability(corp, measure = c("Dale.Chall.PSK","Dale.Chall","Flesch","Flesch.PSK","Flesch.Kincaid","FOG","SMOG")) 
-readability_results <- readability_metrics %>%
-  as_tibble() %>%
-  mutate(model = reports$model, case_id = reports$case_id)
-
-final_df2 <- cbind(final_df2, readability_results[,-1])
-
-# Load and process manual evaluation results
-m_results <- readRDS("data/manual_eval_results.rds")
-colnames(m_results) <- tolower(colnames(m_results))
-results <- strsplit(as.character(m_results$report), " ")
-results <- lapply(results, function(x){tolower(x[[1]])})
-m_results$report <- unlist(results)
-
-# Clean model names
-clean_vec <- gsub("chatGPT 4o",  "chatgpt4o",  m_results$model, ignore.case = TRUE)
-clean_vec <- gsub("chatGPT o1",  "chatgpto1",  clean_vec, ignore.case = TRUE)
-clean_vec <- gsub("Claude 3\\.7", "claude",     clean_vec, ignore.case = TRUE)
-clean_vec <- gsub("Gemini 2\\.0", "gemini",     clean_vec, ignore.case = TRUE)
-m_results$model <- clean_vec
-m_results$unique_id <- paste0(m_results$model, "_", m_results$report)
-
-# Process case names and merge
-case <- final_df2$case
-case <- strsplit(case, ".txt")
-case <- lapply(case, function(x){tolower(x[[1]])})
-final_df2$case <- unlist(case)
-final_df2$unique_id <- paste0(final_df2$model, "_", final_df2$case)
-
-final_df2 <- merge(final_df2, m_results, by="unique_id")
-final_df2$score <- ordered(final_df2$score, levels = c(0, 1, 2, 3, 4, 5))
-
-# Create the plot
-# Flesch-Kincaid (Stratified by model)
-final_df2 <- final_df2 %>%
-  rename(Model = model.x)
-
-final_df2$Model <- recode(final_df2$Model,
-                          "gemini"    = "Gemini 2.0",
-                          "claude"    = "Claude 3.7",
-                          "chatgpt4o" = "GPT-4o",
-                          "chatgpto1" = "o1"
-)
+raw_data <- read.csv("./data/preprocessed_manual_eval_results.csv", row.names=1)
+raw_data$Report <- ifelse(raw_data$Report=="Annotation (Lijia)", "Classification (Lijia)", raw_data$Report)
+raw_data$What.is.your.discipline. <- factor(raw_data$What.is.your.discipline.)
+raw_data$Report <- factor(raw_data$Report)
+raw_data$Model <- factor(raw_data$Model)
+raw_data$First.name <- factor(raw_data$First.name)
+data <- raw_data[,c("Model", "Report", "Q1", "Q2", "Q3", "Q4", "Q5", "Q6", "Q7")]
+reports <- strsplit(as.character(data$Report), " ")
+reports <- unlist(lapply(reports, function(x){x[1]}))
+data$Report <- reports
 
 
-ggplot(final_df2, aes(x = score, y = Flesch.Kincaid, color = Model, group = Model)) + 
-  stat_summary(fun = mean, geom = "line", size = 0.5) +
-  stat_summary(fun = mean, geom = "point", size = 1) +
-  facet_wrap(~category) + 
-  labs(x = "\nScore", y = "Flesch-Kincaid Grade Level\n") +
-  theme(panel.background = element_blank(),
-        axis.line = element_line(color = "black"))
+df_long <- data %>%
+  pivot_longer(
+    cols      = starts_with("Q"),     
+    names_to  = "Question",
+    values_to = "Score"
+  )
 
-# ggsave("flesch_kincaid_supp.pdf" , width = 17, height  =10 , units = "cm")
 
+freq_df <- data.frame(with(df_long, table(Model, Report, Score)))
+colnames(freq_df) <- c("Model", "Report", "Score", "Frequency")
+freq_df$Category <- as.factor(freq_df$Report)
+
+
+tmp <- freq_df[freq_df$Report=="CCI",]
+tmp$Score <- factor(tmp$Score, levels=unique(tmp$Score))
+fig.cci=ggplot(tmp, aes(x = Score, y = Frequency, fill=Score)) +
+  geom_bar(stat="identity") +
+  facet_grid(~Model) +
+  labs(title="Cell-Cell Interaction (CCI) Analysis", x = "\nScore", y = "Frequency\n") +
+  scale_fill_manual(values = c("#d1d1d1","#e8cfc5", "#e3b29f", "#db8969", "#db6d42", "#d64106")) +
+  theme(panel.background=element_blank(),
+        legend.position="none",
+        axis.line=element_line(color="black"))
+
+tmp <- freq_df[freq_df$Report=="Pathway",]
+tmp$Score <- factor(tmp$Score, levels=unique(tmp$Score))
+fig.pathway=ggplot(tmp, aes(x = Score, y = Frequency, fill=Score)) +
+  geom_bar(stat="identity") +
+  facet_grid(~Model) +
+  labs(title="Pathway Analysis", x = "\nScore", y = "Frequency\n") +
+  scale_fill_manual(values = c("#d1d1d1", "#dae5eb", "#a1bccc", "#76adcc", "#4195c4", "#097bba")) +
+  theme(panel.background=element_blank(),
+        legend.position="none",
+        axis.line=element_line(color="black"))
+
+tmp <- freq_df[freq_df$Report=="Classification",]
+tmp$Score <- factor(tmp$Score, levels=unique(tmp$Score))
+fig.classification=ggplot(tmp, aes(x = Score, y = Frequency, fill=Score)) +
+  geom_bar(stat="identity") +
+  facet_grid(~Model) +
+  labs(title="Classification Analysis", x = "\nScore", y = "Frequency\n") +
+  scale_fill_manual(values = c("#d1d1d1", "#c5e3dd", "#97ded0", "#60d6bf", "#30c7a9", "#04b390")) +
+  theme(panel.background=element_blank(),
+        legend.position="none",
+        axis.line=element_line(color="black"))
+
+
+fig.all <- fig.cci / fig.pathway / fig.classification
+
+
+ggsave(
+  filename = "SuppFigure8.pdf",
+  plot = fig.all,
+  device = "pdf",
+  width = 20, height = 18, units = "cm")
