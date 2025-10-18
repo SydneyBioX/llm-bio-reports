@@ -1,8 +1,11 @@
 # Load required libraries
-library(ggplot2)
-library(dplyr)
-library(tidyr)
-library(stringr)
+suppressPackageStartupMessages({
+  library(ggplot2)
+  library(dplyr)
+  library(tidyr)
+  library(stringr)
+})
+
 
 # Read and process data
 url <- "https://docs.google.com/spreadsheets/d/1yFDcz5VEJg4iws9exABzG9eMF46wLGS38pWxalxQC-k/export?format=csv&gid=339476217"
@@ -146,19 +149,17 @@ accuracy_long$type <- recode(accuracy_long$type,
                              baseline_accuracy = "Baseline",
                              model_accuracy = "Report Model")
 
-# Set position dodge
-dodge <- position_dodge(width = 0.7)
 
 # Create the plot
-ggplot(accuracy_long, aes(x = model, y = accuracy, fill = type)) +
+fig.3a=ggplot(accuracy_long, aes(x = model, y = accuracy, fill = type)) +
   scale_fill_manual(values = c(
     "Baseline" = "#D7301F",
     "Report Model" = "#2166AC"
   )) +
   geom_bar(stat = "identity", position = dodge, width = 0.6) +
   geom_text(aes(label = round(accuracy, 2)),  # round to 2 decimal places
-            position = dodge,
-            vjust = -0.5, size = 3.5) +
+            position =  position_dodge(width = 0.7), # Set position dodge
+            vjust = -0.5,size = 3.5) +
   facet_wrap(~ Info_pair, nrow = 1) +
   labs(
     x = "LLM Model",
@@ -170,11 +171,11 @@ ggplot(accuracy_long, aes(x = model, y = accuracy, fill = type)) +
   theme(
     strip.text = element_text(size = 12, face = "bold"),
     axis.text.x = element_text(angle = 45, hjust = 1),
-    panel.grid.major = element_line(size = 0.2),  # thinner major grid lines
-    panel.grid.minor = element_line(size = 0.1)   # thinner minor grid lines
+    panel.grid.major = element_line(linewidth = 0.2),  # thinner major grid lines
+    panel.grid.minor = element_line(linewidth = 0.1)   # thinner minor grid lines
   )
 
 
 
 
-# ggsave("information_coverage_yes_no.pdf", width = 25, height = 12 , units = "cm")
+ggsave("Figure3A.pdf",plot= fig.3a,width = 32, height = 12 , units = "cm")
