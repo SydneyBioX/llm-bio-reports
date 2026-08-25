@@ -1,0 +1,150 @@
+---
+title: "Figure 1: hypothesis tests for seven LLM models"
+format: html
+editor: visual
+---
+
+```{r}
+#| label: setup
+#| message: false
+#| warning: false
+
+library(ggplot2)
+library(dplyr)
+library(tidyr)
+```
+
+# Reports (combined automated evaluation strategy)
+
+This document repeats the five automated-evaluation one-way ANOVA tests from
+`figure_1.qmd` after combining its three-model data with the four-model data
+used by `figure_1_Aug23.qmd`. The human-evaluation data are not included because
+they contain observations for only four of the seven models.
+
+```{r}
+#| label: combine-data
+
+old_case_df <- read.csv(
+  "data/token_analysis/automatic_case_level_metrics.csv",
+  row.names = 1
+)
+
+new_case_df <- read.csv(
+  "data/token_analysis/automatic_newmodel_case_level_metrics.csv",
+  row.names = 1
+)
+
+metric_names <- c(
+  "avg_word_length",
+  "total_words",
+  "unique_tokens",
+  "avg_sentence_length",
+  "total_sentences"
+)
+
+required_columns <- c("model", "case_id", metric_names)
+stopifnot(
+  all(required_columns %in% names(old_case_df)),
+  all(required_columns %in% names(new_case_df))
+)
+
+case_df <- bind_rows(
+  old_case_df %>% select(all_of(required_columns)),
+  new_case_df %>% select(all_of(required_columns))
+)
+
+model_order <- c(
+  "claude-3-7-sonnet-20250219",
+  "gemini-2.0-flash",
+  "gpt-4o",
+  "claude-opus-5",
+  "gemini-3.6-flash",
+  "gpt-5.6-sol",
+  "o1-2024-12-17"
+)
+
+stopifnot(
+  setequal(unique(case_df$model), model_order),
+  !anyDuplicated(case_df[c("model", "case_id")]),
+  !anyNA(case_df[metric_names])
+)
+
+case_df$model <- factor(case_df$model, levels = model_order)
+
+model_counts <- case_df %>% count(model, name = "n_cases")
+print(model_counts)
+stopifnot(nrow(model_counts) == 7L, length(unique(model_counts$n_cases)) == 1L)
+
+df_long <- case_df %>%
+  pivot_longer(
+    cols = all_of(metric_names),
+    names_to = "metric",
+    values_to = "value"
+  ) %>%
+  mutate(metric = factor(metric, levels = metric_names))
+
+model_colors <- c(
+  "#EF6F6A", "#6388B4", "#55AD89", "#F4A09C",
+  "#93ACCB", "#E6B655", "#64CDCC"
+)
+```
+
+The null hypothesis for each test is that the mean metric is equal across all
+seven models. The alternative is that at least one model mean differs.
+
+```{r}
+#| label: plot-function
+
+plot_metric <- function(data, y_label) {
+  ggplot(data, aes(x = model, y = value, fill = model)) +
+    geom_boxplot() +
+    scale_fill_manual(values = model_colors, drop = FALSE) +
+    labs(x = NULL, y = y_label) +
+    theme(
+      panel.background = element_blank(),
+      axis.line = element_line(color = "black"),
+      axis.text.x = element_text(angle = 45, hjust = 1),
+      legend.position = "none"
+    )
+}
+```
+
+## Average word length
+
+```{r}
+tmp <- filter(df_long, metric == "avg_word_length")
+summary(aov(value ~ model, data = tmp))
+plot_metric(tmp, "Average word length")
+```
+
+## Total words
+
+```{r}
+tmp <- filter(df_long, metric == "total_words")
+summary(aov(value ~ model, data = tmp))
+plot_metric(tmp, "Total words")
+```
+
+## Unique tokens
+
+```{r}
+tmp <- filter(df_long, metric == "unique_tokens")
+summary(aov(value ~ model, data = tmp))
+plot_metric(tmp, "Unique tokens")
+```
+
+## Average sentence length
+
+```{r}
+tmp <- filter(df_long, metric == "avg_sentence_length")
+summary(aov(value ~ model, data = tmp))
+plot_metric(tmp, "Average sentence length")
+```
+
+## Total sentences
+
+```{r}
+tmp <- filter(df_long, metric == "total_sentences")
+summary(aov(value ~ model, data = tmp))
+plot_metric(tmp, "Total sentences")
+```

@@ -34,6 +34,17 @@ readability_results <- readability_results %>%
                         "gpt-4o" = "GPT-4o"
   ))
 
+# Print average readability scores for each model
+average_readability <- readability_results %>%
+  group_by(model) %>%
+  summarise(
+    Dale.Chall = mean(Dale.Chall, na.rm = TRUE),
+    Flesch.Kincaid = mean(Flesch.Kincaid, na.rm = TRUE),
+    .groups = "drop"
+  )
+
+print(average_readability)
+
 # Create the scatter plot
 sup.fig6=ggplot(readability_results, aes(x = Dale.Chall, y = Flesch.Kincaid, color = model)) +
   geom_point(alpha = 0.4) +

@@ -1,0 +1,221 @@
+---
+title: "Figure 1"
+format: html
+editor: visual
+---
+
+```{r}
+library(ggplot2)
+library(dplyr)
+library(tidyr)
+```
+
+# Reports (Automated evaluation strategy)
+
+```{r}
+case_df <- read.csv("data/token_analysis/automatic_case_level_metrics.csv", row.names=1)
+
+model_df <- read.csv("data/token_analysis/automatic_summary_metrics_by_model.csv", row.names=1)
+
+```
+
+```{r}
+df_long <- case_df %>%                    
+  pivot_longer(
+    cols = c(-model, -case_id),                    
+    names_to  = "metric",             
+    values_to = "value"               
+  )
+df_long <- df_long[!(df_long$metric=="ttr"),]
+df_long$metric <- factor(df_long$metric, levels=c("avg_word_length", "total_words", "unique_tokens", "avg_sentence_length", "total_sentences"))
+model_colors <- c("#EF6F6A", "#6388B4", "#55AD89")
+```
+
+## avg_word_length
+
+```{r}
+tmp <- df_long[df_long$metric == "avg_word_length",]
+summary(aov(value~model, data=tmp))
+
+ggplot(tmp, aes(x=model, y=value, fill=model)) + 
+  geom_boxplot() +
+  scale_fill_manual(values=model_colors) +
+  theme(panel.background=element_blank(),
+        axis.line=element_line(color="black"),
+        axis.text.x=element_text(angle=45, hjust=1)) +
+  labs(y="avg_word_length")
+#ggsave("/verona/nobackup/dkim/projects/proj_llm/plots/fig1_auto_avg_word_length.pdf", width=5, height=5)
+```
+
+## total_words
+
+```{r}
+tmp <- df_long[df_long$metric == "total_words",]
+summary(aov(value~model, data=tmp))
+
+ggplot(tmp, aes(x=model, y=value, fill=model)) + 
+  geom_boxplot() +
+  scale_fill_manual(values=model_colors) +
+  theme(panel.background=element_blank(),
+        axis.line=element_line(color="black"),
+        axis.text.x=element_text(angle=45, hjust=1)) +
+  labs(y="total_words")
+#ggsave("/verona/nobackup/dkim/projects/proj_llm/plots/fig1_auto_total_words.pdf", width=5, height=5)
+```
+
+## unique_tokens
+
+```{r}
+tmp <- df_long[df_long$metric == "unique_tokens",]
+summary(aov(value~model, data=tmp))
+
+ggplot(tmp, aes(x=model, y=value, fill=model)) + 
+  geom_boxplot() +
+  scale_fill_manual(values=model_colors) +
+  theme(panel.background=element_blank(),
+        axis.line=element_line(color="black"),
+        axis.text.x=element_text(angle=45, hjust=1)) +
+  labs(y="unique_tokens")
+#ggsave("/verona/nobackup/dkim/projects/proj_llm/plots/fig1_auto_unique_tokens.pdf", width=5, height=5)
+```
+
+## avg_sentence_length
+
+```{r}
+tmp <- df_long[df_long$metric == "avg_sentence_length",]
+summary(aov(value~model, data=tmp))
+
+ggplot(tmp, aes(x=model, y=value, fill=model)) + 
+  geom_boxplot() +
+  scale_fill_manual(values=model_colors) +
+  theme(panel.background=element_blank(),
+        axis.line=element_line(color="black"),
+        axis.text.x=element_text(angle=45, hjust=1)) +
+  labs(y="avg_sentence_length")
+#ggsave("/verona/nobackup/dkim/projects/proj_llm/plots/fig1_auto_avg_sentence_length.pdf", width=5, height=5)
+```
+
+## total_sentences
+
+```{r}
+tmp <- df_long[df_long$metric == "total_sentences",]
+summary(aov(value~model, data=tmp))
+
+ggplot(tmp, aes(x=model, y=value, fill=model)) + 
+  geom_boxplot() +
+  scale_fill_manual(values=model_colors) +
+  theme(panel.background=element_blank(),
+        axis.line=element_line(color="black"),
+        axis.text.x=element_text(angle=45, hjust=1)) +
+  labs(y="total_sentences")
+#ggsave("/verona/nobackup/dkim/projects/proj_llm/plots/fig1_auto_total_sentences.pdf", width=5, height=5)
+```
+
+# Reports (Human evaluation strategy)
+
+```{r}
+human <- readRDS("data/token_analysis/human_summary_metrics.rds")
+
+human <- human[,colnames(human) %in% c("model.x", 
+                                       "avg_sentence_length",
+                                       "n_sentences",
+                                       "avg_word_length",
+                                       "total_words",
+                                       "unique_tokens")]
+
+model_colors <- c("#EF6F6A", "#6388B4", "#55AD89", "#64CDCC")
+df_long <- human %>%                    
+  pivot_longer(
+    cols = -model.x,                    
+    names_to  = "metric",             
+    values_to = "value"               
+  )
+df_long <- df_long[!duplicated(df_long),]
+df_long$metric <- factor(df_long$metric, levels=c("avg_word_length", "total_words", "unique_tokens", "avg_sentence_length", "n_sentences"))
+df_long$model.x <- factor(df_long$model.x, levels=c("claude", "gemini", "chatgpt4o", "chatgpto1"))
+```
+
+## avg_word_length
+
+```{r}
+tmp <- df_long[df_long$metric=="avg_word_length",]
+summary(aov(value~model.x, data=tmp))
+
+ggplot(tmp, aes(x = model.x, y = value, color = model.x)) +
+  scale_color_manual(values=model_colors) +
+  geom_point(size = 5) +          # individual points
+  stat_summary(fun = mean, geom = "crossbar", width = 0.3, size=1.2, 
+               color = "black", fatten = 1.5) +                # mean bar
+  labs(y = "avg_word_length") +
+  theme(panel.background = element_blank(),
+        axis.line = element_line(color = "black"))
+#ggsave("/verona/nobackup/dkim/projects/proj_llm/plots/fig1_human_avg_word_length.pdf", width=5, height=6)
+```
+
+## total_words
+
+```{r}
+tmp <- df_long[df_long$metric=="total_words",]
+summary(aov(value~model.x, data=tmp))
+
+ggplot(tmp, aes(x = model.x, y = value, color = model.x)) +
+  scale_color_manual(values=model_colors) +
+  geom_point(size = 5) +          # individual points
+  stat_summary(fun = mean, geom = "crossbar", width = 0.3, size=1.2, 
+               color = "black", fatten = 1.5) +                # mean bar
+  labs(y = "total_words") +
+  theme(panel.background = element_blank(),
+        axis.line = element_line(color = "black"))
+#ggsave("/verona/nobackup/dkim/projects/proj_llm/plots/fig1_human_total_words.pdf", width=5, height=5)
+```
+
+## unique_tokens
+
+```{r}
+tmp <- df_long[df_long$metric=="unique_tokens",]
+summary(aov(value~model.x, data=tmp))
+
+ggplot(tmp, aes(x = model.x, y = value, color = model.x)) +
+  scale_color_manual(values=model_colors) +
+  geom_point(size = 5) +          # individual points
+  stat_summary(fun = mean, geom = "crossbar", width = 0.3, size=1.2, 
+               color = "black", fatten = 1.5) +                # mean bar
+  labs(y = "unique_tokens") +
+  theme(panel.background = element_blank(),
+        axis.line = element_line(color = "black"))
+#ggsave("/verona/nobackup/dkim/projects/proj_llm/plots/fig1_human_unique_tokens.pdf", width=5, height=5)
+```
+
+## avg_sentence_length
+
+```{r}
+tmp <- df_long[df_long$metric=="avg_sentence_length",]
+summary(aov(value~model.x, data=tmp))
+
+ggplot(tmp, aes(x = model.x, y = value, color = model.x)) +
+  scale_color_manual(values=model_colors) +
+  geom_point(size = 5) +          # individual points
+  stat_summary(fun = mean, geom = "crossbar", width = 0.3, size=1.2, 
+               color = "black", fatten = 1.5) +                # mean bar
+  labs(y = "avg_sentence_length") +
+  theme(panel.background = element_blank(),
+        axis.line = element_line(color = "black"))
+#ggsave("/verona/nobackup/dkim/projects/proj_llm/plots/fig1_human_avg_sentence_length.pdf", width=5, height=5)
+```
+
+## n_sentences
+
+```{r}
+tmp <- df_long[df_long$metric=="n_sentences",]
+summary(aov(value~model.x, data=tmp))
+
+ggplot(tmp, aes(x = model.x, y = value, color = model.x)) +
+  scale_color_manual(values=model_colors) +
+  geom_point(size = 5) +          # individual points
+  stat_summary(fun = mean, geom = "crossbar", width = 0.3, size=1.2, 
+               color = "black", fatten = 1.5) +                # mean bar
+  labs(y = "n_sentences") +
+  theme(panel.background = element_blank(),
+        axis.line = element_line(color = "black"))
+#ggsave("/verona/nobackup/dkim/projects/proj_llm/plots/fig1_human_n_sentences.pdf", width=5, height=5)
+```
