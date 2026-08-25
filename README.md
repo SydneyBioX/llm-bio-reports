@@ -1,6 +1,8 @@
 # Large Language Models for Accessible Reporting of Bioinformatics Analyses in Interdisciplinary Contexts
 
+<!--
 **Authors:** Lijia Yu, Daniel Kim, Yue Cao, Matthew Wei Shun Shu, Maya Shen, Xiaoqi Liang, Jasmine Gu, Rojashree Jayakumar, Wenze Ding, Fei Yang, Xumou Zhang, Jinman Kim, Pengyi Yang, and Jean Yee Hwa Yang
+-->
 
 ## Overview
 
