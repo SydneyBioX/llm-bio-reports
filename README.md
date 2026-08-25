@@ -1,11 +1,10 @@
-# Large Language Models for Accessible Reporting of Bioinformatics Analyses in Interdisciplinary Contexts <a href="https://github.com/SydneyBioX/llm-bio-reports"><img src="https://i.imgur.com/c2EsglI.png" title="BioLLM report hex sticker" align="right" height="138" /></a>
-
+# Large Language Models for Accessible Reporting of Bioinformatics Analyses in Interdisciplinary Contexts 
 
 <!--
 **Authors:** Lijia Yu, Daniel Kim, Yue Cao, Matthew Wei Shun Shu, Maya Shen, Xiaoqi Liang, Jasmine Gu, Rojashree Jayakumar, Wenze Ding, Fei Yang, Xumou Zhang, Jinman Kim, Pengyi Yang, and Jean Yee Hwa Yang
 -->
 
-## Overview
+## Overview <a href="https://github.com/SydneyBioX/llm-bio-reports"><img src="https://i.imgur.com/c2EsglI.png" title="BioLLM report hex sticker" align="right" height="138" /></a>
 
 This repository accompanies the manuscript *Large Language Models for Accessible Reporting of Bioinformatics Analyses in Interdisciplinary Contexts*. It contains the case studies, evaluation materials, model-generated reports, analysis code, and figure-generation resources used in the study.
 
